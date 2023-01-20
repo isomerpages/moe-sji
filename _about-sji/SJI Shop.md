@@ -11,7 +11,7 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 #### Catalogue
 
-• **Books**
+##### • **Books**
 
 1.  **[For Others](/about-sji/sji-shop#_ptoh_81484)**
 2.  **[Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership](/about-sji/sji-shop#_ptoh_81485)**  
@@ -24,11 +24,9 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 •&nbsp;[**SJI Merchandise**](/about-sji/sji-shop#_ptoh_76858)
 
-  
+***
 
-* * *
-
-#### • For Others
+##### • For Others
 
 ![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)**Synopsis**
 
