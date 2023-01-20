@@ -53,9 +53,7 @@ Designed and produced by World Scientific Publishing Co
 (ISBN: 978-981-3231-02-3) | SGD$26 | [**Order online from World Scientific**](https://www.worldscientific.com/worldscibooks/10.1142/10735) |
 
   
-
-• Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership
----------------------------------------------------------------------
+<h4 id="_ptoh_81485">• Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership</h4>
 
 ![bookcover-LasallianPathfinders.png](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/bookcover-LasallianPathfinders.png)
 
