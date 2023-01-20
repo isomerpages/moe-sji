@@ -68,8 +68,8 @@ Price:&nbsp;**SGD$32**
   
 To purchase the electronic version of this book, you may order online from&nbsp;[**World Scientific**](http://www.worldscientific.com/worldscibooks/10.1142/9225)
 
-• Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love
---------------------------------------------------------------------------------------
+
+<h4 id="_ptoh_81486">• Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love</h4>
 
 ![Lead yr Life- book info STP.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/Lead%20yr%20Life-%20book%20info%20STP.jpg)
 
