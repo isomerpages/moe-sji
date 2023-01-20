@@ -28,7 +28,9 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 ##### • For Others
 
-![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)**Synopsis**
+![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)
+
+**Synopsis**
 
 In 1852, six Brothers of the Christian Schools, following in the tradition of their founder St. John Baptist de La Salle, gave up all they had and travelled to the Far East to bring education to the poor. They landed in Singapore and established the second school of the La Salle Brothers in this region. Their unparalleled approach to education saw an astronomical rise in student numbers and reputation. For years, St. Joseph's Institution has been an icon of Singapore's history, grooming many of its leaders.
 
