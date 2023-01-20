@@ -9,10 +9,9 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 **Items are available for sale at the&nbsp;[SJI bookshop](https://www.sji.edu.sg/contact#_ptoh_92827). (Operating hours during school term: Mondays - Fridays, 8:30am - 3pm.&nbsp;[Closed on public and school holidays](https://www.sji.edu.sg/community/students/terms-n-holidays).)**
 
-Catalogue
----------
+#### Catalogue
 
-### • Books
+• **Books**
 
 1.  **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**
 2.  **[Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81485)**  
