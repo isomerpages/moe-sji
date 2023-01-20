@@ -26,7 +26,7 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 ***
 
-##### • For Others
+<h4 id="_ptoh_81484">• For Others</h4>
 
 ![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)
 
