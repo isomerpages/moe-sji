@@ -2,4 +2,5 @@ collections:
   about-sji:
     output: true
     order:
+      - SJI Shop.md
       - About SJI.md
