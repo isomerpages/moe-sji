@@ -1,4 +1,5 @@
 collections:
   about-sji:
     output: true
-    order: []
+    order:
+      - About SJI.md
