@@ -7,22 +7,22 @@ The&nbsp;**SJI Shop**&nbsp;is headed by the Corporate Communications Department 
 
 Profits from the sales of the merchandise are used to fund various initiatives to benefit Josephians.
 
-**Items are available for sale at the&nbsp;[SJI bookshop](https://www.sji.edu.sg/contact#_ptoh_92827). (Operating hours during school term: Mondays - Fridays, 8:30am - 3pm.&nbsp;[Closed on public and school holidays](https://www.sji.edu.sg/community/students/terms-n-holidays).)**
+**Items are available for sale at the&nbsp;[SJI bookshop](/contact#_ptoh_92827). (Operating hours during school term: Mondays - Fridays, 8:30am - 3pm.&nbsp;[Closed on public and school holidays](/community/students/terms-n-holidays).)**
 
 #### Catalogue
 
 • **Books**
 
-1.  **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**
-2.  **[Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81485)**  
+1.  **[For Others](/about-sji/sji-shop#_ptoh_81484)**
+2.  **[Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership](/about-sji/sji-shop#_ptoh_81485)**  
     
-3.  **[Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81486)**  
+3.  **[Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love](/about-sji/sji-shop#_ptoh_81486)**  
     
-4.  **[Living the Mission - The SJI Story (1852-2002)](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81487)**  
+4.  **[Living the Mission - The SJI Story (1852-2002)](/about-sji/sji-shop#_ptoh_81487)**  
     
-5.  **[Men for Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81488)**
+5.  **[Men for Others](/about-sji/sji-shop#_ptoh_81488)**
 
-### •&nbsp;[**SJI Merchandise**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_76858)
+•&nbsp;[**SJI Merchandise**](/about-sji/sji-shop#_ptoh_76858)
 
   
 
