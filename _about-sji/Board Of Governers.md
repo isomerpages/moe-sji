@@ -56,3 +56,28 @@ description: ""
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos" colspan="5">Appointees of Brother Visitor for the Brothers of the Christian Schools</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Lau%20Kam%20Yuen.jpg" alt="Lau Kam Yuen.jpg" width="110" height="150"><br><br><span style="font-weight:bold">Mr Lau Kam Yuen</span><br><span style="color:#4C4B4B">Partner, Head of</span><br><span style="color:#4C4B4B"> Governance &amp; Risk</span><br><span style="color:#4C4B4B"> Advisory Services,</span><br><span style="color:#4C4B4B"> KPMG LLP</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Leon%20Yee.jpg" alt="Leon Yee.jpg" width="120" height="150"><br><br><span style="font-weight:bold">Mr Leon Yee</span><br><span style="font-weight:bold">Kee Shian</span><br><span style="color:#4C4B4B">Lawyer </span>Chairman &amp;<br><span style="color:#4C4B4B"> Managing Director </span><br><span style="color:#4C4B4B">of Duane Morris &amp;</span><br><span style="color:#4C4B4B"> Selvam LLP</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Ms%20Tan%20Aik%20Na.jpg" alt="Image" width="110" height="150"><br><br><span style="font-weight:bold">Ms Tan Aik Na</span><br><span style="color:#4C4B4B">Senior Vice </span><br><span style="color:#4C4B4B">President</span><br><span style="color:#4C4B4B"> (Administration),</span><br><span style="color:#4C4B4B"> Nanyang </span><br><span style="color:#4C4B4B">Technological </span><br><span style="color:#4C4B4B">University</span><br><br></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Mrs%20Gillian%20Koh%20Tan.jpg" alt="Image" width="136" height="150"><br><br><span style="font-weight:bold">Mrs Gillian Koh Tan</span><br><span style="color:#4C4B4B">Assistant Managing </span><br><span style="color:#4C4B4B">Director</span><br><span style="color:#4C4B4B">(Development and </span><br><span style="color:#4C4B4B">International Group),</span><br><span style="color:#4C4B4B"> Monetary Authority of</span><br><span style="color:#4C4B4B"> Singapore (MAS)</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Ms%20Rosabel%20Ng.jpg" alt="Image" width="132" height="150"><br><br><span style="font-weight:bold">Ms Rosabel Ng</span><br><span style="color:#4C4B4B">Advocate &amp; Solicitor,</span><br><span style="color:#4C4B4B"> Partner &amp; Head of</span><br><span style="color:#4C4B4B"> Derivatives &amp;</span><br><span style="color:#4C4B4B"> Structured Products,</span><br><span style="color:#4C4B4B"> WongPartnership</span><br><span style="color:#4C4B4B"> LLP</span></td>
+  </tr>
+</tbody>
+</table>
