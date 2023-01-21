@@ -84,7 +84,8 @@ The years after World War II saw St Joseph’s consolidating herself and buildin
 * * *
 
   
-![milestone4 (200 x 274).jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20SJI%20Milestones/milestone4%20(200%20x%20274).jpg)
+<img src="![](/images/milestone4%20(200%20x%20274).jpeg)"  
+style="width:50%">
 
 **1977**: The school celebrated her 125th Anniversary. The highlight of the celebrations was a visit from Bro José Pablo Basterrechea, the 24th Superior General. Brother Kevin Byrne became Director one year before St Joseph’s celebrated the Tercentenary of the founding of the La Salle Brothers.
 
@@ -144,8 +145,8 @@ The years after World War II saw St Joseph’s consolidating herself and buildin
 
 * * *
 
-  
-![milestone5 (200 x 274).jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20SJI%20Milestones/milestone5%20(200%20x%20274).jpg)
+<img src="![](/images/milestone5%20(200%20x%20274).jpeg)"  
+style="width:50%">
 
 **1998**: SJI celebrated the 10th Anniversary of its refounding at Malcolm Road. Mr Benjamin Lui became the first layman to head the school since 1885.
 
