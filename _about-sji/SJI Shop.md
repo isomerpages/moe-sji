@@ -83,16 +83,12 @@ Designed and produced by World Scientific Publishing Co
 
 <img src="/images/bookcover-LasallianPathfinders.png" style="width:248px;height:360px;margin-left:15px;" align = "left">
 
-A collection of lectures on leadership from the&nbsp;[**Fullerton-SJI Leadership Lectures (Series II)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures). These talks were delivered by prominent individuals from the Lasallian family, including alumni of St Joseph's Institution such as Singapore President Tony Tan; leading jazz musician Jeremy Monteiro; KF Seetoh, founder of Makansutra; and Brother Armin Luistro, Secretary of the Department of Education of the Philippines.
+<p style="text-align: justify;">A collection of lectures on leadership from the&nbsp;<a href="/news-and-events/the-fullerton-sji-leadership-lectures"><strong>Fullerton-SJI Leadership Lectures (Series II)</strong></a>. These talks were delivered by prominent individuals from the Lasallian family, including alumni of St Joseph&#39;s Institution such as Singapore President Tony Tan; leading jazz musician Jeremy Monteiro; KF Seetoh, founder of Makansutra; and Brother Armin Luistro, Secretary of the Department of Education of the Philippines.</p>
 
-  
-ISBN 978-981-4616-18-8  
-Copyright @ St Joseph's Institution, 2015  
-Designed and produced by World Scientific Publishing Co  
-  
-Price:&nbsp;**SGD$32**  
-  
-To purchase the electronic version of this book, you may order online from&nbsp;[**World Scientific**](http://www.worldscientific.com/worldscibooks/10.1142/9225)
+<p>ISBN 978-981-4616-18-8<br>Copyright @ St Joseph&#39;s Institution, 2015<br>Designed and produced by World Scientific Publishing Co  </p>
+<p>Price:&nbsp;<strong>SGD$32</strong>  </p>
+<p>To purchase the electronic version of this book, you may order online from&nbsp;<a href="http://www.worldscientific.com/worldscibooks/10.1142/9225"><strong>World Scientific</strong></a></p>
+
 
 
 <h4 id="_ptoh_81486">• Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love</h4>
