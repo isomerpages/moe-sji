@@ -23,7 +23,7 @@ The **School Rally** is steeped in history. The music is adapted from O'Donnel
 *   [Salute To The Alma Mater](/about-sji/school-identity#Salute%20To%20The%20Alma%20Mater)
 *   [The 125th Anniversary Song](/about-sji/school-identity#The%20125th%20Anniversary%20Song)
 
-#### The School Rally
+<h4 id="The%20School%20Rally">The School Rally</h4>
 
 **Music: O’Donnell Aboo, 1597<br>
 Lyrics by Brother Marcian James Cullen (1869-1938)**
@@ -63,9 +63,8 @@ As faithful Josephians, in heaven you trust.
 
 Play Pause
 
-  
 
-#### St. Joseph's Call
+<h4 id="St.%20Joseph's%20Call">St. Joseph's Call</h4>
 
 Come the day and come the hour  
 Come the power and the glory  
@@ -107,9 +106,8 @@ We’ll heed St Joseph’s call_**
 
 Play Pause
 
-  
 
-#### Salute to the Alma Mater
+<h4 id="Salute%20To%20The%20Alma%20Mater">Salute to the Alma Mater</h4>
 
 **(Roan Cruz)**
 
@@ -125,9 +123,7 @@ Hail to thee, our Alma Mater. Hail, hail, hail!
 
 Play Pause
 
-  
-
-#### The 125th Anniversary Song
+<h4 id="The%20125th%20Anniversary%20Song">The 125th Anniversary Song</h4>
 
 **(R W Mosbergen)**
 
