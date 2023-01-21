@@ -34,23 +34,50 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 </p>
 
   
-
-
-
-  
 Copyright @ St Joseph's Institution, 2018  
 Designed and produced by World Scientific Publishing Co  
 
-| Book | Price | Where to Purchase |
-| --- | --- | --- |
-| **Softcover**  
-(ISBN: 978-981-3231-00-9) | SGD$32 | **[SJI bookshop](https://www.sji.edu.sg/contact#_ptoh_92827)**&nbsp;or&nbsp;[**Order online from World Scientific**](https://www.worldscientific.com/worldscibooks/10.1142/10735)  
- |
-| **Hardcover**  
-(ISBN: 978-981-3273-11-5) | SGD$101 | [**Order online from World Scientific**](https://www.worldscientific.com/worldscibooks/10.1142/10735) |
-| **eBook**  
-(ISBN: 978-981-3231-02-3) | SGD$26 | [**Order online from World Scientific**](https://www.worldscientific.com/worldscibooks/10.1142/10735) |
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gwbf{background-color:#F6F5F2;color:#4C4B4B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7e3j{background-color:#F6F5F2;color:#006A51;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-qk8m{background-color:#FFF;color:#4C4B4B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-02gi{background-color:#FFF;color:#006A51;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Book</th>
+    <th class="tg-pwos">Price</th>
+    <th class="tg-pwos">Where to Purchase</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gwbf">Softcover<br><span style="color:#4C4B4B">(ISBN: 978-981-3231-00-9)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">SGD$32</span></td>
+    <td class="tg-7e3j"><a href="https://www.sji.edu.sg/contact#_ptoh_92827"><span style="text-decoration:none;color:#006A51">SJI bookshop</span></a> <span style="color:#4C4B4B">or</span> <a href="https://www.worldscientific.com/worldscibooks/10.1142/10735">Order online from World Scientific</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qk8m">Hardcover<br><span style="color:#4C4B4B">(ISBN: 978-981-3273-11-5)</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">SGD$101</span></td>
+    <td class="tg-02gi"><a href="https://www.worldscientific.com/worldscibooks/10.1142/10735">Order online from World Scientific</a></td>
+  </tr>
+  <tr>
+    <td class="tg-gwbf">eBook<br><span style="color:#4C4B4B">(ISBN: 978-981-3231-02-3)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">SGD$26</span></td>
+    <td class="tg-7e3j"><a href="https://www.worldscientific.com/worldscibooks/10.1142/10735">Order online from World Scientific</a></td>
+  </tr>
+</tbody>
+</table>
   
 <h4 id="_ptoh_81485">• Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership</h4>
 
