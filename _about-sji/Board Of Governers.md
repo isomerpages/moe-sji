@@ -81,3 +81,29 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos" colspan="2">Alumni Representatives</th>
+    <th class="tg-pwos" colspan="2">Parent Representatives</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Nicholas%20Fang.jpg" alt="Image" width="117" height="150"><br><br><span style="font-weight:bold">Mr Nicholas Fang</span><br><span style="color:#4C4B4B">Businessman,</span><br><span style="color:#4C4B4B">Black Dot Pte Ltd</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Yip%20Hon%20Weng.jpg" alt="Image" width="130" height="150"><br><br><span style="font-weight:bold">Mr Yip Hon Weng</span><br><span style="color:#4C4B4B">Director, Strategic </span><br><span style="color:#4C4B4B">Development, Temasek</span><br><span style="color:#4C4B4B">Member of Parliament,</span><br><span style="color:#4C4B4B">Yio Chu Kang SMC</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Philip%20Lee.jpg" alt="Philip Lee.jpg" width="120" height="150"><br><br><span style="font-weight:bold">Mr Philip Lee Pang Kee</span><br><span style="color:#4C4B4B">Director/Architect</span><br><span style="color:#4C4B4B">SDI Architects Pte Ltd</span></td>
+    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Dr%20Gerard%20Nah.jpg" alt="Image" width="145" height="150"><br><br><span style="font-weight:bold">Dr Gerard Nah</span><br>Kwang Ming<br><span style="color:#4C4B4B">Medical Practitioner </span><br><span style="color:#4C4B4B">(Ophthalmologist)</span><br><span style="color:#4C4B4B">W Eye Clinic</span></td>
+  </tr>
+</tbody>
+</table>
