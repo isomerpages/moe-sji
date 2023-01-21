@@ -19,7 +19,7 @@ It was Reverend Father Jean-Marie Beurel, MEP who initiated the whole endeavour 
 
 **1865**: A Central Classroom Block was built under the guiding hand of Bro Lothaire but the continuing years of expansion before World War I was largely the work of Bro Michael Noctor and Rev Fr Charles Nain (the assistant parish priest at the Cathedral of the Good Shepherd and also a gifted architect).
 
-![milestone1a (600 x 291).jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20SJI%20Milestones/milestone1a%20(600%20x%20291).jpg)  
+![Milestone](/images/milestone1a%20(600%20x%20291).jpeg)
 
 Father Nain designed two very imaginative classroom blocks. He curved the new wings outwards and at each end designed a monumental doorway. The whole work was reminiscent of Bernini’s Colonnade in front of St Peter’s Basilica in Rome. The work was completed under Bro Michael in 1903.
 
@@ -49,7 +49,7 @@ Amongst the first visitors to the new building was Sir Frank Swettenham - the Go
 
 **1922**: The enrolment figure increased to 1,600.
 
-![milestone2a (600 x 346).jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20SJI%20Milestones/milestone2a%20(600%20x%20346).jpg)  
+![Milestone](/images/milestone2a%20(600%20x%20346).jpeg)
 
 * * *
 
@@ -241,4 +241,3 @@ SJI opens its heritage museum - 'Missio 1852' on 7 August 2019 ([more details he
 Mr Justin Arul Pierre succeeds Fr Adrian Danker, SJ as Principal from 1 January 2022.
 
 * * *
-
