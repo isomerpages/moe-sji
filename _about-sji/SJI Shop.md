@@ -110,6 +110,7 @@ Copyright@SJI, 2002 <br>
 Designed and produced by Editions Didier Millet Pte Ltd <br>
 Price:&nbsp;<strong>SGD$80</strong></p>		
 
+<br><br>
  
 <h4 id="_ptoh_81488">•Men for Others - a portrait of the Josephian over the years</h4>
 
