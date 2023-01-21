@@ -2,6 +2,7 @@ collections:
   about-sji:
     output: true
     order:
+      - School Identity.md
       - Give to SJI.md
       - SJI Shop.md
       - About SJI.md
