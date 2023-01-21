@@ -81,7 +81,7 @@ Designed and produced by World Scientific Publishing Co
   
 <h4 id="_ptoh_81485">• Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership</h4>
 
-<img src="![](/images/bookcover-LasallianPathfinders.png)" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/bookcover-LasallianPathfinders.png" style="width:248px;height:360px;margin-left:15px;" align = "left">
 
 A collection of lectures on leadership from the&nbsp;[**Fullerton-SJI Leadership Lectures (Series II)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures). These talks were delivered by prominent individuals from the Lasallian family, including alumni of St Joseph's Institution such as Singapore President Tony Tan; leading jazz musician Jeremy Monteiro; KF Seetoh, founder of Makansutra; and Brother Armin Luistro, Secretary of the Department of Education of the Philippines.
 
