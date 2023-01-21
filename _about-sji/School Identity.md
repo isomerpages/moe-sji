@@ -59,7 +59,8 @@ Forward with courage in ways that are just,
 True to your standard, be serving and daring,  
 As faithful Josephians, in heaven you trust.
 
-![](https://www-sji-edu-sg-admin.cwp.sg/rs/cc/icon/graphite/speaker.png)
+<img src="/images/speaker.png"  
+style="width:6%">
 
 Play Pause
 
@@ -102,7 +103,8 @@ Together standing tall
 Shoulder to shoulder  
 We’ll heed St Joseph’s call_**
 
-![](https://www-sji-edu-sg-admin.cwp.sg/rs/cc/icon/graphite/speaker.png)
+<img src="/images/speaker.png"  
+style="width:6%">
 
 Play Pause
 
@@ -119,7 +121,8 @@ We’ll fight to keep your glory bright,
 And never shall we fail.  
 Hail to thee, our Alma Mater. Hail, hail, hail!
 
-![](https://www-sji-edu-sg-admin.cwp.sg/rs/cc/icon/graphite/speaker.png)
+<img src="/images/speaker.png"  
+style="width:6%">
 
 Play Pause
 
