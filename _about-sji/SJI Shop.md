@@ -102,37 +102,25 @@ Designed and produced by World Scientific Publishing Co
 
 <h4 id="_ptoh_81487">•Living the Mission - The SJI Story (1852-2002)</h4>
 
-![Living the mission.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/Living%20the%20mission.jpg)  
+<img src="/images/Living%20the%20mission.jpeg" style="width:248px;height:360px;margin-left:15px;" align = "left">
   
-
-ISBN 981-4068-42-X
-
-Published in 2002 by SJI
-
-Copyright@SJI, 2002
-
-Designed and produced by Editions Didier Millet Pte Ltd
-
-Price:&nbsp;**SGD$80**
+<p style="text-align: justify;">ISBN 981-4068-42-X <br>
+Published in 2002 by SJI <br>
+Copyright@SJI, 2002 <br>
+Designed and produced by Editions Didier Millet Pte Ltd <br>
+Price:&nbsp;<strong>SGD$80</strong></p>		
 
  
-
 <h4 id="_ptoh_81488">•Men for Others - a portrait of the Josephian over the years</h4>
 
-![book cover_MfO_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_MfO_17feb.jpg)  
-  
+<img src="/images/book%20cover_MfO_17feb.jpeg" style="width:248px;height:360px;margin-left:15px;" align = "left">
 
-ISBN-13: 978-981-4266-19-2
-
-ISBN-10: 981-4266-19-1
-
-Copyright@SJI, 2009
-
-Published by SJI
-
-Produced by Straits Times Press
-
-Price:&nbsp;**SGD$20**
+<p style="text-align: justify;">ISBN-13: 978-981-4266-19-2 <br>
+ISBN-10: 981-4266-19-1 <br>
+Copyright@SJI, 2009 <br>
+Published by SJI <br>
+Produced by Straits Times Press <br>
+Price:&nbsp;<strong>SGD$20</strong></p>
 
   
 <h4 id="_ptoh_76858">SJI Merchandise</h4>
