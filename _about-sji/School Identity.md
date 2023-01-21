@@ -25,9 +25,8 @@ The **School Rally** is steeped in history. The music is adapted from O'Donnel
 
 #### The School Rally
 
-##### Music: O’Donnell Aboo, 1597
-
-##### Lyrics by Brother Marcian James Cullen (1869-1938)
+**Music: O’Donnell Aboo, 1597<br>
+Lyrics by Brother Marcian James Cullen (1869-1938)**
 
   
 
@@ -112,7 +111,7 @@ Play Pause
 
 #### Salute to the Alma Mater
 
-##### (Roan Cruz)
+**(Roan Cruz)**
 
   
 Hail! Hail Alma Mater. Hail to S - J - I  
@@ -130,7 +129,7 @@ Play Pause
 
 #### The 125th Anniversary Song
 
-##### (R W Mosbergen)
+**(R W Mosbergen)**
 
   
 
