@@ -64,7 +64,7 @@ Designed and produced by World Scientific Publishing Co
   <tr>
     <td class="tg-gwbf">Softcover<br><span style="color:#4C4B4B">(ISBN: 978-981-3231-00-9)</span></td>
     <td class="tg-5sss"><span style="color:#4C4B4B">SGD$32</span></td>
-    <td class="tg-7e3j"><a href="https://www.sji.edu.sg/contact#_ptoh_92827"><span style="text-decoration:none;color:#006A51">SJI bookshop</span></a> <span style="color:#4C4B4B">or</span> <a href="https://www.worldscientific.com/worldscibooks/10.1142/10735">Order online from World Scientific</a><br></td>
+    <td class="tg-7e3j"><a href="/contact#_ptoh_92827"><span style="text-decoration:none;color:#006A51">SJI bookshop</span></a> <span style="color:#4C4B4B">or</span> <a href="https://www.worldscientific.com/worldscibooks/10.1142/10735">Order online from World Scientific</a><br></td>
   </tr>
   <tr>
     <td class="tg-qk8m">Hardcover<br><span style="color:#4C4B4B">(ISBN: 978-981-3273-11-5)</span></td>
