@@ -84,7 +84,7 @@ The years after World War II saw St Joseph’s consolidating herself and buildin
 * * *
 
   
-<img src="![](/images/milestone4%20(200%20x%20274).jpeg)"  
+<img src="/images/milestone4%20(200%20x%20274).jpeg"  
 style="width:50%">
 
 **1977**: The school celebrated her 125th Anniversary. The highlight of the celebrations was a visit from Bro José Pablo Basterrechea, the 24th Superior General. Brother Kevin Byrne became Director one year before St Joseph’s celebrated the Tercentenary of the founding of the La Salle Brothers.
@@ -145,7 +145,7 @@ style="width:50%">
 
 * * *
 
-<img src="![](/images/milestone5%20(200%20x%20274).jpeg)"  
+<img src="/images/milestone5%20(200%20x%20274).jpeg"  
 style="width:50%">
 
 **1998**: SJI celebrated the 10th Anniversary of its refounding at Malcolm Road. Mr Benjamin Lui became the first layman to head the school since 1885.
@@ -207,7 +207,7 @@ In July 2014, Rev Fr (Dr.) Adrian Augustus Danker, S.J. (Class of 1981), joined 
   
 
 **2017**: SJI returned to its redeveloped campus at Malcolm Road to start the new academic year on 9 January.  
-![AerialView1.jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20SJI%20Milestones/AerialView1.jpg)  
+![Ariel View](/images/AerialView1.jpeg)
 SJI celebrated 165 years of Lasallian education in Singapore.
 
 * * *
@@ -231,13 +231,17 @@ SJI opens its heritage museum - 'Missio 1852' on 7 August 2019 ([more details he
 **2021**: The Lasallian Year of St Joseph, Patron of the Lasallian Family (8 December 2020 to 8 December 2021). The Year of St Joseph marks the 150th anniversary of the declaration of St Joseph as the Patron of the Catholic Church. In honour of the anniversary, Pope Francis declared 2021, a special year of St Joseph.
 
 **Unveiling of the SJI 170th Anniversary logo at the Thanksgiving Assembly on 29 Oct 2021**:  
-![170anniv_logotype_vector1.png](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2021/170anniv_logotype_vector1.png)The SJI 170th Anniversary logo is designed by Le Hai Long Quan (MN403, Class of 2021) where he aspires to remind Josephians of the Lasallian values of Faith, Service, and Community. Central to the design is the Star of Faith, in Latin “Signum Fidei”. The star is a symbol that guides Josephians through their successes and challenges in life, all of which is part of God’s greater plan. The statue of St John Baptist de La Salle inspires all of us who are part of the educational mission in SJI. It is a reminder of the importance of Service, to always give back to those who have less, especially the poor. A well-intended depiction of human silhouettes is illustrated as four sets of windows, representing the 4 Fraternities of Fintan, Lawrence, Michael and Marcian, which form the SJI Community, a family to which all of us belong.
+
+<img src="/images/170anniv_logotype_vector1.png"  
+style="width:60%">
+
+The SJI 170th Anniversary logo is designed by Le Hai Long Quan (MN403, Class of 2021) where he aspires to remind Josephians of the Lasallian values of Faith, Service, and Community. Central to the design is the Star of Faith, in Latin “Signum Fidei”. The star is a symbol that guides Josephians through their successes and challenges in life, all of which is part of God’s greater plan. The statue of St John Baptist de La Salle inspires all of us who are part of the educational mission in SJI. It is a reminder of the importance of Service, to always give back to those who have less, especially the poor. A well-intended depiction of human silhouettes is illustrated as four sets of windows, representing the 4 Fraternities of Fintan, Lawrence, Michael and Marcian, which form the SJI Community, a family to which all of us belong.
 
 * * *
 
   
 
-**2022**: SJI celebrates 170 years of Lasallian education in Singapore. ([more details](https://www.sji.edu.sg/news-and-events/announcements/170th-anniversary))
+**2022**: SJI celebrates 170 years of Lasallian education in Singapore. ([more details](/news-and-events/announcements/170th-anniversary))
 
 Mr Justin Arul Pierre succeeds Fr Adrian Danker, SJ as Principal from 1 January 2022.
 
