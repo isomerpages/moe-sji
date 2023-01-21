@@ -2,6 +2,7 @@ collections:
   about-sji:
     output: true
     order:
+      - The SJI Milestones.md
       - School Achievements/.keep
       - School Achievements/School Achievements.md
       - School Achievements/Co Curricular Activities (CCAs).md
