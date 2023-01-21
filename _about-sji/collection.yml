@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The De La Salle Brothers/.keep
-      - The De La Salle Brothers.md
       - Principles Of Lasallian Education.md
       - Board Of Governers.md
       - Principals.md
