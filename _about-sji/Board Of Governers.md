@@ -100,10 +100,10 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Nicholas%20Fang.jpg" alt="Image" width="117" height="150"><br><br><span style="font-weight:bold">Mr Nicholas Fang</span><br><span style="color:#4C4B4B">Businessman,</span><br><span style="color:#4C4B4B">Black Dot Pte Ltd</span></td>
-    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Yip%20Hon%20Weng.jpg" alt="Image" width="130" height="150"><br><br><span style="font-weight:bold">Mr Yip Hon Weng</span><br><span style="color:#4C4B4B">Director, Strategic </span><br><span style="color:#4C4B4B">Development, Temasek</span><br><span style="color:#4C4B4B">Member of Parliament,</span><br><span style="color:#4C4B4B">Yio Chu Kang SMC</span></td>
-    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Philip%20Lee.jpg" alt="Philip Lee.jpg" width="120" height="150"><br><br><span style="font-weight:bold">Mr Philip Lee Pang Kee</span><br><span style="color:#4C4B4B">Director/Architect</span><br><span style="color:#4C4B4B">SDI Architects Pte Ltd</span></td>
-    <td class="tg-my8k"><img src="https://www.sji.edu.sg/qql/slot/u560/About%20SJI/BOG/Dr%20Gerard%20Nah.jpg" alt="Image" width="145" height="150"><br><br><span style="font-weight:bold">Dr Gerard Nah</span><br>Kwang Ming<br><span style="color:#4C4B4B">Medical Practitioner </span><br><span style="color:#4C4B4B">(Ophthalmologist)</span><br><span style="color:#4C4B4B">W Eye Clinic</span></td>
+    <td class="tg-my8k"><img src="![](/images/Nicholas%20Fang.jpeg)" alt="Image" width="117" height="150"><br><br><span style="font-weight:bold">Mr Nicholas Fang</span><br><span style="color:#4C4B4B">Businessman,</span><br><span style="color:#4C4B4B">Black Dot Pte Ltd</span></td>
+    <td class="tg-my8k"><img src="![](/images/Yip%20Hon%20Weng.jpeg)" alt="Image" width="130" height="150"><br><br><span style="font-weight:bold">Mr Yip Hon Weng</span><br><span style="color:#4C4B4B">Director, Strategic </span><br><span style="color:#4C4B4B">Development, Temasek</span><br><span style="color:#4C4B4B">Member of Parliament,</span><br><span style="color:#4C4B4B">Yio Chu Kang SMC</span></td>
+    <td class="tg-my8k"><img src="![](/images/Philip%20Lee.jpeg)" alt="Philip Lee.jpg" width="120" height="150"><br><br><span style="font-weight:bold">Mr Philip Lee Pang Kee</span><br><span style="color:#4C4B4B">Director/Architect</span><br><span style="color:#4C4B4B">SDI Architects Pte Ltd</span></td>
+    <td class="tg-my8k"><img src="![](/images/Dr%20Gerard%20Nah.jpeg)" alt="Image" width="145" height="150"><br><br><span style="font-weight:bold">Dr Gerard Nah</span><br>Kwang Ming<br><span style="color:#4C4B4B">Medical Practitioner </span><br><span style="color:#4C4B4B">(Ophthalmologist)</span><br><span style="color:#4C4B4B">W Eye Clinic</span></td>
   </tr>
 </tbody>
 </table>
