@@ -28,7 +28,7 @@ Profits from the sales of the merchandise are used to fund various initiatives t
 
 <h4 id="_ptoh_81484">• For Others</h4>
 
-<img src="/images/10735cover.jpg" style="width:248px;height:330px;margin-left:15px;" align = "left">
+<img src="/images/10735cover.jpg" style="width:248px;height:360px;margin-left:15px;" align = "left">
 
 <p style="text-align: justify;"><strong>Synopsis</strong><br><br>In 1852, six Brothers of the Christian Schools, following in the tradition of their founder St. John Baptist de La Salle, gave up all they had and travelled to the Far East to bring education to the poor. They landed in Singapore and established the second school of the La Salle Brothers in this region. Their unparalleled approach to education saw an astronomical rise in student numbers and reputation. For years, St. Joseph's Institution has been an icon of Singapore's history, grooming many of its leaders.<br><br>An earlier book -&nbsp;<a href="/about-sji/sji-shop#_ptoh_81488"><strong>Men for Others</strong></a>&nbsp;by Warren Fernandez celebrates the first generation of post-independence leaders. In the same spirit, For Others honours some of those who have taken on the mantle of service leadership for the next generation of Singaporeans. Inspiring alumni featured in this latest SJI publication include Gerard Ee, Justice Chan Seng Onn, Teo Hock Seng, and Peter Seah. This book commemorates the 165th anniversary of the Christian Brothers in Singapore by celebrating how the mission of those first Brothers continues in the lives of the Josephians featured.
 </p>
