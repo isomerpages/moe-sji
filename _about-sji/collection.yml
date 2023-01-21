@@ -2,6 +2,7 @@ collections:
   about-sji:
     output: true
     order:
+      - School Achievements/Awards.md
       - School Achievements/School Achievements.md
       - School Achievements/.keep
       - School Identity.md
