@@ -93,19 +93,11 @@ Designed and produced by World Scientific Publishing Co
 
 <h4 id="_ptoh_81486">• Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love</h4>
 
-![Lead yr Life- book info STP.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/Lead%20yr%20Life-%20book%20info%20STP.jpg)
+<img src="/images/Lead%20yr%20Life-%20book%20info%20STP.jpeg" style="width:248px;height:360px;margin-left:15px;" align = "left">
 
-A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the&nbsp;[**Fullerton-SJI Leadership Lectures (Series I)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures).
+<p style="text-align: justify;">A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the&nbsp;<a href="/news-and-events/the-fullerton-sji-leadership-lectures"><strong>Fullerton-SJI Leadership Lectures (Series I)</strong></a>.</p>
 
-  
-
-ISBN 978-981-4342-18-6
-
-Copyright @ St Joseph's Institution, 2012
-
-Designed and produced by Straits Times Press
-
-Price:&nbsp;**SGD$50**
+<p>ISBN 978-981-4342-18-6<br>Copyright @ St Joseph&#39;s Institution, 2012<br>Designed and produced by Straits Times Press<br>Price:&nbsp;<strong>SGD$50</strong></p>
 
 
 <h4 id="_ptoh_81487">•Living the Mission - The SJI Story (1852-2002)</h4>
