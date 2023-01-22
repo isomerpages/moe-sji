@@ -28,7 +28,7 @@ Today there are **7,000 La Salle Brothers and 50,000 Lasallian teachers** work
 
 For more information about the Lasallian community, visit:
 
-#### ***   [St. John Baptist de La Salle](https://www.lasalle.org/en/lasallian-holiness/st-john-baptist-de-la-salle/)
-*   [LaSalle.org](https://www.lasalle.org/en/)
-*   [Four Fraternities of SJI](https://www.sji.edu.sg/about-sji/the-de-la-salle-brothers/four-fraternities-of-sji)
-*   [Lasallian Schools in Singapore](https://www.sji.edu.sg/about-sji/the-de-la-salle-brothers/lasallian-schools)**
+* **[St. John Baptist de La Salle](https://www.lasalle.org/en/lasallian-holiness/st-john-baptist-de-la-salle/)**
+*   **[LaSalle.org](https://www.lasalle.org/en/)**
+*   **[Four Fraternities of SJI](/about-sji/the-de-la-salle-brothers/four-fraternities-of-sji)**
+*   **[Lasallian Schools in Singapore](/about-sji/the-de-la-salle-brothers/lasallian-schools)**
