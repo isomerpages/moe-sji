@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Student Development Programmes/Leadership.md
       - Student Development Programmes/Outdoor Experience.md
       - Student Development Programmes/International Education.md
       - Student Development Programmes/Sexuality Education.md
