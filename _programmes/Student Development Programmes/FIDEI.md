@@ -26,7 +26,7 @@ Through fellowship in the context of a faith community during the 4 formative ye
 
   
 
-FIDEI takes place **every Tuesday afternoon for 1.5 hours**, and it is **timetabled as part of an afternoon curriculum for all Catholic students**.
+FIDEI takes place **<u>every Tuesday afternoon for 1.5 hours</u>**, and it is **<u>timetabled as part of an afternoon curriculum for all Catholic students</u>**.
 
   
 
