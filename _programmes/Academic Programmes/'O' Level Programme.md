@@ -57,7 +57,7 @@ While the Levels of Learning are designed with the IBDP in mind, all SJI student
 
 * * *
 
-<h4 id="ptoh45550">Level 1 Learning: Academic Foundation</h4>
+<h4 id="ptoh45550"><u>Level 1 Learning: Academic Foundation</u></h4>
 
 SJI offers a broad-based curriculum, comprising languages, humanities, sciences and mathematics, which provides a strong foundation for exploring interests and talents, and for further studies in the IBDP for the boys on the IP track, and flexibility for IBDP or ‘A’ Level for the boys in the ‘O’ Level Programme. At upper secondary level, most students offer an 8 subject combination.
 
@@ -73,7 +73,7 @@ SJI offers a broad-based curriculum, comprising languages, humanities, sciences 
     
       
 
-<h4 id="ptoh45551">Level 2 Learning: Academic Extension (Years 1 & 2 Programmes)</h4>
+<h4 id="ptoh45551"><u>Level 2 Learning: Academic Extension (Years 1 & 2 Programmes)</u></h4>
     
 Building Understanding of the World Through Inquiry & Nurturing a Sense of Wonder and Curiosity
     
