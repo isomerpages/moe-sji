@@ -4,14 +4,15 @@ permalink: /programmes/student-development-programmes/leadership/
 description: ""
 third_nav_title: Student Development Programmes
 ---
-![DOL01112 3.jpg](https://www.sji.edu.sg/qql/slot/u560/Programmes/Student%20Development%20Programmes/CCA/DOL01112%203.jpg)  
+![Leadership](/images/DOL01112%203.jpeg)
 
 In SJI, ‘LEAD’ is spelt ‘SERVE’. Students leaders are developed to know how to share their vision, enable their team members, be responsive to changes, be values-centred and always be encouraging to those who they lead and work with.
 
-![Josephians Leaders.jpg](https://www.sji.edu.sg/qql/slot/u560/Programmes/Student%20Development%20Programmes/Josephians%20Leaders.jpg)  
-![SJI Student Leadership Development Framework.png](https://www.sji.edu.sg/qql/slot/u560/Programmes/Student%20Development%20Programmes/SJI%20Student%20Leadership%20Development%20Framework.png)  
+![Josephians Leaders](/images/Josephians%20Leaders.jpeg)
 
-At SJI, we recognize that every student has the potential to lead. The school provides a wide range of opportunities and levels for our students to exercise [**leadership**](https://www.sji.edu.sg/community/students/student-leadership).
+![SJI Student Leadership Development Framework](/images/SJI%20Student%20Leadership%20Development%20Framework.png)
+
+At SJI, we recognize that every student has the potential to lead. The school provides a wide range of opportunities and levels for our students to exercise [**leadership**](/community/students/student-leadership).
 
   
 
@@ -21,10 +22,8 @@ Our students are provided with training at different levels to enable them to be
 
 Every student is expected to be an agent for the transmission of the Lasallian values of Faith, Service and Community to his fellow Josephians. SJI sees each student has the potential to be a Servant Leader. He is encouraged to serve and lead others to produce value for our school, community, society, our friends and families and ourselves. He takes a holistic approach to work, promotes a sense of community and shares power in decision-making.
 
-  
 
-DSA-Leadership Programme
-------------------------
+#### DSA-Leadership Programme
 
 St John Baptist de La Salle, the founder of the Lasallian schools, renounced his wealth and status to devote himself to setting up schools that provide the poor with access to education. He believed that with education, the poor might have lives of dignity and freedom; it gave hope and opportunity for the common good.
 
@@ -34,7 +33,7 @@ It is from this tradition that SJI has borne leaders who contribute to the commo
 
   
 
-In the same spirit, the [DSA leadership](https://www.sji.edu.sg/admission/dsa-at-sji) programme aims to raise national (civil and political) and community (civic) leaders who serve for the common good.
+In the same spirit, the [DSA leadership](/admission/dsa-at-sji) programme aims to raise national (civil and political) and community (civic) leaders who serve for the common good.
 
   
 
