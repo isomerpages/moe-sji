@@ -2,5 +2,6 @@ collections:
   ib-diploma-programme:
     output: true
     order:
+      - Student Life in SJI.md
       - Admission.md
       - Frequently Asked Questions.md
