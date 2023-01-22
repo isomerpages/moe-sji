@@ -24,12 +24,11 @@ SJI IP also emphasize developments in the cognitive and affective domains, focus
 
   
 
-Desired Student Outcomes
-------------------------
+#### Desired Student Outcomes
 
 SJI IP aims to nurture students to become persons who lead holistic, principled and meaningful lives that make a positive difference to the lives of others, through helping each student to discover and develop their unique vocation and talents. More specifically, SJI IP will nurture future leaders for Singapore who will be ‘Persons of Integrity’ and ‘Persons for Others’, with a global outlook but strongly rooted in the Singapore culture and community.
 
-### IP Learner Profile:
+##### IP Learner Profile:
 
 *   **Explorer**: Always curious and show sustained interest in their learning
 *   **Reflective**: Ability to give thoughtful consideration to their own learning and those around him
