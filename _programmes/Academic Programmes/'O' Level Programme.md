@@ -98,8 +98,21 @@ style="width:70%">
 
 The Josephian Innomakers Programme aims to provide students with the opportunities and platforms to learn through play, and through this playful learning, learn to be agents of change by innovating in service to the community. Creative Problem Solving framework and Design Thinking will be integrated into the curriculum to encourage students to Think, Make, Do and Share. Students will be introduced to the 21st-century workplace as they learn skills like coding, building robots, 3D printing, video-making and cardboard modelling. Skills and dispositions aligned with the IBDP Approaches to Learning (AtL) will be developed as the learning experiences challenge students to communicate, collaborate, self-manage, research, and think creatively as well as critically.
 
-| [Find out more](https://sites.google.com/sji.edu.sg/innomakersprogramme) |
-| --- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-pwos"><a href="https://sites.google.com/sji.edu.sg/innomakersprogramme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Find out more</span></a></td>
+  </tr>
+</thead>
+</table>
 
   
 
