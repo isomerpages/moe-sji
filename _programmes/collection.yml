@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic Programmes/.keep
       - Student Development Programmes/.keep
       - Student Development Programmes/Student Development Programmes.md
       - Student Development Programmes/Four Fraternities Of SJI.md
