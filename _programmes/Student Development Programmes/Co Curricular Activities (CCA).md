@@ -61,7 +61,33 @@ This revised scheme will award students CCA points in five categories:
 
 **Students are encouraged to specialise in one area of involvement. This will be their Core CCA. The Core CCA <u>must</u> be selected from the table shown below only and from the following categories: Sports & Games, Uniformed Groups and Performing Arts.**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xtjr{background-color:#F6F5F2;color:#4C4B4B;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Sports &amp; Games</th>
+    <th class="tg-pwos">Uniformed Groups</th>
+    <th class="tg-pwos">Performing Arts</th>
+    <th class="tg-pwos">Clubs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xtjr">1. Badminton<br>2. Basketball<br>3. Canoeing<br>4. Floorball<br>5. Football<br>6. Hockey<br>7. Judo<br>8. Rugby<br>9. Sailing<br>10. Table Tennis<br>11. Tennis<br>12. Track &amp; Field and Cross Country</td>
+    <td class="tg-xtjr">1. National Cadet Corps (Air)<br>2. National Cadet Corps (Land)<br>3. National Police Cadet Corps<br>4. St John Brigade<br>5. St Joseph’s Pelandok Scouts</td>
+    <td class="tg-xtjr">1. SJI Military Band<br>2. SJI Pipe Band<br>3. SJI Vocal Ensemble<br>4. Guitar Ensemble<br>5. Drama Club<br><span style="font-weight:bold;font-style:italic">6. Chinese Cultural Society</span><br><span style="font-weight:bold;font-style:italic">7. Indian Cultural Society</span><br><span style="font-weight:bold;font-style:italic">8. Malay Cultural Society</span></td>
+    <td class="tg-xtjr">1. Design &amp; Innovation Club *<br>2. Green Club<br><br><br><span style="color:#4C4B4B">&lt;</span>Bold<span style="color:#4C4B4B">&gt; denotes core CCA</span><br><span style="font-style:italic">&lt;italics&gt; denotes 2nd CCA</span><br><br><em>* Design and Innovation Club can only be taken as a core CCA by students admitted through DSA Innovation.</em></td>
+  </tr>
+</tbody>
+</table>
 
 ![MutienFest](/images/MutienFest.gif)
 
