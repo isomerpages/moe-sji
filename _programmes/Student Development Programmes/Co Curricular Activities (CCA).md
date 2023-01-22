@@ -95,11 +95,11 @@ This revised scheme will award students CCA points in five categories:
 
   
 
-**Intra-School Activities ([Inter-House](https://www.sji.edu.sg/programmes/student-development-programmes/four-fraternities-of-sji) & [Inter-Class](https://sites.google.com/a/sji.edu.sg/inter-class-games/home))**
+##### **Intra-School Activities ([Inter-House](/programmes/student-development-programmes/four-fraternities-of-sji) & [Inter-Class](https://sites.google.com/a/sji.edu.sg/inter-class-games/home))**
 
 Intra-school activities are an important part of our CCA programme and are vital in the development of school spirit amongst all the students.
 
-1\. Every student is expected to participate in **at least 2 of the following intra-school sporting activities**:
+1\. Every student is expected to participate in **<u>at least 2 of the following intra-school sporting activities</u>**:
 
 *   Cross Country
 *   Founder’s Day Relays
