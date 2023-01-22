@@ -1,4 +1,5 @@
 collections:
   ib-diploma-programme:
     output: true
-    order: []
+    order:
+      - Frequently Asked Questions.md
