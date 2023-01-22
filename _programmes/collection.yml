@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
+      - Academic Programmes/.keep
+      - Academic Programmes/Academic Programmes.md
       - Academic Programmes/'O' Level Programme.md
       - Academic Programmes/Integrated Programme.md
       - Academic Programmes/IB Diploma Programme.md
-      - Academic Programmes/Academic Programmes.md
-      - Academic Programmes/.keep
       - Student Development Programmes/.keep
       - Student Development Programmes/Student Development Programmes.md
       - Student Development Programmes/Four Fraternities Of SJI.md
