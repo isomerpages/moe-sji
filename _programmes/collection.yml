@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic Programmes/Integrated Programme.md
       - Academic Programmes/IB Diploma Programme.md
       - Academic Programmes/Academic Programmes.md
       - Academic Programmes/.keep
