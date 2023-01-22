@@ -16,7 +16,9 @@ They were founded in 1680 by a French priest, **[St. John Baptist de La Salle](
 
 He devoted himself to forming schoolmasters totally dedicated to the education of young people, especially the poor. He brought these teachers together in a community and subsequently founded with them the Institute of the Brothers of the Christian Schools.
 
-![delasalle.jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20De%20La%20Salle%20Brothers/delasalle.jpg)This group of men chose to be called “Brothers” instead of schoolmasters since it was their desire to be brothers to each other and older brothers to the young people they taught.
+<img src="/images/delasalle.jpeg" style="width:180px;height:240px;margin-left:15px;" align = "right">
+
+This group of men chose to be called “Brothers” instead of schoolmasters since it was their desire to be brothers to each other and older brothers to the young people they taught.
 
 Alert to the needs of his time, La Salle was an innovator in the development of teacher training programmes and in curricular and teaching practices. Very early, he recognised that the work of teachers was not merely a job or an occupation; it was a vocation, a special calling worthy of respect. God was calling them to make a positive difference in the lives of the children confided to their care. That is still their mission.
 
