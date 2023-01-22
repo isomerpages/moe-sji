@@ -39,12 +39,10 @@ SJI IP aims to nurture students to become persons who lead holistic, principled 
   
 For more information, click on the following links:
 
-### 
+*   [Levels Of Learning](/programmes/academic-programmes/integrated-programme/levels-of-learning)
 
-*   [Levels Of Learning](https://www.sji.edu.sg/programmes/academic-programmes/integrated-programme/levels-of-learning)
+*   [Pedagogy](/programmes/academic-programmes/integrated-programme/pedagogy)
 
-*   [Pedagogy](https://www.sji.edu.sg/programmes/academic-programmes/integrated-programme/pedagogy)
+*   [Assessment](/programmes/academic-programmes/integrated-programme/assessment)
 
-*   [Assessment](https://www.sji.edu.sg/programmes/academic-programmes/integrated-programme/assessment)
-
-*   [IB Diploma Programme](https://www.sji.edu.sg/programmes/academic-programmes/integrated-programme/ib-diploma-programme)
+*   [IB Diploma Programme](/programmes/academic-programmes/integrated-programme/ib-diploma-programme)
