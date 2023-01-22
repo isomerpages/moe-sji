@@ -4,9 +4,11 @@ permalink: /about-sji/the-de-la-salle-brothers/
 description: ""
 third_nav_title: The De La Salle Brothers
 ---
-![TheBrothers-1913.jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20De%20La%20Salle%20Brothers/TheBrothers-1913.jpg)  
+![The Brothers 1913](/images/TheBrothers-1913.jpeg)  
 
-![Brothers-icon.jpg](https://www.sji.edu.sg/qql/slot/u560/About%20SJI/The%20De%20La%20Salle%20Brothers/Brothers-icon.jpg)The Brothers of the Christian Schools (or _De La Salle_ brothers) were invited to Singapore to establish SJI in 1852. Except for a short break of five years, they have been here since that time.
+<img src="![](/images/Brothers-icon.jpeg)" style="width:183px;height:240px;margin-left:15px;" align = "left">
+
+The Brothers of the Christian Schools (or _De La Salle_ brothers) were invited to Singapore to establish SJI in 1852. Except for a short break of five years, they have been here since that time.
 
 They were founded in 1680 by a French priest, **[St. John Baptist de La Salle](https://www.lasalle.org/en/lasallian-holiness/st-john-baptist-de-la-salle/)**. He had been deeply moved by the way in which “the children of the artisans and the poor” were abandoned and left to themselves. He became aware, that unless something was done, many of these children would be lost to their religion and to society.
 
