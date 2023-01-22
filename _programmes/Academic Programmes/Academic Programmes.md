@@ -41,16 +41,16 @@ Also, a more broad-based education is necessary for today's innovation-driven ec
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fi2i{background-color:#008C5A;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-2fzk{background-color:#3D85C6;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-3cl2{background-color:#006A51;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qums{background-color:#008C5A;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wnxa{background-color:#3D85C6;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-3cl2"><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer">O-Level Programme (OP)</a><br><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer">(Year 1 - 4)</a></td>
-    <td class="tg-fi2i"><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer">Integrated Programme (IP)</a><br><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer">(Year 1 - 6)</a></td>
-    <td class="tg-2fzk"><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer">International Baccalaureate</a><br><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer">Diploma Programme (Year 5 - 6)</a></td>
+    <td class="tg-pwos"><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">O-Level Programme (OP)</span></a><br><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">(Year 1 - 4)</span></a></td>
+    <td class="tg-qums"><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Integrated Programme (IP)</span></a><br><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">(Year 1 - 6)</span></a></td>
+    <td class="tg-wnxa"><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">International Baccalaureate</span></a><br><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Diploma Programme (Year 5 - 6)</span></a></td>
   </tr>
 </thead>
 </table>
