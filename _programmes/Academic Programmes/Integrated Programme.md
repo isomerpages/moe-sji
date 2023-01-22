@@ -45,4 +45,4 @@ For more information, click on the following links:
 
 *   [Assessment](/programmes/academic-programmes/integrated-programme/assessment)
 
-*   [IB Diploma Programme](/programmes/academic-programmes/integrated-programme/ib-diploma-programme)
+*   [IB Diploma Programme](/programmes/academic-programmes/ib-diploma-programme) 
