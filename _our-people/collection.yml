@@ -2,5 +2,5 @@ collections:
   our-people:
     output: true
     order:
-      - Careers @ SJI.md
       - Our People.md
+      - Careers @ SJI.md
