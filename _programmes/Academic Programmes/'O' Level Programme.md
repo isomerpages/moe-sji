@@ -40,27 +40,24 @@ All Upper Secondary Boys are required to offer Humanities as one of their Humani
 
   
 
-### **Levels of Learning at SJI (Year 1 - 4)**
+##### **Levels of Learning at SJI (Year 1 - 4)**
 
   
-![LOL.PNG](https://www.sji.edu.sg/qql/slot/u560/Programmes/Cognitive%20Development%20Programmes/Levels%20of%20Learning%20circle.png)  
+![Levels of Learning in SJI](/images/Levels%20of%20Learning%20circle.png)
 
 The Levels of Learning is the core framework behind the Cognitive Development component of an SJI education. It describes the Josephian student as moving from foundational subject-based knowledge, to extending learning by adopting an inquiry-mindset motivated by interest and passion, and eventually making use of this knowledge in service to the community in authentic settings.
 
 While the Levels of Learning are designed with the IBDP in mind, all SJI students at the Lower Secondary years will have a chance to participate in all 3 Levels of Learning.
 
-*   **[Level 1 Learning: Academic Foundation](https://www.sji.edu.sg/programmes/academic-programmes/o-level-programme#ptoh45550)**
-*   **[Level 2 Learning: Academic Extension](https://www.sji.edu.sg/programmes/academic-programmes/o-level-programme#ptoh45551)**
-*   **[Level 3 Learning: Academic Application](https://www.sji.edu.sg/programmes/academic-programmes/o-level-programme#ptoh45552)**
+*   **[Level 1 Learning: Academic Foundation](/programmes/academic-programmes/o-level-programme#ptoh45550)**
+*   **[Level 2 Learning: Academic Extension](/programmes/academic-programmes/o-level-programme#ptoh45551)**
+*   **[Level 3 Learning: Academic Application](/programmes/academic-programmes/o-level-programme#ptoh45552)**
 
   
 
 * * *
 
-  
-
-Level 1 Learning: Academic Foundation
--------------------------------------
+<h4>Level 1 Learning: Academic Foundation</h4>
 
 SJI offers a broad-based curriculum, comprising languages, humanities, sciences and mathematics, which provides a strong foundation for exploring interests and talents, and for further studies in the IBDP for the boys on the IP track, and flexibility for IBDP or ‘A’ Level for the boys in the ‘O’ Level Programme. At upper secondary level, most students offer an 8 subject combination.
 
