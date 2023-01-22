@@ -28,24 +28,31 @@ For those who are considering an administrative or support career with SJI, we w
 
 We welcome candidates to join us for the following positions:
 
-• Teaching Positions
---------------------
+#### • Teaching Positions
 
-| Secondary Section | Junior College Section (IBDP) |
-| --- | --- |
-| 
-  
-
-
- | 
-
-1.  Bahasa Indonesia
-2.  Biology  
-    
-
- |
-
-  
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Secondary Section</th>
+    <th class="tg-pwos">Junior College Section (IBDP)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mku2"></td>
+    <td class="tg-mku2">1. Bahasa Indonesia<br>2. Biology</td>
+  </tr>
+</tbody>
+</table>
 
 Applicants should be university graduates with at least an honours degree in the relevant subject area and possess teacher training qualifications. Those intending to teach in the Junior College Section should preferably have experience in the IB Diploma Programme or have experience teaching at the Junior College level. For those applying for the JC section vacancies, willingness to teach in the Secondary Section and teach Theory of Knowledge (TOK) will be an advantage.
 
@@ -57,16 +64,12 @@ For some candidates, there may also be opportunities for professional growth by 
 
 Applicants should share the school’s mission of nurturing men and women of integrity and men and women for others. They have a strong passion for the development of the whole person. They should also possess an open and creative mind and be keen to try innovative approaches to learning and enjoy interacting with young people.
 
-How to Apply
-------------
+#### How to Apply
 
-Interested candidates may download a copy of the **[Application Form](https://www.sji.edu.sg/qql/slot/u560/Careers/Application_for_Appointment-v2_160919.pdf)**, and send the completed form with a recent photograph and supporting documents to:  
+Interested candidates may download a copy of the **[Application Form](/files/Application_for_Appointment-v2_160919.pdf)**, and send the completed form with a recent photograph and supporting documents to:  
 
-**HR Manager**
 
-**St Joseph’s Institution**
-
-**38 Malcolm Road, Singapore 308274**
+<p style="text-align:center;"><strong>HR Manager<br>St Joseph’s Institution<br>38 Malcolm Road, Singapore 308274</strong></p>
 
   
 
