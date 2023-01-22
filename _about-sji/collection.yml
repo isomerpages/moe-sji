@@ -2,6 +2,7 @@ collections:
   about-sji:
     output: true
     order:
+      - Mission, Vision And Values.md
       - The De La Salle Brothers/.keep
       - The De La Salle Brothers/The De La Salle Brothers.md
       - The De La Salle Brothers/Four Fraternities Of SJI.md
