@@ -57,11 +57,12 @@ While the Levels of Learning are designed with the IBDP in mind, all SJI student
 
 * * *
 
-<h4>Level 1 Learning: Academic Foundation</h4>
+<h4 id="ptoh45550">Level 1 Learning: Academic Foundation</h4>
 
 SJI offers a broad-based curriculum, comprising languages, humanities, sciences and mathematics, which provides a strong foundation for exploring interests and talents, and for further studies in the IBDP for the boys on the IP track, and flexibility for IBDP or ‘A’ Level for the boys in the ‘O’ Level Programme. At upper secondary level, most students offer an 8 subject combination.
 
-![](https://www.sji.edu.sg/qql/slot/u560/Programmes/Academic%20Programmes/AcademicFoundation-subjectcombination2022.png)  
+![Level 1 Learning: Academic Foundation](/images/AcademicFoundation-subjectcombination2022.png)  
+
 *   **Josephian Arts Programme (Visual Arts)**  
     
     JAP Visual Arts is a four-year academic programme designed for Josephians in Years 1 – 4 to encourage and enable them to develop specific skills to create art, make purposeful connections between investigation and practice, communicate and express artistic thoughts, respond to and reflect on art to be socially aware and relevant. JAP is compulsory for DSA Visual Arts students.
@@ -71,31 +72,26 @@ SJI offers a broad-based curriculum, comprising languages, humanities, sciences 
     * * *
     
       
+
+<h4 id="ptoh45551">Level 2 Learning: Academic Extension (Years 1 & 2 Programmes)</h4>
     
-    Level 2 Learning: Academic Extension (Years 1 & 2 Programmes)
-    -------------------------------------------------------------
+Building Understanding of the World Through Inquiry & Nurturing a Sense of Wonder and Curiosity
     
-    Building Understanding of the World Through Inquiry & Nurturing a Sense of Wonder and Curiosity
+![Programming a Lego Mindstorm](/images/CS%20ADM%20-%20Programming%20a%20Lego%20Mindstorm%201.jpeg)
     
-      
-    ![CS ADM - Programming a Lego Mindstorm 1.jpg](https://www.sji.edu.sg/qql/slot/u560/Programmes/Cognitive%20Development%20Programmes/CS%20ADM%20-%20Programming%20a%20Lego%20Mindstorm%201.jpg)
+*   **Academic Discovery Modules (ADM)**
     
-    *   **Academic Discovery Modules (ADM)**
-    
-    To inquire about the world or the self through a process guided by teachers. This process will get students to adopt lenses of the discipline in order to answer essential questions. As an example, this will give them opportunities to think and act like a scientist or historian.
+To inquire about the world or the self through a process guided by teachers. This process will get students to adopt lenses of the discipline in order to answer essential questions. As an example, this will give them opportunities to think and act like a scientist or historian.
     
       
       
-      
-      
-      
-    ![EL ADM Battlemania - visit to Changi Prison.jpg](https://www.sji.edu.sg/qql/slot/u560/Programmes/Cognitive%20Development%20Programmes/EL%20ADM%20Battlemania%20-%20visit%20to%20Changi%20Prison.jpg)
+ ![EL ADM Battlemania - visit to Changi Prison.jpg](https://www.sji.edu.sg/qql/slot/u560/Programmes/Cognitive%20Development%20Programmes/EL%20ADM%20Battlemania%20-%20visit%20to%20Changi%20Prison.jpg)
     
-    *   **Independent Study Modules (ISM)**
+ *   **Independent Study Modules (ISM)**
     
-    To inquire about a topic of great interest through an independent research. Students get to pose any inquiry questions (E.g. What kind of lives do celebrities lead? Why do frogs croak after rain?) which may arise in their daily lives, and go through an independent research process to answer these questions. They will then do an oral presentation in order to communicate their learning.
+ To inquire about a topic of great interest through an independent research. Students get to pose any inquiry questions (E.g. What kind of lives do celebrities lead? Why do frogs croak after rain?) which may arise in their daily lives, and go through an independent research process to answer these questions. They will then do an oral presentation in order to communicate their learning.
     
-    *   **Josephian Innomakers Programme**
+*   **Josephian Innomakers Programme**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_lnU3NMQts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
