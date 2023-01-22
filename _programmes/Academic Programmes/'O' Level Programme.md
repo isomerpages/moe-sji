@@ -125,9 +125,7 @@ The Junior Researcher Programme focuses on educating and equipping students with
 * * *
 
   
-
-Level 3 Learning: Academic Application (Years 3 & 4 Programmes)
----------------------------------------------------------------
+<h4 id="ptoh45552"><u>Level 3 Learning: Academic Application (Years 3 & 4 Programmes)</u></h4>
 
 Systematic Inquiry to Address Issues or Problems in Service to Community  
   
@@ -136,4 +134,4 @@ Systematic Inquiry to Address Issues or Problems in Service to Community
 
 In Curriculum+ we facilitate our students’ discovery of their strengths and build enduring skills through purposeful design modules. Year 3 students acquire values and dispositions of collaboration, self-directedness, risk-taking and service orientation through Project Work and the Electives. As part of the Education and Career Guidance module, the Year 4 students are exposed to traditional and non-traditional occupations through direct interactions with practitioners.
 
-![curriculum.png](https://www.sji.edu.sg/qql/slot/u560/Programmes/Academic%20Programmes/curriculum.png)
+![Curriculum](/images/curriculum.png)
