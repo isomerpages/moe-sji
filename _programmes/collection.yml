@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Profile Of A Josephian.md
       - Academic Programmes/.keep
       - Academic Programmes/Academic Programmes.md
       - Academic Programmes/'O' Level Programme.md
