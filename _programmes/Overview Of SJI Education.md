@@ -13,8 +13,7 @@ An SJI education aims to educate the **whole person**. At SJI, we focus on [nu
 
 Hence, our broad-based academic curriculum integrated with a comprehensive student development curriculum focus on providing a balanced and holistic education with a strong emphasis on [character formation and leadership development](/programmes/overview-of-sji-education#_ptoh_45537). We develop each boy according to his talent and interest, to prepare him for the real world beyond school. We not only want our students to acquire the necessary knowledge, skills and dispositions that will prepare them well for post-secondary education and the future but also to be able to live a meaningful life driven by passion in the service for others.
 
-SJI's Dual Track Education
---------------------------
+<h4 id="_ptoh_88517">SJI's Dual Track Education</h4>
 
 Respectful of each boy’s ability and development pace, with transfer possible between programmes at the end of Year 2:
 
