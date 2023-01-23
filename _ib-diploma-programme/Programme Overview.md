@@ -62,28 +62,22 @@ _\* subject to staffing resources
 2.  _WEF 2019, SJI will replace the O-Level MTL & HMTL (Higher Mother Tongue Language) examinations with school-based examinations for SJI's IP students_.
 
   
-**The IB Core:**  
+#### **The IB Core:**  
 
-*   [
-    
-    ### **Extended Essay (EE)**
-    
-    ](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme/extended-essay)The Extended Essay promotes high-level research and writing skills, intellectual discovery and creativity, and acquaints students with the independent research and writing skills expected at university. The EE journey culminates in a piece of formally presented and structured writing (3500-4000 words), in which ideas and findings are communicated in a reasoned and coherent manner, appropriate to the subject chosen.
+*   #### [**Extended Essay (EE)**](/programmes/academic-programmes/ib-diploma-programme/extended-essay)
 
-*   [
-    
-    ### **Theory of Knowledge (TOK)**
-    
-    ](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme/theory-of-knowledge)TOK plays a special role in the IB as it provides an opportunity for students to reflect on the nature of knowledge and the connections between areas of academic knowledge that they study and link it to themselves as a ‘’knower’ in a way that they can be aware of their own perspectives and those of others. The TOK course is centrally focused on developing critical thinking skills by getting students to interrogate knowledge construction processes and unpack commonly held assumptions. Students are evaluated on two final assessment tasks: at the end of Year 5, students are to create a TOK exhibition and in Year 6, complete a 1600-word essay based on a prescribed title.
+The Extended Essay promotes high-level research and writing skills, intellectual discovery and creativity, and acquaints students with the independent research and writing skills expected at university. The EE journey culminates in a piece of formally presented and structured writing (3500-4000 words), in which ideas and findings are communicated in a reasoned and coherent manner, appropriate to the subject chosen.
 
-*   [
-    
-    ### **Creativity, Activity, Service (CAS)**
-    
-    ](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme/creativity-activity-service)Students are offered a wide range of co-curricular activities that give students the opportunity to experience new challenges in sports, the arts and community service. Students can also choose to continue with their CCA from secondary school. SJI offers a rich and varied selection of activities and programmes, including the Global Education Programme (GEP) where students take responsibility to plan and implement a trip overseas as part of their service component. This is to develop their leadership skills and fuel the students’ sense of idealism and help them to become true global citizens and to see that they can become a catalyst for change.
+*   #### [**Theory of Knowledge (TOK)**](/programmes/academic-programmes/ib-diploma-programme/theory-of-knowledge)
 
-Holistic Development: The SJI Way of Life
------------------------------------------
+
+TOK plays a special role in the IB as it provides an opportunity for students to reflect on the nature of knowledge and the connections between areas of academic knowledge that they study and link it to themselves as a ‘’knower’ in a way that they can be aware of their own perspectives and those of others. The TOK course is centrally focused on developing critical thinking skills by getting students to interrogate knowledge construction processes and unpack commonly held assumptions. Students are evaluated on two final assessment tasks: at the end of Year 5, students are to create a TOK exhibition and in Year 6, complete a 1600-word essay based on a prescribed title.
+
+*   #### [**Creativity, Activity, Service (CAS)**](/programmes/academic-programmes/ib-diploma-programme/creativity-activity-service)
+
+Students are offered a wide range of co-curricular activities that give students the opportunity to experience new challenges in sports, the arts and community service. Students can also choose to continue with their CCA from secondary school. SJI offers a rich and varied selection of activities and programmes, including the Global Education Programme (GEP) where students take responsibility to plan and implement a trip overseas as part of their service component. This is to develop their leadership skills and fuel the students’ sense of idealism and help them to become true global citizens and to see that they can become a catalyst for change.
+
+#### Holistic Development: The SJI Way of Life
 
 SJI places holistic development at the heart of its approach to learning, and the CAS programme plays a key part in this. The following quote from the IB organisation (IBO) expresses our aspirations.
 
