@@ -2,6 +2,7 @@ collections:
   ib-diploma-programme:
     output: true
     order:
+      - The IB Learner Profile.md
       - The Six Academic Subject Groups.md
       - Extended Essay.md
       - Theory Of Knowledge.md
