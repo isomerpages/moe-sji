@@ -2,3 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: About SJI
     collection: about-sji
+  - title: Our People
+    collection: our-people
+  - title: Programmes
+    collection: programmes
+  - title: Admission
+    collection: admission
