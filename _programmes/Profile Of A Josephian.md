@@ -7,8 +7,7 @@ Josephians are Men and Women of Integrity and Men and Women for Others. They str
 
 ![Josephian Profile](/images/Josephian%20Profile%20(2019).png)
 
-Our Exemplary Josephians
-------------------------
+#### Our Exemplary Josephians
 
 • **[Senior Josephians | Lasallian Distinguished Service Awards | Sportsman of the Year](/community/alumni/roll-of-honour/exemplary-josephians)**  
   
