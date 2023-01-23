@@ -3,10 +3,9 @@ title: Programme Overview
 permalink: /programmes/academic-programmes/ib-diploma-programme/programme-overview/
 description: ""
 ---
-Academic: The SJI Approach
---------------------------
+#### Academic: The SJI Approach
 
-### **The IB Curriculum**
+#### **<u>The IB Curriculum</u>**
 
 SJI is an IB World School and is committed to quality education in the spirit of the [IB Diploma Programme (IBDP)](https://www.ibo.org/programmes/diploma-programme/). Recognized as the leader in international education, the IBDP cultivates the knowledge, skills and attitudes that enable students to excel in university. Through the SJI IBDP, students gain rigorous and balanced academic preparation, an ability to draw on knowledge and understanding of various cultures and histories, and the experience of learning how to think critically and apply what they have learned in different contexts and across disciplines.
 
