@@ -21,11 +21,25 @@ Respectful of each boy’s ability and development pace, with transfer possible 
 
 Click on the links below to find out more about our programmes:  
 
-| [O-Level Programme (OP)  
-(Year 1 - 4)](https://www.sji.edu.sg/programmes/academic-programmes/o-level-programme) | [Integrated Programme (IP)  
-(Year 1 - 6)](https://www.sji.edu.sg/programmes/academic-programmes/integrated-programme) | [International Baccalaureate  
-Diploma Programme (Year 5 - 6)](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme) |
-| --- | --- | --- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qums{background-color:#008C5A;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wnxa{background-color:#3D85C6;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ut12{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-ut12"><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">O-Level Programme (OP)</span></a><br><a href="/programmes/academic-programmes/o-level-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">(Year 1 - 4)</span></a></td>
+    <td class="tg-qums"><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Integrated Programme (IP)</span></a><br><a href="/programmes/academic-programmes/integrated-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">(Year 1 - 6)</span></a></td>
+    <td class="tg-wnxa"><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">International Baccalaureate</span></a><br><a href="/programmes/academic-programmes/ib-diploma-programme" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Diploma Programme (Year 5 - 6)</span></a></td>
+  </tr>
+</thead>
+</table>
 
   
 
