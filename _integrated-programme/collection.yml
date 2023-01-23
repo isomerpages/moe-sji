@@ -2,5 +2,6 @@ collections:
   integrated-programme:
     output: true
     order:
+      - Pedagogy.md
       - Assessment.md
       - IB Diploma Programme.md
