@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - School Fees & Financial Assistance.md
       - Scholarships & Awards.md
       - Admission.md
