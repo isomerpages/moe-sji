@@ -81,15 +81,13 @@ Students are offered a wide range of co-curricular activities that give students
 
 SJI places holistic development at the heart of its approach to learning, and the CAS programme plays a key part in this. The following quote from the IB organisation (IBO) expresses our aspirations.
 
-  
 
-“**_Holistic Education focuses on the fullest possible development of the person, encouraging individuals to become the very best or finest that they can be and enabling them to experience all they can from life and reach their goals. There is an emphasis on life experience and learning beyond the confines of the classroom and the formal educational environment towards education as growth, discovery and a broadening of horizons. It encourages a desire to elicit meaning and understanding and to engage with the world_**.”
-
+<p style="text-align:center;"><strong><em>Holistic Education focuses on the fullest possible development of the person, encouraging individuals to become the very best or finest that they can be and enabling them to experience all they can from life and reach their goals. There is an emphasis on life experience and learning beyond the confines of the classroom and the formal educational environment towards education as growth, discovery and a broadening of horizons. It encourages a desire to elicit meaning and understanding and to engage with the world</em>""</strong></p>
   
   
 
-**[Creativity, Action and Service (CAS)](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme/creativity-activity-service)**
---------------------------------------------------------------------------------------------------------------------------------------------------
+#### **[Creativity, Action and Service (CAS)](/programmes/academic-programmes/ib-diploma-programme/creativity-activity-service)**
+
 
 This programme develops students beyond the classroom and counterbalances the academic studies. Students are encouraged to lead and participate fully in the range of CAS activities offered.
 
@@ -107,8 +105,8 @@ With its holistic approach, CAS is designed to strengthen and extend students’
 
   
 
-[Global Education Programme (GEP)](https://www.sji.edu.sg/programmes/student-development-programmes/international-education)
-----------------------------------------------------------------------------------------------------------------------------
+#### [Global Education Programme (GEP)](/programmes/student-development-programmes/international-education)
+
 
 The Global Education Programme is an extension of the CAS programme. It is designed to provide opportunities for physical challenges, cultural engagement and community service during a 7-day trip outside Singapore. The aim is for students to acquire the knowledge base and understanding of global issues and develop skills to take action towards creating a better world. The programme embraces both SJI and IB’s vision of developing caring global citizens who will be a catalyst for change and make a difference to the world.
 
@@ -116,9 +114,8 @@ The Global Education Programme is an extension of the CAS programme. It is desig
 
 * * *
 
-Character: The SJI Difference
------------------------------
+#### Character: The SJI Difference
 
 In SJI we aspire to educate and graduate young people who have integrity and a desire to serve others. Ethics, values and character development are hallmarks of an SJI education. Thus, character education and faith formation are integral parts of the holistic education offered at SJI. Through CAS and SJI’s own Josephian Formation Journey, programme, our students are nurtured into becoming ‘Men and Women of Integrity’ and ‘Men and Women for Others’.
 
-Through the [Josephian Formation Journey](https://www.sji.edu.sg/programmes/student-development-programmes/josephian-formation-journey), our students learn to direct personal growth and develop a principled life, making socially responsible decisions for the good of society and establishing respectful friendships. They also understand society better and prepare to enter society as active participants and contributors.
+Through the [Josephian Formation Journey](/programmes/student-development-programmes/josephian-formation-journey), our students learn to direct personal growth and develop a principled life, making socially responsible decisions for the good of society and establishing respectful friendships. They also understand society better and prepare to enter society as active participants and contributors.
