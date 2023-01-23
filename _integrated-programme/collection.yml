@@ -1,4 +1,5 @@
 collections:
   integrated-programme:
     output: true
-    order: []
+    order:
+      - IB Diploma Programme.md
