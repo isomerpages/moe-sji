@@ -183,81 +183,135 @@ The content of the MAA SL course will be a subset of the MAA HL course. However,
 
 The assessment of the respective MAA courses comprises external assessment in the form of written examination papers (80%) which will involve some questions common to the HL and SL courses, and a coursework component (20%) called the Internal Assessment (IA). The final assessment of the Internal Assessment is slightly different for each course. However, the Internal Assessment process for students in both courses will include an extended period of mathematical exploration involving mathematical investigation or mathematical modelling in an area of a student’s own interest. During lessons, students will be provided with a toolkit of skills required to tackle the IA in mathematics effectively. An overview of the assessment components of each MAA course is given below:
 
-| Assessment Component | MAA HL | % Weighting | MAA SL | % Weighting |
-| --- | --- | --- | --- | --- |
-| 
-**Paper 1**  
-Non calculator;  
-short questions and long questions.
-
- | 2 hrs  
-(110 marks) | 30 | 1.5 hrs  
-(80 marks) | 40 |
-| **Paper 2**  
-Graphical calculator permitted;  
-short questions and long questions. | 2 hrs  
-(110 marks) | 30 | 1.5 hrs  
-(80 marks) | 40 |
-| **Paper 3**  
-Graphical calculator required with the use of other technological tools to possibly be permitted;  
-Two open-ended problem-solving questions from across the MAA HL syllabus. | 1 hr  
-(55 marks) | 20 | n/a | n/a |
-| **Mathematical IA**  
-Investigative, problem solving and modelling skills development leading to one written exploration. | 30 hrs | 20 | 30 hrs | 20 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gy1k{background-color:#FFF;color:#4C4B4B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xtjr{background-color:#F6F5F2;color:#4C4B4B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Assessment Component</th>
+    <th class="tg-pwos">MAA HL</th>
+    <th class="tg-pwos">% Weighting</th>
+    <th class="tg-pwos">MAA SL</th>
+    <th class="tg-pwos">% Weighting</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xtjr"><span style="text-decoration:underline">Paper 1</span><br><span style="font-weight:bold;color:#4C4B4B">Non calculator;</span><br><span style="font-weight:bold;color:#4C4B4B">short questions and long questions.</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2 hrs</span><br><span style="color:#4C4B4B">(110 marks)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">30</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1.5 hrs</span><br><span style="color:#4C4B4B">(80 marks)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">40</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gy1k"><span style="text-decoration:underline">Paper 2</span><br><span style="color:#4C4B4B">Graphical calculator permitted;</span><br><span style="color:#4C4B4B">short questions and long questions.</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2 hrs</span><br><span style="color:#4C4B4B">(110 marks)</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">30</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1.5 hrs</span><br><span style="color:#4C4B4B">(80 marks)</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">40</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xtjr"><span style="text-decoration:underline">Paper 3</span><br><span style="color:#4C4B4B">Graphical calculator required with the use of other </span><br><span style="color:#4C4B4B">technological tools to possibly be permitted;</span><br><span style="color:#4C4B4B">Two open-ended problem-solving questions from </span><br><span style="color:#4C4B4B">across the MAA HL syllabus.</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1 hr</span><br><span style="color:#4C4B4B">(55 marks)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">20</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">n/a</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">n/a</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gy1k"><span style="text-decoration:underline">Mathematical IA</span><br><span style="color:#4C4B4B">Investigative, problem solving and modelling skills </span><br><span style="color:#4C4B4B">development leading to one written exploration.</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">30 hrs</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">20</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">30 hrs</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">20</span></td>
+  </tr>
+</tbody>
+</table>
 
   
 
-### **a) MAA Mathematics HL**
+##### **a) MAA Mathematics HL**
 
 This course caters for students who are competent in a range of analytical and technical skills in the subject including having strong algebraic skills and the ability to understand simple mathematical proof. They will be students who have a strong interest in mathematics who enjoy spending time with problems and get pleasure and satisfaction from solving challenging problems. The majority of these students will be expecting to include mathematics as a major component of their university studies, either as a subject in its own right or within courses such as physics, engineering and possibly economics.
 
-### **b) MAA Mathematics SL**
+##### **b) MAA Mathematics SL**
 
 This course caters for students who already possess knowledge of basic mathematical concepts, and who are equipped with the skills needed to apply simple mathematical techniques correctly. The majority of these students will expect to develop a sound mathematical background and ability to apply or interpret mathematics effectively in practical contexts as they prepare for future studies in subjects such as medicine, chemistry, the physical sciences, psychology and business administration.
 
 * * *
 
   
+#### Group 6: The Arts (or Elective)
 
-Group 6: The Arts (or Elective)
--------------------------------
-
-### **a) Visual Arts**
+##### **a) Visual Arts**
 
 The Diploma Programme visual arts course enables students to engage in both practical exploration and artistic production, and in independent contextual, visual and critical investigation. The course is designed to enable students to study visual arts in higher education and also welcomes those students who seek life enrichment through visual arts.
 
 Quality work in visual arts can be produced by students at both HL and SL. The aims and assessment objectives are the same for visual arts students at both HL and SL. Through a variety of teaching approaches, all students are encouraged to develop their creative and critical abilities and to enhance their knowledge, appreciation and enjoyment of visual arts.
 
-| Assessment Tasks | Weighting |
-| --- | --- |
-| Part 1: Comparative study | 20%  
-HL (18 screens)  
-SL (15 screens) |
-| Part 2: Process portfolio | 40%  
-HL (25 screens)  
-SL (18 screens) |
-| Part 3: Exhibition (Internal Assessment) | 40%  
-HL (8-11 works)  
-SL (4-7 works) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ryqi{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Assessment Tasks</th>
+    <th class="tg-pwos">Weighting</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Part 1: Comparative study</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">20%</span><br><span style="color:#4C4B4B">HL (18 screens)</span><br><span style="color:#4C4B4B">SL (15 screens)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Part 2: Process portfolio</span></td>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">40%</span><br><span style="color:#4C4B4B">HL (25 screens)</span><br><span style="color:#4C4B4B">SL (18 screens)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Part 3: Exhibition (Internal Assessment)</span></td>
+    <td class="tg-5sss"><span style="color:#4C4B4B">40%</span><br><span style="color:#4C4B4B">HL (8-11 works)</span><br><span style="color:#4C4B4B">SL (4-7 works)</span></td>
+  </tr>
+</tbody>
+</table>
 
   
-
-Previous Knowledge
+<u>Previous Knowledge</u>
 
 The Visual Arts course is designed to offer students the opportunity to build on prior experience while encouraging them to develop and use new skills, techniques and ideas. While it is possible to take the course without previous experience, this is helpful, particularly at HL option A (HLA).
 
   
 
-### **b) Music**
+##### **b) Music**
 
 The Diploma Programme music course provides an appropriate foundation for further study in music at the university level or in music career pathways, and also provides all students with the opportunity to engage in the world of music as lifelong participants. All students will engage in exploring and experimenting with music in and of varied contexts. Through practical engagement in musical activities as researchers, performers and creators, students learn to communicate critical and artistic intentions and purpose.
 
 HL students offer an additional collaborative project component based on real-life practices of music-making where they take up musical leadership to plan, and collaboratively realise.
 
-Previous Knowledge
+<u>Previous Knowledge</u>
 
 While prior music experience is not mandatory at SL, it is recommended.
 
 Prior music experience is very strongly recommended at HL.
 
 The annual Year 6 Grad Show presents the works by the visual art and music students from the graduating IBDP class. Their artistic works and original compositions were presented to the SJI community in the Bunker. This video showcases the creative works as explained by the student artists from Class of 2022:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkmCn14P5Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
