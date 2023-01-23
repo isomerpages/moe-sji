@@ -10,6 +10,6 @@ Josephians are Men and Women of Integrity and Men and Women for Others. They str
 Our Exemplary Josephians
 ------------------------
 
-• **[Senior Josephians | Lasallian Distinguished Service Awards | Sportsman of the Year](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians)**  
+• **[Senior Josephians | Lasallian Distinguished Service Awards | Sportsman of the Year](/community/alumni/roll-of-honour/exemplary-josephians)**  
   
-• Hear what our Josephians have to share about their SJI stories at [**My SJI Story**](https://www.sji.edu.sg/my-sji-story)
+• Hear what our Josephians have to share about their SJI stories at [**My SJI Story**](/my-sji-story)
