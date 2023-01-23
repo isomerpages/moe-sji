@@ -23,7 +23,37 @@ The challenging curriculum educates the whole student aiming to develop their ca
   
 #### **[The IB Academic Subject Groups](/programmes/academic-programmes/ib-diploma-programme/the-six-academic-subject-groups)**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-uj71{background-color:#006A51;color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uj71">Group 1: Studies in Language &amp; Literature</th>
+    <th class="tg-uj71">Group 2: Language Acquisition ^</th>
+    <th class="tg-uj71">Group 3: Individuals &amp; Societies</th>
+    <th class="tg-uj71">Group 4: Experimental Science</th>
+    <th class="tg-uj71">Group 5: Mathematics<br><br></th>
+    <th class="tg-uj71"><span style="font-weight:normal">Group 6:</span><br><span style="font-weight:normal">The Arts</span><br><span style="font-weight:normal">(or Elective)</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>English: <br>&nbsp;&nbsp;&nbsp;Literature<br><span style="font-weight:400;font-style:normal">• </span>English: <br>&nbsp;&nbsp;&nbsp;Language and Literature<br><span style="font-weight:400;font-style:normal">• </span>Chinese: <br>&nbsp;&nbsp;&nbsp;Literature<br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Chinese B<br><span style="font-weight:400;font-style:normal">• </span>Malay B<br><span style="font-weight:400;font-style:normal">• </span>Tamil B #<br><span style="font-weight:400;font-style:normal">• </span>Mandarin Ab <br>&nbsp;&nbsp;&nbsp;Initio<br><span style="font-weight:400;font-style:normal">• </span>Spanish Ab <br>&nbsp;&nbsp;&nbsp;Initio<br><br><br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Economics<br><span style="font-weight:400;font-style:normal">• </span>Geography<br><span style="font-weight:400;font-style:normal">• </span>History<br><br><br><br><br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Biology<br><span style="font-weight:400;font-style:normal">• </span>Chemistry<br><span style="font-weight:400;font-style:normal">• </span>Physics<br><br><br><br><br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Maths <br>&nbsp;&nbsp;&nbsp;Analysis and <br>&nbsp;&nbsp;&nbsp;Approaches<br><br><br><br><br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Music<br><span style="font-weight:400;font-style:normal">• </span>Visual Arts<br><br><span style="font-style:italic">(Elective: Instead of </span><br><span style="font-style:italic">an Arts subject, </span><br><span style="font-style:italic">students can choose </span><br><span style="font-style:italic">a subject from </span><br><span style="font-style:italic">Group 3 or 4)</span></td>
+  </tr>
+</tbody>
+</table>
 
 _\* subject to staffing resources  
 ^ Group 2 -_
