@@ -38,6 +38,8 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 
 LMAOO
 
+![](/images/65789675.jpeg)
+
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
