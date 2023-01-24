@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Admission.md
       - O Level & Integrated Programme/.keep
       - O Level & Integrated Programme/O Level & Integrated Programme.md
       - O Level & Integrated Programme/Entry Into Secondary 1.md
@@ -15,4 +16,3 @@ collections:
       - DSA @ SJI/Direct School Admission To Year 5 or JC1 In 2023.md
       - School Fees & Financial Assistance.md
       - Scholarships & Awards.md
-      - Admission.md
