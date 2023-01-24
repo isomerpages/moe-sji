@@ -47,42 +47,42 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-24-december-2022/0021351001672417728"><img src="/images/65789675.jpeg" alt="Image" width="55" height="17"><br><br>Issue 24 - December 2022</a></th>
-    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-23-june-2022/0119945001656581634"><img src="/images/64700468.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-22-december-2021/0368512001656581263"><img src="/images/64683395.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-21-june-2021/0217053001656580790"><img src="/images/64683335.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-24-december-2022/0021351001672417728"><img src="/images/65789675.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 24 - December 2022</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-23-june-2022/0119945001656581634"><img src="/images/64700468.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 23 - June 2022</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-22-december-2021/0368512001656581263"><img src="/images/64683395.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 22 - December 2021</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-21-june-2021/0217053001656580790"><img src="/images/64683335.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 21 - June 2021</strong></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-20-december-2020/0585049001656580680"><img src="/images/64683284.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-19-june-2020/0129413001656580160"><img src="![](/images/64683198.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-18-december-2019/0204247001656577933"><img src="![](/images/64683091.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-17-june-2019/0110318001656576988"><img src="![](/images/64682911.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-20-december-2020/0585049001656580680"><img src="/images/64683284.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 20 - December 2020</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-19-june-2020/0129413001656580160"><img src="/images/64683198.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 19 - June 2020</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-18-december-2019/0204247001656577933"><img src="/images/64683091.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 18 - December 2019</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-17-june-2019/0110318001656576988"><img src="/images/64682911.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 17 - June 2019</strong></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-16-december-2018/0261443001656576421"><img src="/images/64682827.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-15-june-2018/0354279001656575981"><img src="![](/images/64682669.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-14-december-2017/0881498001656575273"><img src="![](/images/64682391.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-13-june-2017/0567031001656574893"><img src="![](/images/64682255.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-16-december-2018/0261443001656576421"><img src="/images/64682827.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 16 - December 2018</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-15-june-2018/0354279001656575981"><img src="/images/64682669.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 15 - June 2018</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-14-december-2017/0881498001656575273"><img src="/images/64682391.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 14 - December 2017</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-13-june-2017/0567031001656574893"><img src="/images/64682255.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 13 - June 2017</strong></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-12-december-2016/0181132001656574449"><img src="/images/64682203.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-11-june-2016/0648941001656573940"><img src="![](/images/64682102.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-10-december-2015/0800407001656573301"><img src="![](/images/64682004.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-9-june-2015/0897262001656572989"><img src="![](/images/64681952.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-12-december-2016/0181132001656574449"><img src="/images/64682203.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 12 - December 2016</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-11-june-2016/0648941001656573940"><img src="/images/64682102.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 11 - June 2016</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-10-december-2015/0800407001656573301"><img src="/images/64682004.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 10 - December 2015</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-9-june-2015/0897262001656572989"><img src="/images/64681952.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 9 - June 2015</strong></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-8-december-2014/0168116001656571830"><img src="/images/64681861.jpeg" alt="Image" width="55" height="17"><br><br>Issue 8 - December 2014</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-7-june-2014/0284059001656571448"><img src="/images/64681791.jpeg" alt="Image" width="55" height="17"><br><br>Issue 7 - June 2014</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-6-december-2013/0416847001656570963"><img src="/images/64681663.jpeg" alt="Image" width="55" height="17"><br><br>Issue 6 - December 2013</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-5-june-2013/0197064001656570398"><img src="/images/64681599.jpeg" alt="Image" width="55" height="17"><br><br>Issue 5 - June 2013</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-8-december-2014/0168116001656571830"><img src="/images/64681861.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 8 - December 2014</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-7-june-2014/0284059001656571448"><img src="/images/64681791.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 7 - June 2014</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-6-december-2013/0416847001656570963"><img src="/images/64681663.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 6 - December 2013</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-5-june-2013/0197064001656570398"><img src="/images/64681599.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 5 - June 2013</strong></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-4-december-2012/0467263001654852319"><img src="/images/64561694.jpeg" alt="Image" width="55" height="17"><br><br>Issue 4 - December 2012</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-3-june-2012/0014087001654851467"><img src="/images/64561548.jpeg" alt="Image" width="55" height="17"><br><br>Issue 3 - June 2012</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-2-december-2011/0352654001654847577"><img src="/images/64561449.jpeg" alt="Image" width="55" height="17"><br><br>Issue 2 - December 2011</a></td>
-    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-1-june-2011/0892660001654845667"><img src="/images/64561205.jpeg" alt="Image" width="55" height="17"><br><br>Issue 1 June 2011</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-4-december-2012/0467263001654852319"><img src="/images/64561694.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 4 - December 2012</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-3-june-2012/0014087001654851467"><img src="/images/64561548.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 3 - June 2012</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-2-december-2011/0352654001654847577"><img src="/images/64561449.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 2 - December 2011</strong></a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-1-june-2011/0892660001654845667"><img src="/images/64561205.jpeg" alt="Image" width="55" height="17"><br><br><strong>Issue 1 - June 2011</strong></a></td>
   </tr>
 </tbody>
 </table>
