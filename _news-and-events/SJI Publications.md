@@ -182,8 +182,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 * * *
 
-• Opening Of Malcolm Road Campus
---------------------------------
+<h4 id="_ptoh_105059">• Opening Of Malcolm Road Campus</h4>
 
 **A Souvenir - Commemorating the official opening of SJI at Malcolm Road** (7 April 1989)  
 
@@ -196,8 +195,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 * * *
 
-• Memories Of SJI
------------------
+<h4 id="_ptoh_105060">• Memories Of SJI</h4>
 
 **Memories of SJI - Reminiscences of Old Boys and Past Teachers of SJI**  
 
@@ -224,9 +222,7 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
 * * *
 
-• 125th Anniversary Souvenir Magazine (1852-1977)
--------------------------------------------------
-
+<h4 id="_ptoh_105061">• 125th Anniversary Souvenir Magazine (1852-1977)</h4>
   
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
