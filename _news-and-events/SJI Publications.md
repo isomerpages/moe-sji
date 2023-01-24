@@ -79,10 +79,10 @@ Through this magazine, we hope to throw light on the people, programmes and phil
     <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681599.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561694.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561548.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561449.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561205.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
 </tbody>
 </table>
