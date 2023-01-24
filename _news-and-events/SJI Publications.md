@@ -71,8 +71,7 @@ Designed and produced by World Scientific Publishing Co
 
 * * *
 
-• Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership
----------------------------------------------------------------------
+<h4 id="_ptoh_105055">• Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership</h4>
 
 ![bookcover-LasallianPathfinders.png](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/bookcover-LasallianPathfinders.png)**Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**  
   
@@ -100,8 +99,7 @@ Designed and produced by World Scientific Publishing Co
 
 * * *
 
-• Lead Your Life
-----------------
+<h4 id="_ptoh_105056">• Lead Your Life</h4>
 
 ![Lead yr Life- book info STP.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/Lead%20yr%20Life-%20book%20info%20STP.jpg)
 
@@ -133,8 +131,7 @@ Designed and produced by Straits Times Press
 
 * * *
 
-• Men For Others
-----------------
+<h4 id="_ptoh_105057">• Men For Others</h4>
 
 ![book cover_MfO_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_MfO_17feb.jpg)**Men for Others - A portrait of the Josephian over the years**  
 
