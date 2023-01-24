@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - International Baccalaureate Diploma Programme.md
       - DSA @ SJI/.keep
       - DSA @ SJI/DSA @ SJI.md
       - DSA @ SJI/Direct School Admission To Year 1 In 2023.md
