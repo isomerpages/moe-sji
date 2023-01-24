@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - SJI Photo Gallery.md
       - SJI Virtual Open House.md
       - "The Fullerton: SJI Leadership Lectures.md"
