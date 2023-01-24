@@ -5,33 +5,30 @@ description: ""
 ---
 SJI produces several publications in a year. Please click on the titles below to read our e-publications:
 
-  
+<u>School Magazines:</u>
 
-School Magazines:
+*   **[SJI News](/news-and-events/news-highlights)**
+*   **[LUMEN](/news-and-events/sji-publications#_ptoh_105040)**
+*   **[Josephian Annual](/news-and-events/sji-publications#_ptoh_105065)**
 
-*   **[SJI News](https://www.sji.edu.sg/news-and-events/news-highlights)**
-*   **[LUMEN](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105040)**
-*   [**Josephian Annual**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105065)
+<u>Books:</u>
 
-Books:
+*   2018 - [**For Others**](/news-and-events/sji-publications#_ptoh_105054)
+*   2015 - [**Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership**](/news-and-events/sji-publications#_ptoh_105055)
+*   2012 - [**Lead Your Life**](/news-and-events/sji-publications#_ptoh_105056)
+*   2009 - [**Men For Others**](/news-and-events/sji-publications#_ptoh_105057)
+*   2002 - [**Living The Mission: The SJI Story (1852 - 2002)**](/news-and-events/sji-publications#_ptoh_105058)
+*   1989 - [**Opening Of Malcolm Road Campus**](/news-and-events/sji-publications#_ptoh_105059)
+*   1987 - [**Memories Of SJI**](/news-and-events/sji-publications#_ptoh_105060)
+*   1977 - [**125th Anniversary Magazine**](/news-and-events/sji-publications#_ptoh_105061)
 
-*   2018 - [**For Others**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105054)
-*   2015 - [**Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105055)
-*   2012 - [**Lead Your Life**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105056)
-*   2009 - [**Men For Others**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105057)
-*   2002 - [**Living The Mission: The SJI Story (1852 - 2002)**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105058)
-*   1989 - [**Opening Of Malcolm Road Campus**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105059)
-*   1987 - [**Memories Of SJI**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105060)
-*   1977 - [**125th Anniversary Magazine**](https://www.sji.edu.sg/news-and-events/sji-publications#_ptoh_105061)
-
-If you wish to subscribe to our publications by email, you may sign up with us via [**Friends of SJI**](https://www.sji.edu.sg/community/friends-of-sji).
+If you wish to subscribe to our publications by email, you may sign up with us via [**Friends of SJI**](/community/friends-of-sji).
 
   
 
 * * *
 
-• LUMEN
--------
+<h4 id="_ptoh_105040">• LUMEN</h4>
 
 LUMEN in Latin means light or lamp. It also means clarity and understanding.
 
