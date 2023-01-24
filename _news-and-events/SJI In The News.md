@@ -98,7 +98,7 @@ description: ""
     Source: Tamil Murasu © SPH Media Limited.
     
   
-*   [**25 August 2019 - A Life of Lasallian Dedication**](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2019/2019082225-CN-A%20Life%20of%20Lasallian%20Dedication.pdf)  
+*   [**25 August 2019 - A Life of Lasallian Dedication**](/files/2019082225-CN-A%20Life%20of%20Lasallian%20Dedication.pdf) 
     Source: Catholic News
     
   
@@ -142,8 +142,7 @@ description: ""
     Source: Red Sports
     
 
-2018
-----
+#### 2018
 
 *   [**11 October 2018 - 9 teachers recognised in 11th edition of the Inspiring Teacher of English Award**](https://www.straitstimes.com/singapore/education/9-teachers-recognised-in-11th-edition-of-the-inspiring-teacher-of-english-award)  
     Source: The Straits Times © SPH Media Limited.
@@ -173,8 +172,7 @@ description: ""
     Source: TODAY
     
 
-2017
-----
+#### 2017
 
 *   **26 June 2017 - [Work stint gives students a taste of life on the job](https://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job)**  
     Source: The Straits Times © SPH Media Limited.
@@ -211,18 +209,17 @@ description: ""
 
   
 
-*   **22 January 2017 - [SJI excels in International Baccalaureate exams](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2017/20170122-CN-SJI%20excels%20in%20IB%20exams.pdf)**  
+*   **22 January 2017 - [SJI excels in International Baccalaureate exams](/files/20170122-CN-SJI%20excels%20in%20IB%20exams.pdf)**  
     Source: Catholic News
 
-2016
-----
+#### 2016
 
 *   **11 December 2016 - [SJI students share experience of outreach project through photos](https://catholicnews.sg/2016/12/08/sji-students-share-experience-of-outreach-project-through-photos/)**  
     Source: Catholic News
 
   
 
-*   **4 September 2016- [SJI students put mercy into practice with various initiatives](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2016/20160904-CN-SJI%20students%20put%20mercy%20into%20practice%20with%20various%20initiatives.pdf)**  
+*   **4 September 2016- [SJI students put mercy into practice with various initiatives](/files/20160904-CN-SJI%20students%20put%20mercy%20into%20practice%20with%20various%20initiatives.pdf)**  
     Source: Catholic News
 
   
