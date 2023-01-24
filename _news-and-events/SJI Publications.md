@@ -48,23 +48,23 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 <thead>
   <tr>
     <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-24-december-2022/0021351001672417728"><img src="/images/65789675.jpeg" alt="Image" width="55" height="17"><br><br>Issue 24 - December 2022</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64700468.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64683395.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64683335.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-23-june-2022/0119945001656581634"><img src="/images/64700468.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-22-december-2021/0368512001656581263"><img src="/images/64683395.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-21-june-2021/0217053001656580790"><img src="/images/64683335.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683284.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683198.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683091.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682911.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-20-december-2020/0585049001656580680"><img src="/images/64683284.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-19-june-2020/0129413001656580160"><img src="![](/images/64683198.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-18-december-2019/0204247001656577933"><img src="![](/images/64683091.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-17-june-2019/0110318001656576988"><img src="![](/images/64682911.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682827.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682669.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682391.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682255.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-16-december-2018/0261443001656576421"><img src="/images/64682827.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-15-june-2018/0354279001656575981"><img src="![](/images/64682669.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-14-december-2017/0881498001656575273"><img src="![](/images/64682391.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-13-june-2017/0567031001656574893"><img src="![](/images/64682255.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682203.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
