@@ -28,7 +28,7 @@ If you wish to subscribe to our publications by email, you may sign up with us v
 
 * * *
 
-<h4 id="_ptoh_105040">• LUMEN</h4>
+<h4 id="_ptoh_105054">• LUMEN</h4>
 
 LUMEN in Latin means light or lamp. It also means clarity and understanding.
 
@@ -45,10 +45,11 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 
 * * *
 
-• For Others
-------------
+<h4 id="_ptoh_105040">• For Others</h4>
 
-![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)**Synopsis**
+![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)
+
+**Synopsis**
 
 In 1852, six Brothers of the Christian Schools, following in the tradition of their founder St. John Baptist de La Salle, gave up all they had and travelled to the Far East to bring education to the poor. They landed in Singapore and established the second school of the La Salle Brothers in this region. Their unparalleled approach to education saw an astronomical rise in student numbers and reputation. For years, St. Joseph's Institution has been an icon of Singapore's history, grooming many of its leaders.
 
