@@ -185,9 +185,7 @@ Speaker : **Mr Dick Lee** , Composer and Creative Director
 Date : Friday, 1 October 2010 <br>
 Time : 4.30pm
 
-![Fullerton-SJI_LimCO_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_LimCO_Page_2.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_DickLee_Page_2.jpeg)"  
 style="width:75%">
 
 ***
@@ -199,9 +197,7 @@ Speaker : **Mr Lim Chee Onn** , Chairman, SingBridge International Singapore
 Date : Friday, 3 August 2010 <br>
 Time : 4.30pm
 
-![Fullerton-SJI_PhilipYeo_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_PhilipYeo_Page_2.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_LimCO_Page_2.jpeg)"  
 style="width:75%">
 
 ***
@@ -213,10 +209,7 @@ Speaker : **Mr Philip Yeo** , Chairman, Spring Singapore
 Date : Friday, 7 May 2010 <br>
 Time : 4.30pm
 
- 
-![Fullerton-SJI_GeorgeYeo_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_GeorgeYeo_Page_2.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_PhilipYeo_Page_2.jpeg)"  
 style="width:75%">
 
 ***
@@ -228,5 +221,5 @@ Speaker : **Mr George Yeo** , Minister for Foreign Affairs
 Date : Friday, 22 January 2010 <br>
 Time : 4.30pm
 
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_GeorgeYeo_Page_2.jpeg)"  
 style="width:75%">
