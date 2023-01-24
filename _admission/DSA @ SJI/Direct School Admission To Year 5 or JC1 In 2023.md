@@ -8,7 +8,7 @@ third_nav_title: DSA @ SJI
 
   
 
-2. More information on the IB Diploma Programme (IBDP) can be found at [SJI IB Diploma Programme](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme). You can also read up on SJI IBDP in our [Frequently Asked Questions](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme/frequently-asked-questions).
+2. More information on the IB Diploma Programme (IBDP) can be found at [SJI IB Diploma Programme](/programmes/academic-programmes/ib-diploma-programme). You can also read up on SJI IBDP in our [Frequently Asked Questions](/programmes/academic-programmes/ib-diploma-programme/frequently-asked-questions).
 
   
 
@@ -23,99 +23,54 @@ third_nav_title: DSA @ SJI
 
 5. Successful DSA-JC candidates will **not** be allowed to participate in the Joint Admissions Exercise. They will also **not** be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.
 
-DSA Main Categories and Talent Areas
-------------------------------------
+#### DSA Main Categories and Talent Areas
 
 6. SJI invites interested applications in ONE of the following talent areas:
 
-| 
-**DSA Main Category**
-
- | 
-
-**DSA Talent Area**
-
- |
-| --- | --- |
-| 
-
-Language and Humanities
-
- | 
-
-1.  Debate – English
-2.  Debate and Public Speaking – English Language
-3.  Drama and Debate – English Language
-4.  Political and Current Affairs
-
-
-
- |
-| 
-
-Leadership and Uniformed Groups
-
- | 
-
-1.  Community Youth Leadership
-2.  Leadership
-
-
-
- |
-| 
-
-Performing Arts
-
- | 
-
-1.  Dance – Contemporary
-2.  Drama – English
-3.  Music
-
-
-
- |
-| 
-
-Science, Technology, Engineering and Mathematics
-
- | 
-
-1.  Mathematics/ Science
-2.  Science and Technology
-3.  Science Research
-
-
-
- |
-| 
-
-Sports and Games
-
- | 
-
-1.  Canoeing (Boys)
-2.  Cross Country  
-    
-3.  Football (Boys)
-4.  Table Tennis (Boys)  
-    
-5.  Track and Field  
-    
-
-
-
- |
-| 
-
-Visual Arts, Design and Media
-
- | 
-
-Visual Arts
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-3uni{background-color:#006A51;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3uni">DSA Main Category</th>
+    <th class="tg-3uni">DSA Talent Area</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Language and Humanities</span></td>
+    <td class="tg-mku2">1. Debate – English<br>2. Debate and Public Speaking – English Language<br>3. Drama and Debate – English Language<br>4. Political and Current Affairs</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Leadership and Uniformed Groups</span></td>
+    <td class="tg-xd5l">1. Community Youth Leadership<br>2. Leadership</td>
+  </tr>
+  <tr>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Performing Arts</span></td>
+    <td class="tg-mku2">1. Dance – Contemporary<br>2. Drama – English<br>3. Music</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Science, Technology, Engineering and Mathematics</span></td>
+    <td class="tg-xd5l">1. Mathematics/ Science<br>2. Science and Technology<br>3. Science Research</td>
+  </tr>
+  <tr>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Sports and Games</span></td>
+    <td class="tg-mku2">1. Canoeing (Boys)<br>2. Cross Country<br>3. Football (Boys)<br>4. Table Tennis (Boys)<br>5. Track and Field<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Visual Arts, Design and Media</span></td>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Visual Arts</span></td>
+  </tr>
+</tbody>
+</table>
 
 Selection Criteria
 ------------------
@@ -147,10 +102,9 @@ h) Shortlisted Visual Arts candidates will be required to submit their art portf
 
 9. In the SJI IBDP, students are expected to participate in a range of Creativity, Activity and Service (CAS) activities over two years. This is unlike the Co-Curricular Activity (CCA) in a JC where students participate in one CCA over two years.
 
-Application Process
--------------------
+#### Application Process
 
-10. The SJI DSA-JC application will be open from **5 May 2022 to 27 June 2022, 12noon. Please note that incomplete and late applications will not be processed**.
+10. The SJI DSA-JC application will be open from **<u>5 May 2022 to 27 June 2022, 12noon. Please note that incomplete and late applications will not be processed</u>**.
 
 11. Applications for the SJI DSA-JC are to be made online at [**http://app.sji.edu.sg/dsa\_ib**](http://app.sji.edu.sg/dsa_ib).
 
@@ -164,8 +118,7 @@ b) A copy of Secondary 3 (mid-year and end-of-year) and Secondary 4 (CA1 and mid
 c) A copy of CCA records.  
 d) Any other supporting documents for the talent area applied for.
 
-Written Tests and Interview
----------------------------
+#### Written Tests and Interview
 
 13. Shortlisted applicants will be invited to sit for an in-person Math test, an English essay and an interview. The tentative dates are as follows, please refer to the email for the specific date and time.
 
@@ -175,9 +128,9 @@ Written Tests and Interview
 
 More information will be provided to shortlisted applicants when the invitation is made via email.
 
-For information on **School Fees and Financial Assistance**, please refer to **[https://www.sji.edu.sg/fees](https://www.sji.edu.sg/fees)**.
+For information on **School Fees and Financial Assistance**, please refer **[here](/fees)**.
 
-For information on **Scholarships and Awards**, please refer to **[https://www.sji.edu.sg/scholarships](https://www.sji.edu.sg/scholarships)**.
+For information on **Scholarships and Awards**, please refer **[here](/scholarships)**.
 
 **SJI reserves the rights not to release the results and reasons for non-selection.**
 
