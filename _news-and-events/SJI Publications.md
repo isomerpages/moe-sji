@@ -38,10 +38,6 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
-  
 
 * * *
 
@@ -61,19 +57,18 @@ An earlier book - [**_Men for Others_**](https://www.sji.edu.sg/about-sji/sji-s
 Copyright @ St Joseph's Institution, 2018  
 Designed and produced by World Scientific Publishing Co  
   
-[**Click here to purchase this book**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484).
+[**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81484).
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
 
 * * *
 
 <h4 id="_ptoh_105055">• Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership</h4>
 
-![bookcover-LasallianPathfinders.png](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/bookcover-LasallianPathfinders.png)**Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**  
+![bookcover-LasallianPathfinders.png](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/bookcover-LasallianPathfinders.png)
+
+**Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**  
   
 
 A collection of stories by seven prominent old boys of SJI: Professor Leo Tan Wee Hin, Richard Magnus, Tony Chew Leong Chee, Professor Jeremy Monteiro, Brother Armin Luistro FSC, KF Seetoh, and the President of Singapore, Dr Tony Tan, who spoke at the [**Fullerton-SJI Leadership Lectures (Series II)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures).
@@ -84,18 +79,11 @@ Copyright @ St Joseph's Institution, 2015
 Designed and produced by World Scientific Publishing Co  
   
 
-[**Click here to purchase this book**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81485).
+[**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81485).
 
-  
-  
-  
-  
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
 
 * * *
 
@@ -107,33 +95,29 @@ Designed and produced by World Scientific Publishing Co
 
   
 
-A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the [**Fullerton-SJI Leadership Lectures (Series I)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures).
+A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the [**Fullerton-SJI Leadership Lectures (Series I)**](/news-and-events/the-fullerton-sji-leadership-lectures).
 
   
 
-ISBN 978-981-4342-18-6
-
-Copyright @ St Joseph's Institution, 2012
-
+ISBN 978-981-4342-18-6 <br>
+Copyright @ St Joseph's Institution, 2012 <br>
 Designed and produced by Straits Times Press
 
   
 
-[**Click here to purchase this book**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81486).
+[**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81486).
 
   
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
-
 * * *
 
 <h4 id="_ptoh_105057">• Men For Others</h4>
 
-![book cover_MfO_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_MfO_17feb.jpg)**Men for Others - A portrait of the Josephian over the years**  
+![book cover_MfO_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_MfO_17feb.jpg)
+
+**Men for Others - A portrait of the Josephian over the years**  
 
 **by Warren Fernandez**
 
@@ -145,15 +129,12 @@ Published by SJI
 Produced by Straits Times Press  
   
 
-[**Click here to purchase this book**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81488).
+[**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81488).
 
   
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
 
 * * *
 
@@ -169,16 +150,11 @@ Copyright@SJI, 2002
 Designed and produced by Editions Didier Millet Pte Ltd  
   
 
-[**Click here to purchase this book**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81487).
+[**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81487).
 
-  
-  
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
 
 * * *
 
@@ -187,38 +163,26 @@ Designed and produced by Editions Didier Millet Pte Ltd
 **A Souvenir - Commemorating the official opening of SJI at Malcolm Road** (7 April 1989)  
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
-
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
   
 
 * * *
 
 <h4 id="_ptoh_105060">• Memories Of SJI</h4>
 
-**Memories of SJI - Reminiscences of Old Boys and Past Teachers of SJI**  
-
-with Photographs by **R Ian Lloyd**
-
+**Memories of SJI - Reminiscences of Old Boys and Past Teachers of SJI**   <br>
+with Photographs by **R Ian Lloyd** <br>
 Written and compiled by **Francis Brown**
 
   
 
-ISBN 9971-73-248-3
-
-Copyright@SJI, 1987
-
+ISBN 9971-73-248-3 <br>
+Copyright@SJI, 1987 <br>
 Edited and designed by MPH Publishing (S) Pte Ltd
 
   
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
-  
 
 * * *
 
@@ -227,19 +191,10 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
-
 * * *
 
 <h4 id="_ptoh_105065">• Josephian Annual</h4>
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
-
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-  
-  
 
 * * *
