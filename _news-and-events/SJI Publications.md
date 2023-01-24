@@ -171,7 +171,7 @@ Designed and produced by Straits Times Press
 **Men for Others - A portrait of the Josephian over the years**  <br>
 **by Warren Fernandez**
 
-<img src="/images/10735cover.jpg"  
+<img src="/images/book%20cover_MfO_17feb.jpeg"  
 style="width:50%">
 
   
@@ -190,10 +190,11 @@ Produced by Straits Times Press
 * * *
 
 <h4 id="_ptoh_105058">• Living The Mission: The SJI Story (1852 - 2002)</h4>
-
-![book cover_LtM_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_LtM_17feb.jpg)  
   
 **Living the Mission: The SJI Story (1852-2002)** **by Hedwig Alfred**  
+
+<img src="![](/images/book%20cover_LtM_17feb.jpeg)"  
+style="width:50%">
   
 ISBN 981-4068-42-X  
 Published in 2002 by SJI  
