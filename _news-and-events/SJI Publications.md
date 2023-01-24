@@ -195,6 +195,8 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
 <h4 id="_ptoh_105065">• Josephian Annual</h4>
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+LMAOOO
+ 
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 * * *
