@@ -45,7 +45,7 @@ Date : Tuesday, 5 November 2013
 Speech: [http://www.istana.gov.sg/content/istana/news/speeches/2013/-remarks-by-president-tony-tan-keng-yam-at-the-closing-of-the-2n.html](http://www.istana.gov.sg/content/istana/news/speeches/2013/-remarks-by-president-tony-tan-keng-yam-at-the-closing-of-the-2n.html)
 
 
-<img src="![](/images/Fullerton-SJI%20Nov13_Page_3.jpeg)"  
+<img src="/images/Fullerton-SJI%20Nov13_Page_3.jpeg"  
 style="width:75%">
 
 ***
@@ -58,7 +58,7 @@ Speaker : **Mr KF Seetoh** , Founder of Makansutra and Curator of the World St
 Date : Friday, 2 August 2013 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_KFSeetoh_Page_2.jpeg)"  
+<img src="/images/Fullerton-SJI_KFSeetoh_Page_2.jpeg"  
 style="width:75%">
 
 ***
@@ -70,7 +70,7 @@ Speaker : **Br. Armin A. Luistro FSC** , Secretary of the Department of Educat
 Date : Friday, 31 May 2013 <br>
 Time : 4.30pm
 
- <img src="![](/images/Fullerton-SJI@31May2013_bio.jpeg)"  
+ <img src="/images/Fullerton-SJI@31May2013_bio.jpeg" 
 style="width:75%">
 
 
@@ -85,7 +85,7 @@ Pianist/Composer/Educator & Managing Director for Showtime Productions Pte Ltd &
 Date : Thursday, 28 March 2013 <br>
 Time : 3.30pm
 
- <img src="![](/images/Fullerton-SJI%20Mar13%20JMBio.jpeg)"  
+ <img src="/images/Fullerton-SJI%20Mar13%20JMBio.jpeg"  
 style="width:75%">
   
 
@@ -98,7 +98,7 @@ Speaker : **Mr Tony Chew Leong Chee** , Chairman, Singapore Business Federatio
 Date : Wednesday, 30 January 2013 <br>
 Time : 3.30pm
 
-<img src="![](/images/Fullerton-SJI_Tony%20Chew%20Leong%20Chee.jpeg)"  
+<img src="/images/Fullerton-SJI_Tony%20Chew%20Leong%20Chee.jpeg"  
 style="width:75%"> 
 
  *** 
@@ -110,7 +110,7 @@ Speaker : **Mr Richard Magnus** , Chairman, Casino Regulatory Authority
 Date : Friday, 5 October 2012 <br>
 Time : 4.30pm
 
- <img src="![](/images/Fullerton-SJI_RichardMagnus_Page_3.jpeg)"  
+ <img src="/images/Fullerton-SJI_RichardMagnus_Page_3.jpeg"  
 style="width:75%">
 
  *** 
@@ -122,7 +122,7 @@ Speaker : **Prof Leo Tan Wee Hin** , President and Fellow, Singapore National 
 Date : Friday, 24 August 2012 <br>
 Time : 4.30pm
 
- <img src="![](/images/Fullerton-SJI_LeoTan_Page_3.jpeg)"  
+ <img src="/images/Fullerton-SJI_LeoTan_Page_3.jpeg" 
 style="width:75%">
 
 ***
@@ -137,7 +137,7 @@ Speaker : **Mr Teo Chee Hean** , Deputy Prime Minister
 Date : Wednesday, 2 November 2011 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_TeoCH_Page_3.jpeg)"  
+<img src="/images/Fullerton-SJI_TeoCH_Page_3.jpeg"  
 style="width:75%">
 
 ***
@@ -149,7 +149,7 @@ Speaker : **Professor Tan Chorh Chuan** , President, National University of Si
 Date : Friday, 26 August 2011 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_TanCC_Page_3.jpeg)"  
+<img src="/images/Fullerton-SJI_TanCC_Page_3.jpeg"  
 style="width:75%">
 
 ***
@@ -161,7 +161,7 @@ Speaker : **Mr Peter Seah** , Chairman, DBS Bank
 Date : Friday, 13 May 2011 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_PeterSeah_Page_3.jpeg)"  
+<img src="/images/Fullerton-SJI_PeterSeah_Page_3.jpeg"  
 style="width:75%">
 
 ***
@@ -173,7 +173,7 @@ Speaker : **Mr Gerard Ee** , Chairman, National Kidney Foundation, Public Tran
 Date : Friday, 18 February 2011 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_GerardEe_Page_3.jpeg)"  
+<img src="/images/Fullerton-SJI_GerardEe_Page_3.jpeg"  
 style="width:75%">
 
 ***
@@ -185,7 +185,7 @@ Speaker : **Mr Dick Lee** , Composer and Creative Director
 Date : Friday, 1 October 2010 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_DickLee_Page_2.jpeg)"  
+<img src="/images/Fullerton-SJI_DickLee_Page_2.jpeg" 
 style="width:75%">
 
 ***
@@ -197,7 +197,7 @@ Speaker : **Mr Lim Chee Onn** , Chairman, SingBridge International Singapore
 Date : Friday, 3 August 2010 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_LimCO_Page_2.jpeg)"  
+<img src="/images/Fullerton-SJI_LimCO_Page_2.jpeg"  
 style="width:75%">
 
 ***
@@ -209,7 +209,7 @@ Speaker : **Mr Philip Yeo** , Chairman, Spring Singapore
 Date : Friday, 7 May 2010 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_PhilipYeo_Page_2.jpeg)"  
+<img src="/images/Fullerton-SJI_PhilipYeo_Page_2.jpeg"  
 style="width:75%">
 
 ***
@@ -221,5 +221,5 @@ Speaker : **Mr George Yeo** , Minister for Foreign Affairs
 Date : Friday, 22 January 2010 <br>
 Time : 4.30pm
 
-<img src="![](/images/Fullerton-SJI_GeorgeYeo_Page_2.jpeg)"  
+<img src="/images/Fullerton-SJI_GeorgeYeo_Page_2.jpeg" 
 style="width:75%">
