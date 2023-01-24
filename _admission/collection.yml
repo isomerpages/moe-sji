@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
+      - DSA @ SJI/.keep
+      - DSA @ SJI/DSA @ SJI.md
       - DSA @ SJI/Direct School Admission To Year 1 In 2023.md
       - DSA @ SJI/Direct School Admission To Year 5 or JC1 In 2023.md
-      - DSA @ SJI/DSA @ SJI.md
-      - DSA @ SJI/.keep
       - School Fees & Financial Assistance.md
       - Scholarships & Awards.md
       - Admission.md
