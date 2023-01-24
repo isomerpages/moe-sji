@@ -40,7 +40,7 @@ description: ""
     Source: Catholic News
     
   
-*   14 February 2022 - [**A levels v IB diploma: which suits your child better?**](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2022/20220214-ST-A%20levels%20v%20IB%20diploma-which%20suits%20your%20child%20better.pdf)  
+*   14 February 2022 - [**A levels v IB diploma: which suits your child better?**](/files/20220214-ST-A%20levels%20v%20IB%20diploma-which%20suits%20your%20child%20better.pdf)  
     Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
     
   
