@@ -36,9 +36,57 @@ LUMEN in Latin means light or lamp. It also means clarity and understanding.
 
 Through this magazine, we hope to throw light on the people, programmes and philosophy of SJI so that our students, staff, parents, alumni, and others who are interested in the school will come to understand the school and what it stands for. Click on the links below to read our past issues:
 
-LMAOO
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-24-december-2022/0021351001672417728"><img src="/images/65789675.jpeg" alt="Image" width="55" height="17"><br><br>Issue 24 - December 2022</a></th>
+    <th class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
-![](/images/65789675.jpeg)
 
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
