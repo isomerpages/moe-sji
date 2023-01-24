@@ -52,18 +52,17 @@ description: ""
     Source: The Straits Times © SPH Media Limited.
     
 
-2021
-----
+#### 2021
 
 *   [**Encountering God In School: Natalie Chong, SJI**](https://stories.catholic.sg/catholic200sg/encountering-god-in-school-natalie-chong-sji-and-joanna-ong-cjc/)  
     Source: Catholic.sg
     
   
-*   [**4 February 2021 - Teaching and learning by design: How to engage students and spark creativity**](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2021/20210205-ST-Teachers%20students%20use%20design%20mindset%20to%20spark%20learning%20and%20creativity.pdf)  
+*   [**4 February 2021 - Teaching and learning by design: How to engage students and spark creativity**](/files/20210205-ST-Teachers%20students%20use%20design%20mindset%20to%20spark%20learning%20and%20creativity.pdf) 
     Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
     
   
-*   [**10 January 2021 - Why do S'pore students ace IB exams all the time?**](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/SJI%20in%20the%20news/2021/20210110-ST-Why%20Spore%20excels%20in%20IB%20exams.pdf)  
+*   [**10 January 2021 - Why do S'pore students ace IB exams all the time?**](/files/20210110-ST-Why%20Spore%20excels%20in%20IB%20exams.pdf)  
     Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
     
   
@@ -71,8 +70,7 @@ description: ""
     Source: The Straits Times © SPH Media Limited.
     
 
-2020
-----
+#### 2020
 
 *   [**28 October 2020 - Lauded for igniting love of literature and English**](https://www.straitstimes.com/singapore/parenting-education/lauded-for-igniting-love-of-literature-and-english)  
     Source: The Straits Times © SPH Media Limited.
@@ -86,8 +84,7 @@ description: ""
     Source: Catholic News
     
 
-2019
-----
+#### 2019
 
 *   [**15 September 2019 - 全国杰出华文教师奖 徐芳达：教法与时并进 华文教师借科技让母语更贴近学生生活**](https://www.zaobao.com.sg/zvideos/zbschools/story20190915-989130?themeId=2&utm_expid=.GDliSVqsR_G-lVPCVeIVMg.1&utm_referrer=)  
     Source: LianHeZaoBao © SPH Media Limited.
