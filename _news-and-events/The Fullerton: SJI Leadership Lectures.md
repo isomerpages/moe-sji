@@ -122,10 +122,7 @@ Speaker : **Prof Leo Tan Wee Hin** , President and Fellow, Singapore National 
 Date : Friday, 24 August 2012 <br>
 Time : 4.30pm
 
-
-![Fullerton-SJI_TeoCH_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_TeoCH_Page_3.jpg)
-
- <img src="LMAOO"  
+ <img src="![](/images/Fullerton-SJI_LeoTan_Page_3.jpeg)"  
 style="width:75%">
 
 ***
