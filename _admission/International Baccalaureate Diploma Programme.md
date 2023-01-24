@@ -95,13 +95,13 @@ Students appealing for admission to SJI **<u>MUST</u>** meet this year’s cut
 
   
 
-Please note:
+<u>Please note:</u>
 
 *   Places available for admission to SJI via appeal are limited. If there are vacancies, only students who meet the COP for the year will be considered.
 *   Students who have been successfully admitted to a school through Direct School Admission (DSA-JC) are **not** allowed to transfer to another school. These students are expected to commit to their DSA school for the duration of the programme.
 *   Students who are currently in the Integrated Programme (IP) are strongly encouraged to complete and benefit from the customised 6-year IP programme of your current school. Should you require advice and guidance on this matter, please refer to the school authorities in your current school.
 
-**Documents Required**:
+**<u>Documents Required</u>**:
 
 *   Recent photograph
 *   JAE Form A with L1R5 score
@@ -111,7 +111,7 @@ Please note:
 
   
 
-**Submission**:
+**<u>Submission</u>**:
 
 *   Please submit your appeal application online via this link: [**https://go.gov.sg/sjiappeal-year5-2022**](https://go.gov.sg/sjiappeal-year5-2022)
 *   **Applications will close on 10 February 2022, at 12 noon**
@@ -129,8 +129,7 @@ PENDING THE OUTCOME OF THE APPEAL, STUDENTS ARE TO REPORT TO THE JUNIOR COLLEGE 
 
 * * *
 
-Transfer from Another MOE School
---------------------------------
+#### Transfer from Another MOE School
 
 Admission to the SJI International Baccalaureate is conducted through the Ministry of Education (MOE) via the Joint Admissions Exercise (JAE) and is solely based on students’ performance in the Singapore-Cambridge GCE ‘O’ Level Examinations. Students who are currently in the Integrated Programme (IP) are expected to complete and benefit from the customised 6-year IP programme of your current school. Should you require advice and guidance on this matter, please refer to the school authorities in your current school.
 
@@ -138,8 +137,7 @@ Admission to the SJI International Baccalaureate is conducted through the Minist
 
 * * *
 
-Returning Singaporeans
-----------------------
+#### Returning Singaporeans
 
 Returning Singaporeans who would like to gain admission into SJI are to approach the Ministry of Education to register for the [**SPERS-JC/MI**](https://www.moe.gov.sg/returning-singaporeans/post-secondary). The advantage of registering for the MOE SPERS-JC/MI is that the results could be used to gain admission into the best available Junior College in order of merit that has a vacancy without the need for further testing by the school.
 
@@ -147,8 +145,7 @@ Returning Singaporeans who would like to gain admission into SJI are to approach
 
 * * *
 
-International Students
-----------------------
+#### International Students
 
 International students who wish to gain admission MUST approach the [**Ministry of Education**](https://www.moe.gov.sg/international-students), Singapore for advice.
 
