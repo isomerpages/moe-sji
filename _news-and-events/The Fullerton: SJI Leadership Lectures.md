@@ -58,9 +58,7 @@ Speaker : **Mr KF Seetoh** , Founder of Makansutra and Curator of the World St
 Date : Friday, 2 August 2013 <br>
 Time : 4.30pm
 
-  ![Fullerton-SJI_KFSeetoh_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_KFSeetoh_Page_2.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_KFSeetoh_Page_2.jpeg)"  
 style="width:75%">
 
 ***
@@ -72,10 +70,9 @@ Speaker : **Br. Armin A. Luistro FSC** , Secretary of the Department of Educat
 Date : Friday, 31 May 2013 <br>
 Time : 4.30pm
 
- <img src="LMAOO"  
+ <img src="![](/images/Fullerton-SJI@31May2013_bio.jpeg)"  
 style="width:75%">
 
-![Fullerton-SJI Mar13 JMBio.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI%20Mar13%20JMBio.jpg)
 
 ***  
 
@@ -88,11 +85,7 @@ Pianist/Composer/Educator & Managing Director for Showtime Productions Pte Ltd &
 Date : Thursday, 28 March 2013 <br>
 Time : 3.30pm
 
-
-![Fullerton-SJI_Tony Chew Leong Chee.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_Tony%20Chew%20Leong%20Chee.jpg)
-
-
- <img src="LMAOO"  
+ <img src="![](/images/Fullerton-SJI%20Mar13%20JMBio.jpeg)"  
 style="width:75%">
   
 
@@ -105,11 +98,7 @@ Speaker : **Mr Tony Chew Leong Chee** , Chairman, Singapore Business Federatio
 Date : Wednesday, 30 January 2013 <br>
 Time : 3.30pm
 
-  
-
-![Fullerton-SJI_RichardMagnus_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_RichardMagnus_Page_3.jpg)
-
-  <img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_Tony%20Chew%20Leong%20Chee.jpeg)"  
 style="width:75%"> 
 
  *** 
@@ -121,10 +110,7 @@ Speaker : **Mr Richard Magnus** , Chairman, Casino Regulatory Authority
 Date : Friday, 5 October 2012 <br>
 Time : 4.30pm
 
-
-![Fullerton-SJI_LeoTan_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_LeoTan_Page_3.jpg)
-
- <img src="LMAOO"  
+ <img src="![](/images/Fullerton-SJI_RichardMagnus_Page_3.jpeg)"  
 style="width:75%">
 
  *** 
