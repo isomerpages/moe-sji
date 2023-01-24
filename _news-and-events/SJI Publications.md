@@ -36,7 +36,9 @@ LUMEN in Latin means light or lamp. It also means clarity and understanding.
 
 Through this magazine, we hope to throw light on the people, programmes and philosophy of SJI so that our students, staff, parents, alumni, and others who are interested in the school will come to understand the school and what it stands for. Click on the links below to read our past issues:
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+LMAOO
+
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -51,7 +53,7 @@ In 1852, six Brothers of the Christian Schools, following in the tradition of th
 
   
 
-An earlier book - [**_Men for Others_**](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81488) by Warren Fernandez celebrates the first generation of post-independence leaders. In the same spirit, **_For Others_** honours some of those who have taken on the mantle of service leadership for the next generation of Singaporeans. Inspiring alumni featured in this latest SJI publication include Gerard Ee, Justice Chan Seng Onn, Teo Hock Seng, and Peter Seah. This book commemorates the 165th anniversary of the Christian Brothers in Singapore by celebrating how the mission of those first Brothers continues in the lives of the Josephians featured.
+An earlier book - [**_Men for Others_**](/about-sji/sji-shop#_ptoh_81488) by Warren Fernandez celebrates the first generation of post-independence leaders. In the same spirit, **_For Others_** honours some of those who have taken on the mantle of service leadership for the next generation of Singaporeans. Inspiring alumni featured in this latest SJI publication include Gerard Ee, Justice Chan Seng Onn, Teo Hock Seng, and Peter Seah. This book commemorates the 165th anniversary of the Christian Brothers in Singapore by celebrating how the mission of those first Brothers continues in the lives of the Josephians featured.
 
   
 Copyright @ St Joseph's Institution, 2018  
@@ -59,7 +61,7 @@ Designed and produced by World Scientific Publishing Co
   
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81484).
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -82,7 +84,7 @@ Designed and produced by World Scientific Publishing Co
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81485).
 
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -108,8 +110,7 @@ Designed and produced by Straits Times Press
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81486).
 
   
-
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 * * *
 
@@ -132,9 +133,7 @@ Produced by Straits Times Press
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81488).
 
   
-
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
-
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 * * *
 
@@ -153,7 +152,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81487).
 
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -162,7 +161,9 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 **A Souvenir - Commemorating the official opening of SJI at Malcolm Road** (7 April 1989)  
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+LMAOO
+
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
   
 
 * * *
@@ -179,17 +180,18 @@ ISBN 9971-73-248-3 <br>
 Copyright@SJI, 1987 <br>
 Edited and designed by MPH Publishing (S) Pte Ltd
 
-  
+LMAOO
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
 
 <h4 id="_ptoh_105061">• 125th Anniversary Souvenir Magazine (1852-1977)</h4>
   
+LMAOO
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
+<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
 * * *
 
