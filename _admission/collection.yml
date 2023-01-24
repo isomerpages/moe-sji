@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - O Level & Integrated Programme/Returning Singaporeans.md
       - O Level & Integrated Programme/O Level & Integrated Programme.md
       - O Level & Integrated Programme/.keep
       - International Baccalaureate Diploma Programme.md
