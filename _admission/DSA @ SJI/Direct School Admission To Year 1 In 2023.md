@@ -131,13 +131,11 @@ _Please note that an applicant does not need to fulfil all the criteria to be co
 
 12. These include Singaporeans studying overseas, home-schooled students and international students studying in international schools in Singapore.
 
-Trial / Interview
------------------
+#### Trial / Interview
 
 13. Only shortlisted applicants will be informed to attend trials / interviews in-person from 1 July to 31 August 2022. Please refer to the email for the specific date and time.
 
-Communication with Applicants
------------------------------
+#### Communication with Applicants
 
 14. All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.
 
@@ -147,11 +145,11 @@ Communication with Applicants
 
   
 
-For information on **School Fees and Financial Assistance**, please refer to [https://www.sji.edu.sg/fees](https://www.sji.edu.sg/fees)
+For information on **School Fees and Financial Assistance**, please refer [here](/fees)
 
   
 
-For information on **Scholarships and Awards**, please refer to [https://www.sji.edu.sg/scholarships](https://www.sji.edu.sg/scholarships)
+For information on **Scholarships and Awards**, please refer [here](/scholarships)
 
   
 
