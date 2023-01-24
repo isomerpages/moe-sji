@@ -11,7 +11,7 @@ The inaugural series of Fullerton-SJI Leadership Lectures which took place over 
 
   
 
-Warren Fernandez, himself an SJI Old Boy and Editor of The Straits Times, chaired the first Lecture Series and also collated a book on the first Series entitled “[**Lead your Life**](https://www.sji.edu.sg/news-and-events/news-highlights/2012#_ptoh_38744)”. The reception to this has been enormously encouraging as it has allowed us to broaden the reach of this remarkable series.
+Warren Fernandez, himself an SJI Old Boy and Editor of The Straits Times, chaired the first Lecture Series and also collated a book on the first Series entitled “[**Lead your Life**](/news-and-events/news-highlights/2012#_ptoh_38744)”. The reception to this has been enormously encouraging as it has allowed us to broaden the reach of this remarkable series.
 
   
 
@@ -23,7 +23,7 @@ The second Fullerton–SJI Leadership Lectures Series kicked off in August 2012,
 
   
 
-President Tony Tan launched the new SJI book, "[**Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**](https://www.sji.edu.sg/news-and-events/news-highlights/2015#_ptoh_60172)”, a collection of leadership lectures from the  Fullerton–SJI Leadership Lectures Series II on 20 July 2015.
+President Tony Tan launched the new SJI book, "[**Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**](/news-and-events/news-highlights/2015#_ptoh_60172)”, a collection of leadership lectures from the  Fullerton–SJI Leadership Lectures Series II on 20 July 2015.
 
   
 
@@ -33,9 +33,7 @@ Visit our Facebook page: [**https://www.facebook.com/pages/The-Fullerton-SJI-Le
 
 * * *
 
-  
-
-**Fullerton-SJI Leadership Lectures II**
+**<u>Fullerton-SJI Leadership Lectures II</u>**
 
 ![Fullerton-SJI Nov13_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI%20Nov13_Page_3.jpg)
 
