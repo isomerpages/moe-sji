@@ -137,10 +137,7 @@ Speaker : **Mr Teo Chee Hean** , Deputy Prime Minister
 Date : Wednesday, 2 November 2011 <br>
 Time : 4.30pm
 
-
-![Fullerton-SJI_TanCC_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_TanCC_Page_3.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_TeoCH_Page_3.jpeg)"  
 style="width:75%">
 
 ***
@@ -152,10 +149,7 @@ Speaker : **Professor Tan Chorh Chuan** , President, National University of Si
 Date : Friday, 26 August 2011 <br>
 Time : 4.30pm
 
-
-![Fullerton-SJI_PeterSeah_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_PeterSeah_Page_3.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_TanCC_Page_3.jpeg)"  
 style="width:75%">
 
 ***
@@ -167,9 +161,7 @@ Speaker : **Mr Peter Seah** , Chairman, DBS Bank
 Date : Friday, 13 May 2011 <br>
 Time : 4.30pm
 
-![Fullerton-SJI_GerardEe_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_GerardEe_Page_3.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_PeterSeah_Page_3.jpeg)"  
 style="width:75%">
 
 ***
@@ -181,10 +173,7 @@ Speaker : **Mr Gerard Ee** , Chairman, National Kidney Foundation, Public Tran
 Date : Friday, 18 February 2011 <br>
 Time : 4.30pm
 
- 
-![Fullerton-SJI_DickLee_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_DickLee_Page_2.jpg)
-
-<img src="LMAOO"  
+<img src="![](/images/Fullerton-SJI_GerardEe_Page_3.jpeg)"  
 style="width:75%">
 
 ***
