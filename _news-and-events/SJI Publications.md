@@ -48,23 +48,23 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 <thead>
   <tr>
     <th class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-24-december-2022/0021351001672417728"><img src="/images/65789675.jpeg" alt="Image" width="55" height="17"><br><br>Issue 24 - December 2022</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64700468.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683395.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683335.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64700468.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64683395.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
+    <th class="tg-0lax"><a href="LMAOO"><img src="/images/64683335.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683284.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683198.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64683091.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682911.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682827.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682669.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682391.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682255.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
