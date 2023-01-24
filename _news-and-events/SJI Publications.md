@@ -67,13 +67,13 @@ Through this magazine, we hope to throw light on the people, programmes and phil
     <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-13-june-2017/0567031001656574893"><img src="![](/images/64682255.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682203.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682102.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64682004.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681952.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-12-december-2016/0181132001656574449"><img src="/images/64682203.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-11-june-2016/0648941001656573940"><img src="![](/images/64682102.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-10-december-2015/0800407001656573301"><img src="![](/images/64682004.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-9-june-2015/0897262001656572989"><img src="![](/images/64681952.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681861.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="/images/64681861.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
     <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681791.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
     <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681663.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
     <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681599.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
