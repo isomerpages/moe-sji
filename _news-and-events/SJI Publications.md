@@ -240,8 +240,7 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
 * * *
 
-• Josephian Annual
-------------------
+<h4 id="_ptoh_105065">• Josephian Annual</h4>
 
  [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/news-and-events/sji-publications#lo_main)
 
