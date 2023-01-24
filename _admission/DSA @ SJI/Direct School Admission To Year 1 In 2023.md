@@ -66,7 +66,54 @@ third_nav_title: DSA @ SJI
 
 _Please note that an applicant does not need to fulfil all the criteria to be considered for shortlisting. However, please note that meeting all the criteria does not guarantee that the applicant will be given an offer._
 
-LMAOO
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-3uni{background-color:#006A51;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-v70z{background-color:#FFF;color:#4C4B4B;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-howc{background-color:#F6F5F2;color:#4C4B4B;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3uni">Main Category</th>
+    <th class="tg-3uni">Talent Areas</th>
+    <th class="tg-3uni">Criteria</th>
+    <th class="tg-3uni">Commitment if admitted to SJI via DSA</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Sports and Games</span></td>
+    <td class="tg-xd5l">1. Badminton<br>2. Canoeing<br>3. Cross-Country<br>4. Football<br>5. Rugby<br>6. Sailing<br>7. Table-Tennis<br>8. Tennis<br>9. Track &amp; Field<br><br><span style="font-weight:400;font-style:normal">• </span>O-Level Programme (OP)<br><span style="font-weight:400;font-style:normal">• </span>Integrated Programme (IP)<br></td>
+    <td class="tg-xd5l"><span style="font-weight:400;font-style:normal">• </span>Aptitude in one of the specified talent areas.<br><span style="font-weight:400;font-style:normal">• </span>Member of Top 4 Team in the National or Zonal Competition of the National School Games.<br><span style="font-weight:400;font-style:normal">• </span>Quarter-Finalist in National Age-Group Individual Championships or a major Championship organized by the Singapore Primary Schools.<br><span style="font-weight:400;font-style:normal">• </span>Evidence of participation/ awards achieved at other competitions.<br><br><span style="font-weight:bold">AND</span><br><br><span style="font-weight:400;font-style:normal">• </span>Strong academic results in Primary 5 and 6 examinations.</td>
+    <td class="tg-xd5l">1. Commitment to the sport from Year 1 to Year 4.<br>2. No transfer to another school upon admission via DSA.<br><br><br><span style="font-weight:400;font-style:normal">• </span>OP track – from Year 1 to Year 4.<br><span style="font-weight:400;font-style:normal">• </span>IP track – from Year 1 to Year 6.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Visual Arts, Design and Media</span></td>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Visual Arts</span><br><br><span style="font-weight:400;font-style:normal">• </span>O-Level Programme (OP)<br><span style="font-weight:400;font-style:normal">• </span>Integrated Programme (IP)<br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Passion in any visual art form(s)<br><br><span style="font-weight:bold">AND</span><br><br><span style="font-weight:400;font-style:normal">• </span>Strong academic results in Primary 5 and 6 examinations.</td>
+    <td class="tg-mku2">1. Commitment to the Art Programme from Year 1 to Year 4.<br>2. Lessons are conducted in the afternoon, after curriculum hours in Years 3 and 4.<br>3. No transfer to another school upon admission via DSA.<br><br><span style="font-weight:400;font-style:normal">• </span>OP track – from Year 1 to Year 4.<br><span style="font-weight:400;font-style:normal">• </span>IP track – from Year 1 to Year 6.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Leadership and Uniformed Groups</span></td>
+    <td class="tg-xd5l"><span style="color:#4C4B4B">Leadership</span><br><br><span style="font-weight:400;font-style:normal">• </span>O-Level Programme (OP)<br><span style="font-weight:400;font-style:normal">• </span>Integrated Programme (IP)<br></td>
+    <td class="tg-xd5l"><span style="font-weight:400;font-style:normal">• </span>Documentary evidence on leadership responsibilities within the school and/or outside of school.<br><span style="font-weight:400;font-style:normal">• </span>Examples: school prefectorial board, CCA leadership, leadership positions in community projects or welfare organisations.<br><br><span style="font-weight:bold">AND</span><br><br><span style="font-weight:400;font-style:normal">• </span>Strong academic results in Primary 5 and 6 examinations.</td>
+    <td class="tg-v70z"><span style="font-weight:bold">OP Track</span><span style="font-weight:bold;color:#4C4B4B">:</span><br><span style="text-decoration:underline">1. Commitment to the programme from Year 1 to Year 4.</span><br><span style="text-decoration:underline">2. No transfer to another school upon admission via DSA from Year 1 to Year 4.</span><br><br><span style="font-weight:bold">IP Track</span><span style="font-weight:bold;color:#4C4B4B">:</span><br>1. Commitment to the programme from Year 1 to Year 6.<br>2. No transfer to another school upon admission via DSA from Year 1 to Year 6.</td>
+  </tr>
+  <tr>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Entrepreneurship and Innovation</span></td>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Innovation</span><br><br><span style="font-weight:400;font-style:normal">• </span>O-Level Programme (OP)<br><span style="font-weight:400;font-style:normal">• </span>Integrated Programme (IP)<br></td>
+    <td class="tg-mku2"><span style="font-weight:400;font-style:normal">• </span>Documentary evidence on innovative practices within the school and/or outside of school.<br><span style="font-weight:400;font-style:normal">• </span>Examples: photos and write-ups of works of innovation produced by the applicant or certificate of achievement in competitions with an emphasis on innovation.<br><br><span style="font-weight:bold">AND</span><br><br><span style="font-weight:400;font-style:normal">• </span>Strong academic results in Primary 5 and 6 examinations.</td>
+    <td class="tg-howc"><span style="font-weight:bold">OP Track</span><span style="font-weight:bold;color:#4C4B4B">:</span><br>1. Commitment to the programme from Year 1 to Year 4.<br>2. Commitment to the Design and Innovation Club as a first CCA from Year 1 to Year 4.<br>3. No transfer to another school upon admission via DSA from Year 1 to Year 4.<br><br><span style="font-weight:bold">IP Track</span><span style="font-weight:bold;color:#4C4B4B">:</span><br>1. Commitment to the programme from Year 1 to Year 6.<br>2. Commitment to the Design and Innovation Club as a first CCA from Year 1 to Year 4.<br>3. No transfer to another school upon admission via DSA from Year 1 to Year 6.</td>
+  </tr>
+</tbody>
+</table>
 
 #### Application Process
 
