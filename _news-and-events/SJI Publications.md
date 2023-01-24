@@ -157,8 +157,7 @@ Produced by Straits Times Press
 
 * * *
 
-• Living The Mission: The SJI Story (1852 - 2002)
--------------------------------------------------
+<h4 id="_ptoh_105058">• Living The Mission: The SJI Story (1852 - 2002)</h4>
 
 ![book cover_LtM_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_LtM_17feb.jpg)  
   
