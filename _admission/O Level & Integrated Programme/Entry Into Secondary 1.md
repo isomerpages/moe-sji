@@ -13,20 +13,42 @@ third_nav_title: O Level & Integrated Programme
 
 5\. The PSLE cut-off points are as follows:
 
-| Year of Sec 1 Admission | Integrated Programme (IP) | 'O' Level Programme (OP)  
-(Non-Affiliated) | 'O' Level Programme (OP)  
-_(Affiliated) \*_ |
-| --- | --- | --- | --- |
-| 2023 | **8** | **10** | **12** |
-|  |  |  | 
-_**\* SJI’s affiliated primary schools:**_
-
-1.  _[De La Salle School](https://delasalle.moe.edu.sg/)_
-2.  _[St. Anthony's Primary School](https://stanthonyspri.moe.edu.sg/)_
-3.  _[St. Joseph's Institution Junior](http://sjijunior.moe.edu.sg/)_
-4.  [_St Stephen’s School_](http://ststephens.moe.edu.sg/)
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gwbf{background-color:#F6F5F2;color:#4C4B4B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-vkk7{background-color:#FFF;color:#4C4B4B;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year of Sec 1 Admission</th>
+    <th class="tg-pwos">Integrated Programme (IP)</th>
+    <th class="tg-pwos">'O' Level Programme (OP)<br><span style="font-weight:normal">(Non-Affiliated)</span></th>
+    <th class="tg-pwos">'O' Level Programme (OP)<br>(Affiliated) *</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2023</span></td>
+    <td class="tg-gwbf">8</td>
+    <td class="tg-gwbf">10</td>
+    <td class="tg-gwbf">12</td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"></td>
+    <td class="tg-m7s7"></td>
+    <td class="tg-m7s7"></td>
+    <td class="tg-vkk7">* SJI’s affiliated primary schools:<br>1. <a href="https://delasalle.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#006A51">De La Salle School</span></a><br>2. <a href="https://stanthonyspri.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#006A51">St. Anthony's Primary School</span></a><br>3. <a href="http://sjijunior.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#006A51">St. Joseph's Institution Junior</span></a><br>4. <a href="http://ststephens.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">St Stephen’s School</span></a></td>
+  </tr>
+</tbody>
+</table>
 
   
 6\. Parents and students should refer to the MOE guide on the selection of secondary schools:  
