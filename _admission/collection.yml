@@ -2,12 +2,12 @@ collections:
   admission:
     output: true
     order:
+      - O Level & Integrated Programme/.keep
+      - O Level & Integrated Programme/O Level & Integrated Programme.md
       - O Level & Integrated Programme/Entry Into Secondary 1.md
       - O Level & Integrated Programme/Admission To Integrated Programme
         Secondary 3 In AY2023.md
       - O Level & Integrated Programme/Returning Singaporeans.md
-      - O Level & Integrated Programme/O Level & Integrated Programme.md
-      - O Level & Integrated Programme/.keep
       - International Baccalaureate Diploma Programme.md
       - DSA @ SJI/.keep
       - DSA @ SJI/DSA @ SJI.md
