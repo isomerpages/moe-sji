@@ -191,9 +191,9 @@ Produced by Straits Times Press
 
 <h4 id="_ptoh_105058">• Living The Mission: The SJI Story (1852 - 2002)</h4>
   
-**Living the Mission: The SJI Story (1852-2002)** **by Hedwig Alfred**  
+**Living the Mission: The SJI Story (1852-2002) by Hedwig Alfred**  
 
-<img src="![](/images/book%20cover_LtM_17feb.jpeg)"  
+<img src="/images/book%20cover_LtM_17feb.jpeg"  
 style="width:50%">
   
 ISBN 981-4068-42-X  
