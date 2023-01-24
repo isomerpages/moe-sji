@@ -95,15 +95,16 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 
 <h4 id="_ptoh_105040">• For Others</h4>
 
-![10735.cover.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/10735.cover.jpg)
-
-**Synopsis**
+**<u>Synopsis</u>**
 
 In 1852, six Brothers of the Christian Schools, following in the tradition of their founder St. John Baptist de La Salle, gave up all they had and travelled to the Far East to bring education to the poor. They landed in Singapore and established the second school of the La Salle Brothers in this region. Their unparalleled approach to education saw an astronomical rise in student numbers and reputation. For years, St. Joseph's Institution has been an icon of Singapore's history, grooming many of its leaders.
 
   
 
 An earlier book - [**_Men for Others_**](/about-sji/sji-shop#_ptoh_81488) by Warren Fernandez celebrates the first generation of post-independence leaders. In the same spirit, **_For Others_** honours some of those who have taken on the mantle of service leadership for the next generation of Singaporeans. Inspiring alumni featured in this latest SJI publication include Gerard Ee, Justice Chan Seng Onn, Teo Hock Seng, and Peter Seah. This book commemorates the 165th anniversary of the Christian Brothers in Singapore by celebrating how the mission of those first Brothers continues in the lives of the Josephians featured.
+
+<img src="/images/10735cover.jpg"  
+style="width:50%">
 
   
 Copyright @ St Joseph's Institution, 2018  
@@ -118,13 +119,14 @@ Designed and produced by World Scientific Publishing Co
 
 <h4 id="_ptoh_105055">• Lasallian Pathfinders: Of Ordinary Men And Less Ordinary Leadership</h4>
 
-![bookcover-LasallianPathfinders.png](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/bookcover-LasallianPathfinders.png)
 
 **Lasallian Pathfinders: Of Ordinary Men and Less Ordinary Leadership**  
   
 
-A collection of stories by seven prominent old boys of SJI: Professor Leo Tan Wee Hin, Richard Magnus, Tony Chew Leong Chee, Professor Jeremy Monteiro, Brother Armin Luistro FSC, KF Seetoh, and the President of Singapore, Dr Tony Tan, who spoke at the [**Fullerton-SJI Leadership Lectures (Series II)**](https://www.sji.edu.sg/news-and-events/the-fullerton-sji-leadership-lectures).
+A collection of stories by seven prominent old boys of SJI: Professor Leo Tan Wee Hin, Richard Magnus, Tony Chew Leong Chee, Professor Jeremy Monteiro, Brother Armin Luistro FSC, KF Seetoh, and the President of Singapore, Dr Tony Tan, who spoke at the [**Fullerton-SJI Leadership Lectures (Series II)**](/news-and-events/the-fullerton-sji-leadership-lectures).
 
+<img src="/images/bookcover-LasallianPathfinders.png"  
+style="width:50%">
   
 ISBN 978-981-4616-18-8  
 Copyright @ St Joseph's Institution, 2015  
@@ -141,7 +143,6 @@ Designed and produced by World Scientific Publishing Co
 
 <h4 id="_ptoh_105056">• Lead Your Life</h4>
 
-![Lead yr Life- book info STP.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/Lead%20yr%20Life-%20book%20info%20STP.jpg)
 
 **Lead Your Life - Eight Respected Singaporeans Reflect On Leadership, Labour And Love**
 
@@ -149,7 +150,8 @@ Designed and produced by World Scientific Publishing Co
 
 A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the [**Fullerton-SJI Leadership Lectures (Series I)**](/news-and-events/the-fullerton-sji-leadership-lectures).
 
-  
+<img src="/images/Lead%20yr%20Life-%20book%20info%20STP.jpeg"  
+style="width:50%">  
 
 ISBN 978-981-4342-18-6 <br>
 Copyright @ St Joseph's Institution, 2012 <br>
@@ -166,11 +168,11 @@ Designed and produced by Straits Times Press
 
 <h4 id="_ptoh_105057">• Men For Others</h4>
 
-![book cover_MfO_17feb.jpg](https://www.sji.edu.sg/qql/slot/u560/SJI%20Shop/Catalogue/book%20cover_MfO_17feb.jpg)
-
-**Men for Others - A portrait of the Josephian over the years**  
-
+**Men for Others - A portrait of the Josephian over the years**  <br>
 **by Warren Fernandez**
+
+<img src="/images/10735cover.jpg"  
+style="width:50%">
 
   
 ISBN-13: 978-981-4266-19-2  
