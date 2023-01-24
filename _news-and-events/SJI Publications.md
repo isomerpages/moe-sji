@@ -73,16 +73,16 @@ Through this magazine, we hope to throw light on the people, programmes and phil
     <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-9-june-2015/0897262001656572989"><img src="![](/images/64681952.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="/images/64681861.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681791.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681663.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64681599.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-8-december-2014/0168116001656571830"><img src="/images/64681861.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-7-june-2014/0284059001656571448"><img src="![](/images/64681791.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-6-december-2013/0416847001656570963"><img src="![](/images/64681663.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-5-june-2013/0197064001656570398"><img src="![](/images/64681599.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561694.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561548.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561449.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="![](/images/64561205.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-4-december-2012/0467263001654852319"><img src="/images/64561694.jpeg" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-3-june-2012/0014087001654851467"><img src="![](/images/64561548.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-2-december-2011/0352654001654847577"><img src="![](/images/64561449.jpeg)" alt="Image" width="55" height="17"><br><br>Issue LMAOO</a></td>
+    <td class="tg-0lax"><a href="https://viewer.joomag.com/lumen-issue-1-june-2011/0892660001654845667"><img src="/images/64561205.jpeg" alt="Image" width="55" height="17"><br><br>Issue 1 June 2011</a></td>
   </tr>
 </tbody>
 </table>
