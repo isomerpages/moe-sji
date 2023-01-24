@@ -34,9 +34,6 @@ Visit our Facebook page: [**https://www.facebook.com/pages/The-Fullerton-SJI-Le
 * * *
 
 **<u>Fullerton-SJI Leadership Lectures II</u>**
-
-![Fullerton-SJI Nov13_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI%20Nov13_Page_3.jpg)
-
   
 
 Guest-of-Honour: **Dr Tony Tan Keng Yam** , President, Republic of Singapore
@@ -47,121 +44,40 @@ Date : Tuesday, 5 November 2013
 
 Speech: [http://www.istana.gov.sg/content/istana/news/speeches/2013/-remarks-by-president-tony-tan-keng-yam-at-the-closing-of-the-2n.html](http://www.istana.gov.sg/content/istana/news/speeches/2013/-remarks-by-president-tony-tan-keng-yam-at-the-closing-of-the-2n.html)
 
-  
 
-  
+<img src="![](/images/Fullerton-SJI%20Nov13_Page_3.jpeg)"  
+style="width:75%">
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![Fullerton-SJI_KFSeetoh_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_KFSeetoh_Page_2.jpg)
-
+***
   
 
 Speaker : **Mr KF Seetoh** , Founder of Makansutra and Curator of the World Street Food Congress
 
   
 
-Date : Friday, 2 August 2013
-
+Date : Friday, 2 August 2013 <br>
 Time : 4.30pm
 
-  
+  ![Fullerton-SJI_KFSeetoh_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_KFSeetoh_Page_2.jpg)
 
-  
+<img src="LMAOO"  
+style="width:75%">
 
+***
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![Fullerton-SJI@31May2013_bio.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI@31May2013_bio.jpg)
-
-  
-  
-  
-
 Speaker : **Br. Armin A. Luistro FSC** , Secretary of the Department of Education of the Philippines
 
   
 
-Date : Friday, 31 May 2013
-
+Date : Friday, 31 May 2013 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+ <img src="LMAOO"  
+style="width:75%">
 
 ![Fullerton-SJI Mar13 JMBio.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI%20Mar13%20JMBio.jpg)
 
-  
-
-  
-
-  
+***  
 
 Speaker : **Mr Jeremy Monteiro** (FRSA FLCM),
 
@@ -169,510 +85,176 @@ Pianist/Composer/Educator & Managing Director for Showtime Productions Pte Ltd &
 
   
 
-Date : Thursday, 28 March 2013
-
+Date : Thursday, 28 March 2013 <br>
 Time : 3.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ![Fullerton-SJI_Tony Chew Leong Chee.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_Tony%20Chew%20Leong%20Chee.jpg)
 
+
+ <img src="LMAOO"  
+style="width:75%">
   
 
-  
+ *** 
 
 Speaker : **Mr Tony Chew Leong Chee** , Chairman, Singapore Business Federation
 
   
 
-Date : Wednesday, 30 January 2013
-
+Date : Wednesday, 30 January 2013 <br>
 Time : 3.30pm
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
 ![Fullerton-SJI_RichardMagnus_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_RichardMagnus_Page_3.jpg)
 
-  
+  <img src="LMAOO"  
+style="width:75%"> 
 
-  
+ *** 
 
 Speaker : **Mr Richard Magnus** , Chairman, Casino Regulatory Authority
 
   
 
-Date : Friday, 5 October 2012
-
+Date : Friday, 5 October 2012 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ![Fullerton-SJI_LeoTan_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_LeoTan_Page_3.jpg)
 
-  
+ <img src="LMAOO"  
+style="width:75%">
+
+ *** 
 
 Speaker : **Prof Leo Tan Wee Hin** , President and Fellow, Singapore National Academy of Science
 
   
 
-Date : Friday, 24 August 2012
-
+Date : Friday, 24 August 2012 <br>
 Time : 4.30pm
 
-  
 
-  
+![Fullerton-SJI_TeoCH_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_TeoCH_Page_3.jpg)
 
-  
+ <img src="LMAOO"  
+style="width:75%">
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-* * *
-
-  
-
-![Fullerton-SJI_TeoCH_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_TeoCH_Page_3.jpg)**
+***
 
 **Fullerton-SJI Leadership Lectures I**
-
-**
-
   
 
 Speaker : **Mr Teo Chee Hean** , Deputy Prime Minister
 
   
 
-Date : Wednesday, 2 November 2011
-
+Date : Wednesday, 2 November 2011 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ![Fullerton-SJI_TanCC_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_TanCC_Page_3.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Professor Tan Chorh Chuan** , President, National University of Singapore
 
   
 
-Date : Friday, 26 August 2011
-
+Date : Friday, 26 August 2011 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ![Fullerton-SJI_PeterSeah_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_PeterSeah_Page_3.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr Peter Seah** , Chairman, DBS Bank
 
   
 
-Date : Friday, 13 May 2011
-
+Date : Friday, 13 May 2011 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 ![Fullerton-SJI_GerardEe_Page_3.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_GerardEe_Page_3.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr Gerard Ee** , Chairman, National Kidney Foundation, Public Transport Council and the Council for the Third Age
 
   
 
-Date : Friday, 18 February 2011
-
+Date : Friday, 18 February 2011 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+ 
 ![Fullerton-SJI_DickLee_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_DickLee_Page_2.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr Dick Lee** , Composer and Creative Director
 
   
 
-Date : Friday, 1 October 2010
-
+Date : Friday, 1 October 2010 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 ![Fullerton-SJI_LimCO_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_LimCO_Page_2.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr Lim Chee Onn** , Chairman, SingBridge International Singapore
 
   
 
-Date : Friday, 3 August 2010
-
+Date : Friday, 3 August 2010 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 ![Fullerton-SJI_PhilipYeo_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_PhilipYeo_Page_2.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr Philip Yeo** , Chairman, Spring Singapore
 
   
 
-Date : Friday, 7 May 2010
-
+Date : Friday, 7 May 2010 <br>
 Time : 4.30pm
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+ 
 ![Fullerton-SJI_GeorgeYeo_Page_2.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/The%20Fullerton-SJI%20Leadership%20Lectures/Fullerton-SJI_GeorgeYeo_Page_2.jpg)
+
+<img src="LMAOO"  
+style="width:75%">
+
+***
 
 Speaker : **Mr George Yeo** , Minister for Foreign Affairs
 
   
 
-Date : Friday, 22 January 2010
-
+Date : Friday, 22 January 2010 <br>
 Time : 4.30pm
+
+<img src="LMAOO"  
+style="width:75%">
