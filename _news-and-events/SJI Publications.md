@@ -250,7 +250,38 @@ LMAOO
 
 <h4 id="_ptoh_105065">• Josephian Annual</h4>
 
-LMAOOO
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/josephian-annual-2022/0577621001672423195"><img src="/images/65885310.jpeg" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2022</strong></a></th>
+    <th class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2021</strong></a></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
  
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
