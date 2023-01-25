@@ -214,7 +214,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 **A Souvenir - Commemorating the official opening of SJI at Malcolm Road** (7 April 1989)  
 
-LMAOO
+JOOMAG
 
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
   
@@ -233,7 +233,7 @@ ISBN 9971-73-248-3 <br>
 Copyright@SJI, 1987 <br>
 Edited and designed by MPH Publishing (S) Pte Ltd
 
-LMAOO
+JOOMAG
 
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
@@ -242,7 +242,7 @@ LMAOO
 
 <h4 id="_ptoh_105061">• 125th Anniversary Souvenir Magazine (1852-1977)</h4>
   
-LMAOO
+JOOMAG
 
 <p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
 
