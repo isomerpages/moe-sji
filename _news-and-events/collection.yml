@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - News Highlights/2012.md
       - News Highlights/2011.md
       - News Highlights/.keep
       - SJI Publications.md
