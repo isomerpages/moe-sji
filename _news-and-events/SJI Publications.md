@@ -262,9 +262,9 @@ LMAOO
 <thead>
   <tr>
     <th class="tg-0lax"><a href="https://viewer.joomag.com/josephian-annual-2022/0577621001672423195"><img src="/images/65885310.jpeg" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2022</strong></a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64729752.jpeg)" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2021</strong></a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64730331.jpeg)" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2021</strong></a></th>
-    <th class="tg-0lax"><a href="LMAOO"><img src="![](/images/64732618.jpeg)" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2021</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/josephian-annual-2021/0025652001657085058"><img src="/images/64729752.jpeg" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2021</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/josephian-annual-2020/0273646001657091279"><img src="/images/64730331.jpeg" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2020</strong></a></th>
+    <th class="tg-0lax"><a href="https://viewer.joomag.com/josephian-annual-2019/0156273001657102154"><img src="/images/64732618.jpeg" alt="Image" width="55" height="17"><br><br><strong>Josephian Annual - 2019</strong></a></th>
   </tr>
 </thead>
 <tbody>
