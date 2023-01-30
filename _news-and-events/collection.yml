@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - News Highlights/2017.md
       - News Highlights/2016.md
       - News Highlights/2015.md
       - News Highlights/2014.md
