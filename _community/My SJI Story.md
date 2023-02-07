@@ -11,7 +11,7 @@ description: ""
 
   
 
-Find out what some of our current students, alumni and staff share about their Josephian lives and loves about SJI:
+<p id="">Find out what some of our current students, alumni and staff share about their Josephian lives and loves about SJI:</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -146,7 +146,7 @@ Ng Shao Han Elliot joined SJI from Holy Innocents Primary School in 2012. He dis
 
   
 
-Elliot has been a member of the National Football Academy (NFA) age group team and been training with them in addition to our own school training since Secondary 1. In spite of his very busy schedule, he has been able to balance his academic and Co-Curricular Activities commitments. Elliot is now in his 5th year of the Integrated Programme, where he undertakes his first year (JC1) of the [**International Baccalaureate Diploma Programme**](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme) at SJI (Senior section).
+Elliot has been a member of the National Football Academy (NFA) age group team and been training with them in addition to our own school training since Secondary 1. In spite of his very busy schedule, he has been able to balance his academic and Co-Curricular Activities commitments. Elliot is now in his 5th year of the Integrated Programme, where he undertakes his first year (JC1) of the [**International Baccalaureate Diploma Programme**](/programmes/academic-programmes/ib-diploma-programme) at SJI (Senior section).
 
   
 
@@ -180,12 +180,12 @@ Family, Banter, Epic!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
-
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</p>
 
 • Noah Joel Lopez
 -----------------
+
+<h4 id="_ptoh_67207">• Elliot Ng Shao Han</h4>
 
 ![mysjistory-NoahLopez.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-NoahLopez.jpg)
 
