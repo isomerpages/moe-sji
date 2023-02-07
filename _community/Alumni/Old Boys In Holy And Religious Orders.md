@@ -48,7 +48,7 @@ third_nav_title: Alumni
 *   Reverend Father Peter Tan
 *   Reverend Father Philip Kolandaisamy
 *   Reverend Father Richards Ambrose
-*   [**Reverend Father Robert Balhetchet**](https://www.sji.edu.sg/news-and-events/news-highlights/2016#_ptoh_66956) (_Passed away on 15 March 2016_)
+*   [**Reverend Father Robert Balhetchet**](/news-and-events/news-highlights/2016#_ptoh_66956) (_Passed away on 15 March 2016_)
 *   Reverend Father Simon Pereira, CSsR
 *   Reverend Father Stephen Yim
 *   Reverend Father Terence Pereira
