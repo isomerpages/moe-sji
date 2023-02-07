@@ -14,14 +14,13 @@ Being also Lasallian in tradition, SJI is an **inclusive** school and we welco
 
 For more information on specific conduct at school, please refer to the following:
 
-*   [**Code of Conduct**](https://www.sji.edu.sg/community/students/conduct-at-school/code-of-conduct)
-*   **[Conduct in school chapel](https://www.sji.edu.sg/community/students/conduct-at-school/conduct-in-school-chapel)**
-*   [**Conduct during prayers**](https://www.sji.edu.sg/community/students/conduct-at-school/conduct-during-prayers)
-*   **[Conduct in classroom](https://www.sji.edu.sg/community/students/conduct-at-school/conduct-in-classrooms)**
-*   **[Conduct at school assembly and coming late to school](https://www.sji.edu.sg/community/students/conduct-at-school/conduct-at-assembly-n-latecoming)**
-*   **[Examinations rules](https://www.sji.edu.sg/community/students/conduct-at-school/examinations-rules)**
-*   **[School uniform](https://www.sji.edu.sg/community/students/conduct-at-school/school-uniform)  
-    **
-*   **[Prohibited items](https://www.sji.edu.sg/community/students/conduct-at-school/prohibited-items)**
-*   **[Use of handphones](https://www.sji.edu.sg/community/students/conduct-at-school/use-of-digital-devices-and-handphones)**
-*   [**Discipline policies**](https://www.sji.edu.sg/community/students/conduct-at-school/discipline-policies)
+*   [**Code of Conduct**](/community/students/conduct-at-school/code-of-conduct)
+*   [**Conduct in school chapel**](/community/students/conduct-at-school/conduct-in-school-chapel)
+*   [**Conduct during prayers**](/community/students/conduct-at-school/conduct-during-prayers)
+*   [**Conduct in classroom**](/community/students/conduct-at-school/conduct-in-classrooms)
+*   [**Conduct at school assembly and coming late to school**](/community/students/conduct-at-school/conduct-at-assembly-n-latecoming)
+*   [**Examinations rules**](/community/students/conduct-at-school/examinations-rules)
+*   [**School uniform**](/community/students/conduct-at-school/school-uniform)  
+*   [**Prohibited items**](/community/students/conduct-at-school/prohibited-items)
+*   [**Use of handphones**](/community/students/conduct-at-school/use-of-digital-devices-and-handphones)
+*   [**Discipline policies**](/community/students/conduct-at-school/discipline-policies)
