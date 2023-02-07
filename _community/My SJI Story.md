@@ -239,7 +239,7 @@ Community, acceptance, humility
 
 * * *
 
-Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_67470">• Seraphine Lee Suyi</h4>
 
@@ -279,7 +279,8 @@ Cherished, direction, unabashed!
   
 
 * * *
-Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_67718">• Yash Manoj Bhojwani</h4>
 
@@ -320,7 +321,7 @@ Enriching, Motivating & Community.
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_67958">• Neil Bhargava</h4>
 
@@ -363,7 +364,7 @@ Enriching, challenging, unique!
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_68200">• Lim Yu Zhuang Germaine</h4>
 
@@ -406,7 +407,7 @@ Refreshingly enriching challenge!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_68311">• Nathaniel Wong Kin Yew</h4>
 
@@ -449,7 +450,7 @@ Inspiring, joyful and life-changing!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
  
 <h4 id="_ptoh_68473">• Lim Bo Zhi</h4>
 
@@ -489,7 +490,7 @@ Family, Motivating, Awesome!!!
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_68650">• Wee Rui-An Fabien</h4>
 
@@ -534,7 +535,7 @@ Immaculate, Enriching, Engaging!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
  
 <h4 id="_ptoh_69341">• Chew Kai Ming</h4>
 
@@ -575,7 +576,7 @@ As simple as ABC - Amazing, Brotherhood, Centered!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_69814">• Oh Wei Jin</h4>
 
@@ -620,7 +621,7 @@ Values-centric, Bond-forging, Leadership!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70049">• Ernest Ang Boon Khiong</h4>
 
