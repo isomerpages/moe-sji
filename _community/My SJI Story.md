@@ -900,14 +900,11 @@ Extraordinary, Priceless, Supportive!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_73564">• Dai Chong Rui</h4>
 
-• Dai Chong Rui
----------------
-
-![mysjistory-Dai Chongrui.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Dai%20Chongrui.jpg)  
+![Dai Chongrui](/images/mysjistory%20Dai%20Chongrui.jpeg) 
 
 Dai Chongrui joined SJI in Secondary 3 in 2015. He headed the SJI Design Club as its President, and won the Brother McNally Art Prize for the project 'A Difference through Art' with his fellow Design Club members. In 2015, he topped his cohort for the Biology subject. He also won a Silver medal at the Singapore Junior Chemistry Olympiad in 2016. He shares with us what he loves about SJI:
 
