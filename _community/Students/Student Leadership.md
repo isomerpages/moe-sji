@@ -17,9 +17,9 @@ The concept of servant-leadership encourages all of us to serve as we lead.
 
 Our student leadership positions include:
 
-***   [SJI Prefectorial Board](https://www.sji.edu.sg/community/students/student-leadership/sji-prefectorial-board)
-*   [SJI Student Council](https://www.sji.edu.sg/community/students/student-leadership/sji-student-council)
-*   [Class Committee](https://www.sji.edu.sg/community/students/student-leadership/class-committee)**
+*   [**SJI Prefectorial Board**](https://www.sji.edu.sg/community/students/student-leadership/sji-prefectorial-board)
+*   [**SJI Student Council**](https://www.sji.edu.sg/community/students/student-leadership/sji-student-council)
+*   [**Class Committee**](https://www.sji.edu.sg/community/students/student-leadership/class-committee)
 
 SJI Student Leadership Framework
 --------------------------------
