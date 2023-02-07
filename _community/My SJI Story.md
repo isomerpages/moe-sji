@@ -1054,14 +1054,11 @@ Exciting, Challenging and Community!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_77102">• Rachel Ng & Marian Tan</h4>
 
-• Rachel Ng & Marian Tan
-------------------------
-
-![mysjistory-Rachel-Marion.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Rachel-Marion.jpg)  
+![Rachel and Marian](/images/mysjistory%20Rachel%20and%20Marian.png)  
 
 Good friends – Rachel Ng Jie Min and Marian Tan Shiyun joined SJI’s International Baccalaureate Diploma Programme (IBDP) in 2016, after graduating from CHIJ Toa Payoh. Besides holding the fort as House Captain for Lawrence, Rachel has actively participated in her CAS at Soup Kitchen, Bone Marrow Donor Programme and MINDs. Marian has participated in Dragon-boating competitions with the school, and is vice president for her CAS – BEACON and the Legion of Mary (Refuge of Sinners), and volunteers at the Catholic Welfare Services (CWS). Currently in their 2nd year of IBDP, they share with us what they have come to love about SJI:
 
