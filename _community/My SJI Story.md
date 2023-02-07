@@ -1171,14 +1171,11 @@ Enjoyable, company, fun-filled.
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_78142">• Zac and Zon Liew</h4>
 
-• Zac and Zon Liew
-------------------
-
-![mysjistory-Zac+Zon.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Zac+Zon.jpg)  
+![Zac and Zon Liew](/images/mysjistory%20Zac%20and%20Zon.jpeg) 
 
 Twin brothers Zac and Zon Liew came to SJI from Nanyang Primary School through DSA Sports (Gymnastics). Both brothers are national gymnasts from Team Singapore and have represented Singapore and SJI in National Championships and National School Games. Older brother Zac was part of the team that won a gold medal and an Individual All-Around silver medal in the ASEAN School Games (2017). He was also SJI Team Captain for Gymnastics (2016-2017) and was one of the two Sportsmen of the Year 2017. Younger brother Zon was Vice-Captain of Gymnastics and was one of the Executive Committee (EXCO) for Michael Fraternity. The brothers share with us what they have come to love about SJI in the last four years:
 
