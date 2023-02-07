@@ -10,23 +10,21 @@ SJI commemorated its 170th anniversary in 2022 with a series of activities to ma
 
 The 170th anniversary is a time for SJI to celebrate our heritage and presence in Singapore as a gift, and for SJI to share our gift of education, our youths and generations of Josephians with the community at large.
 
-April - December 2022: A Walk in the Light of La Salle
-------------------------------------------------------
+#### April - December 2022: A Walk in the Light of La Salle
 
-![Final_1500x4805.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2022/Final_1500x4805.jpg)  
+![December 2022: A Walk in the Light of La Salle](/images/Final_1500x4805.jpeg)
 
 Visit the virtual site of **[A Walk in the Light of La Salle](https://sites.google.com/sji.edu.sg/awalkinthelightoflasalle)**, a commissioned artwork series celebrating the life, ideology and experiences of our founder, St. John Baptist De La Salle.
 
   
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfKEVrD-IMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 
   
 
-• March 2022: SJI 170th Anniversary Lenten Project
---------------------------------------------------
+#### • March 2022: SJI 170th Anniversary Lenten Project
 
-![homepage 2400x1042px-170Lent.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2022/homepage%202400x1042px-170Lent.jpg)
+![SJI 170th Anniversary Lenten Project](/images/homepage%202400x1042px-170Lent.jpeg)
 
 As part of our commemoration of the 170th Anniversary as well as the observance of Lent, SJI is embarking on the SJI 170 Lent Project and Virtual Walk-Run, which aims to raise the social consciousness of students by encouraging them to share with those who are less fortunate and in need.
 
@@ -34,7 +32,7 @@ As part of our commemoration of the 170th Anniversary as well as the observance 
 
 From 2 March (Ash Wednesday) to 2 June, each student is invited to secure a monetary pledge from donors to contribute to **[Canossaville](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2022/CN-Canossaville.jpg)**, a Catholic social service agency that supports the learning of children with hearing loss. In return, the student will pledge to take part in the SJI Challenge – For every $10 raised, the student will run 1km. Donors can pledge their donations at [**https://www.giving.sg/campaigns/sji-supports-canossaville**](https://www.giving.sg/campaigns/sji-supports-canossaville).
 
-![CN-Canossaville.jpg](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2022/CN-Canossaville.jpg)  
+![Canossaville](/images/CN-Canossaville.jpeg)
 
 * * *
 
