@@ -2,4 +2,5 @@ collections:
   conduct-at-school:
     output: true
     order:
+      - Use Of Digital Devices And Handphones.md
       - Disciplinary Policies.md
