@@ -223,8 +223,7 @@ The Lasallian Distinguished Service Award recognizes the deserving graduating Se
 
  |
 
-• Lasallian Distinguished Leadership & Service Award
-----------------------------------------------------
+<h4 id="_ptoh_78065">• Lasallian Distinguished Leadership & Service Award</h4>
 
 The Lasallian Distinguished Leadership and Service Awards are given to recognize deserving graduating Year 6 students who have shown exemplary witness to the Lasallian values of faith, service and community, being truly men and women of integrity and men and women for others.
 
@@ -314,8 +313,7 @@ The Lasallian Distinguished Leadership and Service Awards are given to recognize
 
  |
 
-• SJIOBA Sportsman of the Year
-------------------------------
+<h4 id="_ptoh_77357">• SJIOBA Sportsman of the Year</h4>
 
 The SJIOBA Sportsman of the Year award is given to the most outstanding graduating sportsman who has achieved the highest level of representation during his four years of schooling in SJI. He receives the SJIOBA Sportsman of the Year Trophy.
 
