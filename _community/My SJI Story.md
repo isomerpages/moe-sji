@@ -489,7 +489,7 @@ Family, Motivating, Awesome!!!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
 <h4 id="_ptoh_68650">• Wee Rui-An Fabien</h4>
 
@@ -534,12 +534,9 @@ Immaculate, Enriching, Engaging!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
-
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-• Chew Kai Ming
----------------
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ 
+<h4 id="_ptoh_68650">• Chew Kai Ming</h4>
 
 ![mysjistory-ChewKaiMing.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-ChewKaiMing.jpg)  
 
