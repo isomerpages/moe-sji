@@ -1492,7 +1492,7 @@ SJI has taught me to reach out to the last, the lost and the least. I have learn
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_1045756">• Julian Teng (Class of 2021)</h4>
 
@@ -1544,7 +1544,7 @@ The SJI community above all teaches love. Love for oneself and love for others. 
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_104577">• Russell Yom Zhenyi</h4>
 
