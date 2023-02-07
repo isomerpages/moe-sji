@@ -8,3 +8,7 @@ links:
     collection: programmes
   - title: Admission
     collection: admission
+  - title: News And Events
+    collection: news-and-events
+  - title: Community
+    collection: community
