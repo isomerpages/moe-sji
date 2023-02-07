@@ -2,6 +2,7 @@ collections:
   conduct-at-school:
     output: true
     order:
+      - School Uniform.md
       - Prohibited Items.md
       - Use Of Digital Devices And Handphones.md
       - Disciplinary Policies.md
