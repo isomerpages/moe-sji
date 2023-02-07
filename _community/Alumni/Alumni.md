@@ -29,3 +29,5 @@ If you are an alumnus of SJI, we welcome you to
 
 *   Connect with us via **[SJI Alumni Portal](http://app.sji.edu.sg/alumni/)** and [**LinkedIn**](https://www.linkedin.com/school/st-josephs-institution/)
 *   Join the **[St Joseph's Institution Old Boys' Association (SJIOBA)](http://www.sjioba.org/)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O1usYi4DJKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
