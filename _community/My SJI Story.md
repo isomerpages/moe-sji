@@ -1543,14 +1543,11 @@ The SJI community above all teaches love. Love for oneself and love for others. 
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_104577">• Russell Yom Zhenyi</h4>
 
-• Russell Yom Zhenyi
---------------------
-
-![mysjistory-RussellYom.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-RussellYom.jpg)  
+![Russell Yom](/images/mysjistory%20RussellYom.jpeg)  
 
 Russell Yom joined SJI from Tao Nan School. As a national sailor with Team Singapore, the former Captain of SJI Sailing CCA and President of Legion of Mary (Ark of the Covenant) in 2021, Russell juggles his studies and sports faithfully. He is currently the reigning champion in the Laser 4.7 and 29er high-performance divisions. A recipient of the Singapore Olympic Foundation - Peter Lim Scholarship 2021, he topped the 29er division at the Singapore National Youth Championships 2021. At the recent sailing competitions, he was the Champion for the International Laser Class Association (ILCA) 4 at the South East Asian Sailing Championships 2021 in Sihanoukville, Cambodia (Dec 2021), Changi Sailing Club (Singapore) Monsoon Cup (Feb 2022), and has qualified to represent Singapore at the Asian Games in Hangzhou.
 
