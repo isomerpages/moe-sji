@@ -300,7 +300,7 @@ SJI, as a school, has a long tradition of offering a brand of **balanced** and
 
   
 
-*   **[Justice Chan Seng Oon (Class of 1972)](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)**  
+*   **[Justice Chan Seng Oon (Class of 1972)](/news-and-events/sji-publications/for-others)**  
     Judge, Supreme Court
 
   
@@ -335,27 +335,26 @@ SJI, as a school, has a long tradition of offering a brand of **balanced** and
 *   **Mr Lionel Yee Woon Chin (Class of 1982)**  
     Principal Senior State Counsel, Attorney General's Chambers
 
-Medical
--------
+#### Medical
 
 *   **[Dato Dr Leslie Lam (Class of 1959)](https://issuu.com/sji-books/docs/lumen22-dec2021/1?ff)**  
     Cardiologist
 
   
 
-*   **[Prof Philip Choo (Class of 1974)](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)**  
+*   **[Prof Philip Choo (Class of 1974)](/news-and-events/sji-publications/for-others)**  
     Group Chief Executive Officer, National Healthcare Group
 
   
 
-*   **[Clinical Associate Professor Patrick Tseng (Class of 1976)](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)**  
+*   **[Clinical Associate Professor Patrick Tseng (Class of 1976)](/news-and-events/sji-publications/for-others)**  
     Chief Dental Officer, Ministry of Health  
     Clinical Associate Professor, Department of Restorative Dentistry, National University of Singapore  
     Senior Consultant, Dental Services, National University Hospital
 
   
 
-*   **[Dr Euan Murugasu (Class of 1978)](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)**  
+*   **[Dr Euan Murugasu (Class of 1978)](/news-and-events/sji-publications/for-others)**  
     Head & Senior Consultant ENT Surgeon, Dept of ENT- Head & Neck Surgery, Jurong Health Services
 
   
@@ -364,8 +363,7 @@ Medical
     CEO of Singapore General Hospital  
     Former CEO of KK Women's and Children's Hospital (KKH)
 
-Sports
-------
+#### Sports
 
 *   **[Mr Rudy Mosbergen (Class of 1948)](https://issuu.com/sji-books/docs/lumen9-june2015/1?ff)**  
     Late Olympian, Sportsman and former Founding Principal of Raffles Junior College (1982-1987)
