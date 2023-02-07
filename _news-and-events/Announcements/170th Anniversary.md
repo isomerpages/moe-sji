@@ -58,7 +58,7 @@ The SJI 170 Challenge is a series of ‘physical challenges’ for Josephians to
 
 The SJI 170th Anniversary logo is designed by Le Hai Long Quan (MN403, Class of 2021) where he aspires to remind Josephians of the Lasallian values of Faith, Service, and Community. Central to the design is the Star of Faith, in Latin “Signum Fidei”. The star is a symbol that guides Josephians through their successes and challenges in life, all of which is part of God’s greater plan. The statue of St John Baptist de La Salle inspires all of us who are part of the educational mission in SJI. It is a reminder of the importance of Service, to always give back to those who have less, especially the poor. A well-intended depiction of human silhouettes is illustrated as four sets of windows, representing the 4 Fraternities of Fintan, Lawrence, Michael and Marcian, which form the SJI Community, a family to which all of us belong.
 
-The 170th anniversary logo was unveiled by outgoing Principal Fr Adrian Danker, SJ and incoming Principal Mr Justin Arul Pierre at the Thanksgiving Ceremony on 29 Oct 2021. (See [details here](https://www.sji.edu.sg/news-and-events/news-highlights/2021#_ptoh_101681))
+The 170th anniversary logo was unveiled by outgoing Principal Fr Adrian Danker, SJ and incoming Principal Mr Justin Arul Pierre at the Thanksgiving Ceremony on 29 Oct 2021. (See [details here](/news-and-events/news-highlights/2021#_ptoh_101681))
 
   
   
