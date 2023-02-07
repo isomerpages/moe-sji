@@ -5,11 +5,11 @@ description: ""
 ---
 SJI recognises Josephians who have contributed significantly through their service to the community during their years with the school. The school acknowledges their contributions through the various SJI awards, such as:
 
-*   [Senior Josephian](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77354)
-*   [Spirit of SJI Award (The Principal's Special Mention)](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77355)
-*   [Lasallian Distinguished Service Award](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77356)
-*   [Lasallian Distinguished Leadership & Service Award](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_78065)
-*   [SJIOBA Sportsman of the Year](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77357)
+*   [Senior Josephian](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77354)
+*   [Spirit of SJI Award (The Principal's Special Mention)](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77355)
+*   [Lasallian Distinguished Service Award](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77356)
+*   [Lasallian Distinguished Leadership & Service Award](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_78065)
+*   [SJIOBA Sportsman of the Year](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77357)
 
 * * *
 
