@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Students/Singapore Student Learning Space.md
       - Students/.keep
       - Parents/Message By Brother President.md
       - Parents/PSG Mission & Vision.md
