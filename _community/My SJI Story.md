@@ -182,12 +182,9 @@ Family, Banter, Epic!
 
 <p style="text-align:right;"><a href="#lo_main">Back to Top</p>
 
-• Noah Joel Lopez
------------------
+<h4 id="_ptoh_67307">• Noah Joel Lopez</h4>
 
-<h4 id="_ptoh_67207">• Elliot Ng Shao Han</h4>
-
-![mysjistory-NoahLopez.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-NoahLopez.jpg)
+![Noah Joel Lopez](/images/mysjistory_NoahLopez.jpeg)
 
   
 
