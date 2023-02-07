@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Alumni/Roll Of Honour.md
       - Alumni/St Joseph's Institution Old Boys' Association (SJIOBA).md
       - Alumni/Alumni.md
       - Alumni/.keep
