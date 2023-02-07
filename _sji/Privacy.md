@@ -7,7 +7,7 @@ St Joseph’s Institution (collectively “SJI”, “us”, “we” or “our�
 
   
 
-### 1\. Introduction
+##### 1\. Introduction
 
 1.1. This PDPA Policy sets out how we collect, use, disclose and protect any Personal Data that you give to us.
 
@@ -31,7 +31,7 @@ e) Technical data such as your internet protocol (IP) address, access times and 
 
   
 
-### 2\. Purpose
+##### 2\. Purpose
 
 2.1. Depending on the nature of your interaction with us (e.g. student, parent, alumnus, staff, applicant, vendor, service provider), the Personal Data collected may be used for various purposes including, but not limited to, the following:-
 
@@ -55,7 +55,7 @@ e) Technical data such as your internet protocol (IP) address, access times and 
 
   
 
-### 3\. Consent
+##### 3\. Consent
 
 Your express consent will be sought when collecting your Personal Data, for the Purposes, uses and disclosures set out above. There will also be instances where your consent for the collection or use of your Personal Data will necessarily be implied from the circumstances by nature of the task or transaction, including your interaction with us or in the course of signing up for, or accepting, any of our activities, services or products.
 
@@ -65,7 +65,7 @@ Where you are supplying the Personal Data of another individual (e.g. informatio
 
   
 
-### 4\. Disclosure
+##### 4\. Disclosure
 
 We may use and disclose your Personal Data within SJI, and with and to third parties.
 
@@ -95,7 +95,7 @@ Apart from your Personal Data, SJI may disclose to carefully chosen third partie
 
   
 
-### 5\. Access, Corrections & Withdrawal of Consent
+##### 5\. Access, Corrections & Withdrawal of Consent
 
 You may request to access and/or correct your Personal Data, or have the option to withdraw your consent for the collection, use or disclosure of your Personal Data for the Purposes currently in our possession or control by submitting a written request to us.
 
@@ -117,7 +117,7 @@ In the case of withdrawal of your consent, please note that your withdrawal coul
 
   
 
-### 6\. Third Parties
+##### 6\. Third Parties
 
 Links may be provided from this website to other third party websites. In using such links, users should be aware that each third party website will vary in terms of its privacy and data protection policies, and SJI does not take responsibility for the comprehensiveness or compliance of the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate vis-à-vis the PDPA or any other applicable law.
 
@@ -127,7 +127,7 @@ You should be aware that identifiable personal information - such as your name o
 
   
 
-### 7\. Security
+##### 7\. Security
 
 We will take reasonable efforts to ensure that your Personal Data is accurate and complete and updated.
 
@@ -141,13 +141,13 @@ We will also take reasonable efforts to ensure that the Personal Data in our pos
 
   
 
-### 8\. Updates on Data Protection Policy
+##### 8\. Updates on Data Protection Policy
 
 Please note that SJI’s PDPA Policy is reviewed periodically. SJI reserves the right to modify its PDPA Policy at any time without notice. We encourage you to check this web page and our website from time to time for any updated versions of this PDPA Policy. Your continued use of this website will be deemed conclusive acceptance of such modification.
 
   
 
-### 9\. Feedback/Complaint Process
+##### 9\. Feedback/Complaint Process
 
 If you have any feedback, complaint or grievance in respect of how SJI has handled or is handling your Personal Data or our PDPA Policy, please do not hesitate to contact us at: [contact@sji.edu.sg](mailto:contact@sji.edu.sg).
 
