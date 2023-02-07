@@ -29,20 +29,21 @@ As we state in the Josephian Pledge, we will at all times, in the spirit of our 
 
 1.3. We support the learning process in our studies
 
-1.  by coming to school each day prepared for serious work, bringing all necessary books and materials for the lessons of the day and we are ready to submit all home assignments on time so that we will receive timely feedback for our work to help us improve;
-2.  by cultivating a sense of personal pride in the quality of work submitted, taking the trouble always to submit work that is well planned, neat and complete as this will help us cultivate the correct work ethics that are essential in the working world that we will enter in future.
+a.  by coming to school each day prepared for serious work, bringing all necessary books and materials for the lessons of the day and we are ready to submit all home assignments on time so that we will receive timely feedback for our work to help us improve;
+b.  by cultivating a sense of personal pride in the quality of work submitted, taking the trouble always to submit work that is well planned, neat and complete as this will help us cultivate the correct work ethics that are essential in the working world that we will enter in future.
 
   
 
 1.4. We support the learning process in our co-curricular activities
 
-1.  by taking part in at least one co-curricular activity and faithfully maintaining active membership throughout our school life as this is part and parcel of developing into a person of commitment;
-2.  by faithfully attending all co-curricular meetings or trainings and this is shown by our attendance rate being at least be at 75% for the year. As a matter of good work ethics, we must not be absent from co-curricular activity for 3 times or more in a row with no valid excuse. Our absence must always be explained by a medical certificate or a letter from our parents.
+a.  by taking part in at least one co-curricular activity and faithfully maintaining active membership throughout our school life as this is part and parcel of developing into a person of commitment;
+b.  by faithfully attending all co-curricular meetings or trainings and this is shown by our attendance rate being at least be at 75% for the year. As a matter of good work ethics, we must not be absent from co-curricular activity for 3 times or more in a row with no valid excuse. Our absence must always be explained by a medical certificate or a letter from our parents.
 
   
 
-### Principle 2  
-As Men for Others, we are called to be builders of a just and gracious community, being respectful towards others all the time.
+<h5><u>Principle 2</u></h5>
+
+**As Men for Others, we are called to be builders of a just and gracious community, being respectful towards others all the time.**
 
   
 
@@ -52,10 +53,10 @@ As we state in the Josephian Pledge, we will at all times, in the spirit of our 
 
 2.2. We respect the dignity of others and treat them the way we would like them to treat us
 
-1.  by doing our best to see the good in others, rather than the bad, making the effort always to praise, affirm and thank more than criticise, judge and condemn;
-2.  by respecting everyone’s right to be different and learning to accept people as they are with both their strengths and weaknesses, always being sensitive to their feelings and needs.
-3.  by addressing everyone in a courteous manner. Being respectful of others, we avoid the use of nicknames especially hurtful or coarse ones and we will always strive to be wholesome in our attitudes, speech and behaviours. As respectful and gracious people, we do not encourage the use of obscenities at any time, including online, and we know it is a serious matter to bring to school any form of pornography, which degrades the dignity of the human person.
-4.  by saying nothing that would reflect unfavourably on anyone’s parents, home, culture, race, language or religion.
+a.  by doing our best to see the good in others, rather than the bad, making the effort always to praise, affirm and thank more than criticise, judge and condemn;
+b.  by respecting everyone’s right to be different and learning to accept people as they are with both their strengths and weaknesses, always being sensitive to their feelings and needs.
+c.  by addressing everyone in a courteous manner. Being respectful of others, we avoid the use of nicknames especially hurtful or coarse ones and we will always strive to be wholesome in our attitudes, speech and behaviours. As respectful and gracious people, we do not encourage the use of obscenities at any time, including online, and we know it is a serious matter to bring to school any form of pornography, which degrades the dignity of the human person.
+d.  by saying nothing that would reflect unfavourably on anyone’s parents, home, culture, race, language or religion.
 
   
 
@@ -63,14 +64,13 @@ As we state in the Josephian Pledge, we will at all times, in the spirit of our 
 
 2.4. We show our respect to those who are senior to us
 
-1.  by always greeting and acknowledging our parents, any Brother, administrator, teacher or member of the non-teaching staff in a respectful manner;
-2.  by making the effort to learn the name and designation of each member of the school staff;
-3.  by our polite behaviour and courteous regard when speaking to or in the presence of adults. We will be respectful to all, especially to elders – teaching staff as well as non-teaching staff (including security and cleaners);
+a.  by always greeting and acknowledging our parents, any Brother, administrator, teacher or member of the non-teaching staff in a respectful manner;
+b.  by making the effort to learn the name and designation of each member of the school staff;
+c.  by our polite behaviour and courteous regard when speaking to or in the presence of adults. We will be respectful to all, especially to elders – teaching staff as well as non-teaching staff (including security and cleaners);
 
-  
+<h5><u>Principle 3</u></h5>
 
-### Principle 3  
-As Men for Others, we exercise the virtue of respect and responsibility by adopting an appropriate behaviour for the right occasion.
+**As Men for Others, we exercise the virtue of respect and responsibility by adopting an appropriate behaviour for the right occasion.**
 
   
 
@@ -88,14 +88,13 @@ As we state in the Josephian Pledge, we will at all times, in the spirit of our 
 
 \* (Prayer before the start of a lesson)
 
-1.  When the teacher steps into the classroom, the prayer leader will ask all in class to stand and greet the teacher.
-2.  The class will then sit and the prayer leader says aloud, "Let us remember that we are in the Holy Presence of God."
-3.  The class will remain silent with their eyes closed for 1 minute (time to be kept by the prayer leader) before the teacher begins the lesson.
+a.  When the teacher steps into the classroom, the prayer leader will ask all in class to stand and greet the teacher.
+b.  The class will then sit and the prayer leader says aloud, "Let us remember that we are in the Holy Presence of God."
+c.  The class will remain silent with their eyes closed for 1 minute (time to be kept by the prayer leader) before the teacher begins the lesson.
 
-  
+<h5><u>Principle 4</u></h5>
 
-### Principle 4  
-As Men for Others, we are responsible for the care of the learning environment so that others and we can benefit from this just stewardship of the environment.
+**As Men for Others, we are responsible for the care of the learning environment so that others and we can benefit from this just stewardship of the environment.**
 
   
 
