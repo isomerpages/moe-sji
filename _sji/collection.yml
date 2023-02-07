@@ -1,4 +1,5 @@
 collections:
   sji:
     output: true
-    order: []
+    order:
+      - Privacy.md
