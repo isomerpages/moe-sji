@@ -15,10 +15,8 @@ The Class Committee enables more students to participate in the management of th
 *   organising and leading the class in the various class activities and school functions.
 *   co-operating with the Class and Subject Tutors to ensure that lessons run smoothly and maximum learning takes place.
 
-How the Committee works
------------------------
-
-![Class_Committee_Structure.jpg](https://www.sji.edu.sg/qql/slot/u560/Students/Student%20Leadership/Class%20Committee/Class_Committee_Structure.jpg)  
+#### How the Committee works
+![Class Committee Structure](/images/Class_Committee_Structure.jpeg)
 
 #### General Duties
 
