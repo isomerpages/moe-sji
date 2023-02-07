@@ -1251,14 +1251,11 @@ Also, the environment SJI has given me to learn, lead, serve and pray in is as t
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_81586">•Alvin Mark Yapp (Class of 1986)</h4>
 
-•Alvin Mark Yapp (Class of 1986)
---------------------------------
-
-![For Others (Alvin).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(Alvin).png)  
+![Alvin](/images/For%20Others%20(Alvin).jpeg)  
 
 An alumnus from the Class of 1986, Alvin is the founder of BusAds and The Intan, an award-winning Peranakan private home museum. He is one of our many artistic alumni who has found success in the creative field. Read more about Alvin and our other alumni in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
 
@@ -1266,27 +1263,21 @@ An alumnus from the Class of 1986, Alvin is the founder of BusAds and The Intan,
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_81641">• Ben Cheong (Class of 1975)</h4>
 
-• Ben Cheong (Class of 1975)
-----------------------------
+![Ben](/images/For%20Others%20(2_Ben).png) 
 
-![For Others (2.Ben).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(2.Ben).png)  
-
-Ben is the founder and director of Magical Light Foundation, a non-profit organisation whose mission is to develop long-term educational programmes and sustainable social development projects for disadvantaged communities in Asia. Read more about Ben and our other alumni, and how they reach out to help others, in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Ben is the founder and director of Magical Light Foundation, a non-profit organisation whose mission is to develop long-term educational programmes and sustainable social development projects for disadvantaged communities in Asia. Read more about Ben and our other alumni, and how they reach out to help others, in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-• Paul Chew (Class of 1988)
----------------------------
+<h4 id="_ptoh_81641">• Paul Chew (Class of 1988)</h4>
 
 ![For Others (3.Paul).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(3.Paul).png)  
 
