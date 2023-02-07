@@ -956,14 +956,11 @@ Exploration. Challenge. Camaraderie!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70853">• Tristan Maximilian Smith</h4>
 
-• Tristan Maximilian Smith
---------------------------
-
-![mysjistory-TristanSmith.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-TristanSmith.jpg)  
+![Tristan Smith](/images/mysjistory%20TristanSmith.jpeg)
 
 Tristan Maximilian Smith joined SJI from St Stephen's School in 2013. Besides being a Student Councillor, Tristan was also the captain for Fintan Fraternity when he was in Secondary 4, and President of Legion of Mary (Seat of Wisdom) in 2016. He has served as an EXCO member for his co-curricular activity – Athletics. His contributions as a Peer Support Facilitator and Leader was instrumental to the smooth running of the school camps. Tristan achieved the Lasallian Distinguished Service Award in 2016. Tristan is embarking on his 5th year of the Integrated Programme at SJI, where he will start his first year (JC1) of the International Baccalaureate Diploma Programme at SJI (Senior section). Having been to two different Lasallian schools, he tells us what he loves about SJI:
 
