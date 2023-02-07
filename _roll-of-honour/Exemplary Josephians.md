@@ -228,119 +228,155 @@ The Lasallian Distinguished Service Award recognizes the deserving graduating Se
 The Lasallian Distinguished Leadership and Service Awards are given to recognize deserving graduating Year 6 students who have shown exemplary witness to the Lasallian values of faith, service and community, being truly men and women of integrity and men and women for others.
 
   
-
-| Year | Awardees (Year 6) |
-| --- | --- |
-| 2022 | 
-1.  Koon Wei Pheng
-2.  Chang San Ying
-3.  Cheng Dana
-4.  Colin Toh Sze Peng
-5.  Lim Zheng Xi Ezra
-6.  Lucas Tan Jia Jing
-7.  Luke Xavier Chew Wen Xiong
-8.  Michele Shu Yi Yin
-9.  Su Myat Noe Maung
-10.  Tay Zhe Qian
-11.  Torance Tan Ying Liang
-12.  Wesley Yiap Wen Le
-13.  Yong Chong You Ambrose
-
- |
-| 2021 | 
-
-1.  Natalie Lisa Chong Yi Ling
-2.  Benjamin Kok
-3.  Cheah Chong Joon Brandon
-4.  Ethan Gerard Goh Qing Qun
-5.  Nathanael Sutjiutama
-6.  Nicholas Tan Yi-Jia
-7.  Phua Xue En Tricia
-
- |
-| 2020 | 
-
-1.  Caitlin Eve Ho Yuen-Ting
-2.  Dylan Sim Rui Hern
-3.  Jane Ee Zi Ying
-4.  Koh Boon Kiat Matthew Henry
-5.  Koh Tze Shyan Benjamin
-6.  Kwong Jon
-7.  Portia Alexandria Lim Jia Ing
-8.  Sassidaran s/o Murugasu
-
- |
-| 2019 | 
-
-1.  Alexander Wilfred Chew Fu Chong
-2.  Anastasia Kurniadi
-3.  Basil Tan Song Sze
-4.  Bhojwani Yash Manoj
-5.  Goh Ning En Glenda
-6.  Loke Fai Jun Jaren
-7.  Low Hui Ann, Zaneta
-8.  Tan Ern Hwee Luke
-
- |
-| 2018 | 
-
-1.  Bou Dolphie  
-    
-2.  Kevan Toh  
-    
-3.  Maretta Simon  
-    
-4.  Neil Bhargava  
-    
-5.  Vedant Chauhan  
-    
-
- |
-| 2017 | 
-
-1.  Cai Lize  
-    
-2.  Jared Sim Yu Hern  
-    
-3.  Jonathan Soong Wei  
-    
-4.  Ng Shao Han Elliot  
-    
-5.  Noah Joel Lopez  
-    
-6.  Pooja Bhagwan S  
-    
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-v6qv{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year</th>
+    <th class="tg-pwos">Awardees (Year 6)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2022</span></td>
+    <td class="tg-mku2">1. Koon Wei Pheng<br>2. Chang San Ying<br>3. Cheng Dana<br>4. Colin Toh Sze Peng<br>5. Lim Zheng Xi Ezra<br>6. Lucas Tan Jia Jing<br>7. Luke Xavier Chew Wen Xiong<br>8. Michele Shu Yi Yin<br>9. Su Myat Noe Maung<br>10. Tay Zhe Qian<br>11. Torance Tan Ying Liang<br>12. Wesley Yiap Wen Le<br>13. Yong Chong You Ambrose</td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2021</span></td>
+    <td class="tg-xd5l">1. Natalie Lisa Chong Yi Ling<br>2. Benjamin Kok<br>3. Cheah Chong Joon Brandon<br>4. Ethan Gerard Goh Qing Qun<br>5. Nathanael Sutjiutama<br>6. Nicholas Tan Yi-Jia<br>7. Phua Xue En Tricia</td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2020</span></td>
+    <td class="tg-mku2">1. Caitlin Eve Ho Yuen-Ting<br>2. Dylan Sim Rui Hern<br>3. Jane Ee Zi Ying<br>4. Koh Boon Kiat Matthew Henry<br>5. Koh Tze Shyan Benjamin<br>6. Kwong Jon<br>7. Portia Alexandria Lim Jia Ing<br>8. Sassidaran s/o Murugasu</td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2019</span></td>
+    <td class="tg-xd5l">1. Alexander Wilfred Chew Fu Chong<br>2. Anastasia Kurniadi<br>3. Basil Tan Song Sze<br>4. Bhojwani Yash Manoj<br>5. Goh Ning En Glenda<br>6. Loke Fai Jun Jaren<br>7. Low Hui Ann, Zaneta<br>8. Tan Ern Hwee Luke</td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2018</span></td>
+    <td class="tg-mku2">1. Bou Dolphie<br>2. Kevan Toh<br>3. Maretta Simon<br>4. Neil Bhargava<br>5. Vedant Chauhan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2017</span></td>
+    <td class="tg-xd5l">1. Cai Lize<br>2. Jared Sim Yu Hern<br>3. Jonathan Soong Wei<br>4. Ng Shao Han Elliot<br>5. Noah Joel Lopez<br>6. Pooja Bhagwan S<br><br></td>
+  </tr>
+</tbody>
+</table>
 
 <h4 id="_ptoh_77357">• SJIOBA Sportsman of the Year</h4>
 
 The SJIOBA Sportsman of the Year award is given to the most outstanding graduating sportsman who has achieved the highest level of representation during his four years of schooling in SJI. He receives the SJIOBA Sportsman of the Year Trophy.
 
   
-
-| Year | Awardees |
-| --- | --- |
-| 2022 | Koh Liang Jie Matthew |
-| 2021 | Russell Yom Zhenyi |
-| 2020 | Dylan, Choo Chi Tao |
-| 2019 | Alden Ler |
-| 2017 | 
-1.  Joshua James Chong
-2.  Liew Jun-Yi Zac
-
- |
-| 2016 | Mahler Jacob William |
-| 2015 | Ng Shao Han Elliot |
-| 2014 | Edward Tan Yi Zhu |
-| 2013 | Riq Harriz B Hamizun Shah |
-| 2012 | Joshua Matthew Lim Tze Han |
-| 2011 | Karthic Harish Ragupathy |
-| 2010 | Timothy Lee Han Kuan |
-| 2009 | Luke Tan Yi Hao |
-| 2008 | Low Wen Hao Lionel Myles |
-| 2007 | Chin Jia Kai Samuel |
-| 2006 | Huang Bairong |
-| 2005 | Lim Zhi Yang Calvin |
-| 2004 | Travis Tay Yi Sheng |
-| 2003 | Teo Wei Yang Kenneth |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-ryqi{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year</th>
+    <th class="tg-pwos">Awardees</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2022</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Koh Liang Jie Matthew</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2021</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Russell Yom Zhenyi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2020</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Dylan, Choo Chi Tao</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2019</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Alden Ler</span></td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2017</span></td>
+    <td class="tg-mku2">Joshua James Chong<br>Liew Jun-Yi Zac</td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2016</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Mahler Jacob William</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2015</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Ng Shao Han Elliot</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2014</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Edward Tan Yi Zhu</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2013</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Riq Harriz B Hamizun Shah</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2012</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Joshua Matthew Lim Tze Han</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2011</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Karthic Harish Ragupathy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2010</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Timothy Lee Han Kuan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2009</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Luke Tan Yi Hao</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2008</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Low Wen Hao Lionel Myles</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2007</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Chin Jia Kai Samuel</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2006</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Huang Bairong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2005</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Lim Zhi Yang Calvin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2004</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Travis Tay Yi Sheng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2003</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Teo Wei Yang Kenneth</span></td>
+  </tr>
+</tbody>
+</table>
