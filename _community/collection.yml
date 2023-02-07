@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Students/Conduct at School.md
       - Students/Four Fraternities Of SJI.md
       - Students/Student Leadership.md
       - Students/Co Curricular Activities (CCA).md
