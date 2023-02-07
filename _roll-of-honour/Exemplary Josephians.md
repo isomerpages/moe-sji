@@ -20,46 +20,166 @@ SJI recognises Josephians who have contributed significantly through their servi
 
 The Senior Josephian of the Year Award is given to a Secondary 4 Josephian who has displayed all-round ability and provided outstanding leadership to his fellow Josephians during the year. The 'Dr Tony Tan Keng Yam' Trophy is the highest award given by the school.
 
-  
-
-| Year | Awardees (Year 4) |
-| --- | --- |
-| 2022 | Koenig Nicholas Gerard (Year 4)  
-Koon Wei Pheng (Year 6) |
-| 2021 | Vincentius Markandeya Santosa (Year 4)  
-Natalie Lisa Chong Yi Ling (Year 6) |
-| 2020 | \- |
-| 2019 | James Aidan Slade Lim En |
-| 2018 | Koh Boon Kiat |
-| 2017 | Alexander Wilfred Chew Fu Chong |
-| 2016 | Neil Bhargava |
-| 2015 | Noah Joel Lopez |
-| 2014 | Chee Yong Qin Aaron |
-| 2013 | Yip En Shen Russell |
-| 2012 | Brandon Krygsman |
-| 2011 | Yu Kai Yan |
-| 2010 | Bryan Lum |
-| 2009 | Brijinder Singh |
-| 2008 | Choo Ruizhi |
-| 2007 | Kwan Ho Chi Alastair |
-| 2006 | Agung Santoso Ongko |
-| 2005 | Jeremy Loi Meng Hui |
-| 2004 | Sim Jing Hui Jerry |
-| 2003 | Muhammad Salman B Mohd Khair |
-| 2002 | Yeoh Keat Loon |
-| 2001 | Foo Yong Hong Nicholas |
-| 2000 | Foo Gen Lin |
-| 1999 | Wong Wei Han Gareth |
-| 1998 | Cheong Yong Kiat |
-| 1997 | Tan Ming Ren Ronald |
-| 1996 | Tan Chin Kwan, Jonathan |
-| 1995 | Tay Thiam Chye |
-| 1994 | Taranpal Singh |
-| 1993 | Kwek Boon Kheng, Lawrence |
-| 1992 | Lau Kwok Wai Jackie |
-| 1991 | Chen Teik Hong, Andrew |
-| 1990 | David Tan Meng Kiat |
-| 1989 | Melvin Chan Kah Keen |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m7s7{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:middle}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-ryqi{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-v6qv{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-5sss{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year</th>
+    <th class="tg-pwos">Awardees (Year 4)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2022</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Koenig Nicholas Gerard (Year 4)</span><br><span style="color:#4C4B4B">Koon Wei Pheng (Year 6)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2021</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Vincentius Markandeya Santosa (Year 4)</span><br><span style="color:#4C4B4B">Natalie Lisa Chong Yi Ling (Year 6)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2020</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2019</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">James Aidan Slade Lim En</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2018</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Koh Boon Kiat</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2017</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Alexander Wilfred Chew Fu Chong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2016</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Neil Bhargava</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2015</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Noah Joel Lopez</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2014</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Chee Yong Qin Aaron</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2013</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Yip En Shen Russell</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2012</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Brandon Krygsman</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2011</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Yu Kai Yan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2010</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Bryan Lum</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2009</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Brijinder Singh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2008</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Choo Ruizhi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2007</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Kwan Ho Chi Alastair</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2006</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Agung Santoso Ongko</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2005</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Jeremy Loi Meng Hui</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2004</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Sim Jing Hui Jerry</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2003</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Muhammad Salman B Mohd Khair</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2002</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Yeoh Keat Loon</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">2001</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Foo Yong Hong Nicholas</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">2000</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Foo Gen Lin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1999</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Wong Wei Han Gareth</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1998</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Cheong Yong Kiat</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1997</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Tan Ming Ren Ronald</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1996</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Tan Chin Kwan, Jonathan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1995</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Tay Thiam Chye</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1994</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Taranpal Singh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1993</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Kwek Boon Kheng, Lawrence</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1992</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">Lau Kwok Wai Jackie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1991</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Chen Teik Hong, Andrew</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5sss"><span style="color:#4C4B4B">1990</span></td>
+    <td class="tg-ryqi"><span style="color:#4C4B4B">David Tan Meng Kiat</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m7s7"><span style="color:#4C4B4B">1989</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">Melvin Chan Kah Keen</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 <h4 id="_ptoh_77355">• Spirit of SJI Award (The Principal's Special Mention)</h4>
@@ -67,38 +187,49 @@ Natalie Lisa Chong Yi Ling (Year 6) |
 The Spirit of SJI Award is presented to a Josephian who best embodies the spirit of SJI. This spirit is exemplified by St Joseph, the school's patron saint, who lived his life by protecting and providing for others. This award is given at the discretion of the Principal and only when there is a graduating student worthy of receiving it.
 
   
-
-| Year | Awardees |
-| --- | --- |
-| 2021 | 
-1.  Adriel Lee Wei Xuan (Year 4)
-2.  Benjamin Kok (Year 6)
-
- |
-| 2020 | \-  
-
- |
-| 2019 | 
-
-1.  Theodore Tang Chee Mun (Year 4)
-2.  Anastasia Kurniadi (Year 6)
-
- |
-| 2018 | 
-
-1.  Gabriel Yeo Chong Jing (Year 4)
-2.  Neil Bhargava (Year 6)
-3.  Vedant Chauhan (Year 6)
-
- |
-| 2017 | 
-
-1.  Basil Tan Song Sze (Year 4)  
-    
-2.  Noah Joel Lopez (Year 6)  
-    
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-v6qv{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year</th>
+    <th class="tg-pwos">Awardees</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2021</span></td>
+    <td class="tg-mku2">1. Adriel Lee Wei Xuan (Year 4)<br>2. Benjamin Kok (Year 6)</td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2020</span></td>
+    <td class="tg-gdnd"><span style="color:#4C4B4B">-</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2019</span></td>
+    <td class="tg-mku2">1. Theodore Tang Chee Mun (Year 4)<br>2. Anastasia Kurniadi (Year 6)</td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2018</span></td>
+    <td class="tg-xd5l">1. Gabriel Yeo Chong Jing (Year 4)<br>2. Neil Bhargava (Year 6)<br>3. Vedant Chauhan (Year 6)</td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2017</span></td>
+    <td class="tg-mku2">1. Basil Tan Song Sze (Year 4)<br>2. Noah Joel Lopez (Year 6)<br></td>
+  </tr>
+</tbody>
+</table>
 
 <h4 id="_ptoh_77356">• Lasallian Distinguished Service Award</h4>
 
