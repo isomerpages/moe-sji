@@ -64,71 +64,71 @@ Find out what some of our current students, alumni and staff share about their J
   </tr>
   <tr>
     <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_78142"><span style="text-decoration:none;color:#006A51">Zac and Zon Liew</span></a><br>(Class of 2017)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_74175"><span style="text-decoration:none;color:#006A51">Tristan Maximilian Smith</span></a><br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_88932"><span style="text-decoration:none;color:#006A51">Low Hui Ann, Zaneta</span></a><br>(Class of 2019)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_74175"><span style="text-decoration:none;color:#006A51">Tristan Maximilian Smith</span></a><br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_88932"><span style="text-decoration:none;color:#006A51">Low Hui Ann, Zaneta</span></a><br>(Class of 2019)</td>
   </tr>
   <tr>
-    <td class="tg-dn89"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70813"><span style="text-decoration:underline;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_69341"><span style="text-decoration:none;color:#006A51">Chew Kai Ming</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_82389"><span style="text-decoration:none;color:#006A51">Michelle Cheney</span></a><br>(Class of 2018)</td>
+    <td class="tg-dn89"><a href="/my-sji-story#_ptoh_70813"><span style="text-decoration:underline;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_69341"><span style="text-decoration:none;color:#006A51">Chew Kai Ming</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_82389"><span style="text-decoration:none;color:#006A51">Michelle Cheney</span></a><br>(Class of 2018)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_73564" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dai ChongRui</span></a> <br>(Class of 2016)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67207"><span style="text-decoration:none;color:#006A51">Elliot Ng Shao Han</span></a><br>(Class of 2017)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70813"><span style="text-decoration:none;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016/2018)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_73564" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dai ChongRui</span></a> <br>(Class of 2016)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67207"><span style="text-decoration:none;color:#006A51">Elliot Ng Shao Han</span></a><br>(Class of 2017)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70813"><span style="text-decoration:none;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016/2018)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70478"><span style="text-decoration:none;color:#006A51">Haris Bin Dzulkifli</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_77102"><span style="text-decoration:none;color:#006A51">Rachel Ng &amp; Marian Tan</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70478"><span style="text-decoration:none;color:#006A51">Haris Bin Dzulkifli</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_77102"><span style="text-decoration:none;color:#006A51">Rachel Ng &amp; Marian Tan</span></a><br>(Class of 2017)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_68650"><span style="text-decoration:none;color:#006A51">Wee Rui-An Fabien</span></a><br>(Class of 2015)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_68650"><span style="text-decoration:none;color:#006A51">Wee Rui-An Fabien</span></a><br>(Class of 2015)</td>
     <td class="tg-gdnd"></td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015/2017)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015/2017)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013)</td>
     <td class="tg-mku2"><br></td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_68200"><span style="text-decoration:none;color:#006A51">Lim Yu Zhuang Germaine</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68200"><span style="text-decoration:none;color:#006A51">Lim Yu Zhuang Germaine</span></a><br>(Class of 2015)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012)</td>
     <td class="tg-xd5l"><br></td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013/2015)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013/2015)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_68473" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Lim Bo Zhi</span></a> <br>(Class of 2012)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68473" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Lim Bo Zhi</span></a> <br>(Class of 2012)</td>
     <td class="tg-mku2"><br></td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67470"><span style="text-decoration:none;color:#006A51">Seraphine Lee Suyi</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67470"><span style="text-decoration:none;color:#006A51">Seraphine Lee Suyi</span></a><br>(Class of 2015)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_82054" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Nicholas Fang</span></a> <br>(Class of 1991)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_82054" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Nicholas Fang</span></a> <br>(Class of 1991)</td>
     <td class="tg-xd5l"><br></td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70276"><span style="text-decoration:none;color:#006A51">Oh Kai En Rachel</span></a><br>(Class of 2014)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70276"><span style="text-decoration:none;color:#006A51">Oh Kai En Rachel</span></a><br>(Class of 2014)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_81778" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Yap Boon Chien</span></a> <br>(Class of 1989)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_81778" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Yap Boon Chien</span></a> <br>(Class of 1989)</td>
     <td class="tg-5sss"></td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012/2014)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012/2014)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_81586"><span style="text-decoration:none;color:#006A51">Alvin Mark Yapp</span></a><br>(Class of 1986)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_81586"><span style="text-decoration:none;color:#006A51">Alvin Mark Yapp</span></a><br>(Class of 1986)</td>
     <td class="tg-xd5l"><br></td>
     <td class="tg-gdnd"></td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_82024" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dr Damian Png</span></a> <br>(Class of 1978)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_82024" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dr Damian Png</span></a> <br>(Class of 1978)</td>
     <td class="tg-mku2"><br></td>
     <td class="tg-mku2"><br></td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_81641" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Ben Cheong</span></a> <br>(Class of 1975)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_81641" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Ben Cheong</span></a> <br>(Class of 1975)</td>
     <td class="tg-xd5l"><br></td>
     <td class="tg-xd5l"><br></td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_81953"><span style="text-decoration:none;color:#006A51">Justice Chan Seng Onn</span></a><br>(Class of 1972)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_81953"><span style="text-decoration:none;color:#006A51">Justice Chan Seng Onn</span></a><br>(Class of 1972)</td>
     <td class="tg-mku2"><br></td>
     <td class="tg-mku2"><br></td>
   </tr>
@@ -138,8 +138,7 @@ Find out what some of our current students, alumni and staff share about their J
 
 * * *
 
-• Elliot Ng Shao Han
---------------------
+<h4 id="_ptoh_67207">• Elliot Ng Shao Han</h4>
 
 ![mysjistory-ElliotNg3.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-ElliotNg3.jpg)  
 
