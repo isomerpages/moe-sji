@@ -196,7 +196,7 @@ Noah, who is outstanding in both character and studies, selfless, active, helpfu
 
   
 
-With his excellent GCE 'O' Level results in 2015, Noah is now in his first year of the [**International Baccalaureate Diploma Programme**](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme) at SJI (Senior section).
+With his excellent GCE 'O' Level results in 2015, Noah is now in his first year of the [**International Baccalaureate Diploma Programme**](/programmes/academic-programmes/ib-diploma-programme) at SJI (Senior section).
 
   
 
@@ -239,14 +239,11 @@ Community, acceptance, humility
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_67470">• Seraphine Lee Suyi</h4>
 
-• Seraphine Lee Suyi
---------------------
-
-![mysjistory-SeraphineLee.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-SeraphineLee.jpg)  
+![Seraphine Lee](/images/mysjistory_SeraphineLee.jpeg)
 
 Seraphine Lee Suyi graduated from SJI in 2015. Coming from an all-girls’ school Singapore Chinese Girls' School after her GCE ‘O’ levels, she was one of the 80 students who undertook the two-year International Baccalaureate Diploma Programme at SJI (Senior section).
 
