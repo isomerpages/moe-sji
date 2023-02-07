@@ -1277,9 +1277,9 @@ Ben is the founder and director of Magical Light Foundation, a non-profit organi
 
 [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-<h4 id="_ptoh_81641">• Paul Chew (Class of 1988)</h4>
+<h4>• Paul Chew (Class of 1988)</h4>
 
-![For Others (3.Paul).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(3.Paul).png)  
+![Paul](/images/For%20Others%20(3_Paul).png) 
 
 Brigadier General Paul Chew formally began his career with SAF in 1996, upon graduating with a Master's in Aeronautical Engineering. Since then, he has been serving the country, holding a diverse range of senior command and staff appointments in the SAF. Read more about Paul and our other alumni, and how they serve the nation in different ways, in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
 
