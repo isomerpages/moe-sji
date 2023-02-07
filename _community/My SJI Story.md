@@ -412,7 +412,7 @@ Refreshingly enriching challenge!
 
 ![Nathaniel Wong](/images/mysjistory%20NathanielWong.jpeg)
 
-Nathaniel Wong Kin Yew was one of our pioneer batch of graduates who undertook the **[International Baccalaureate Diploma Programme (IBDP)](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** that started in 2013. He joined SJI at Secondary One from Holy Innocents' Primary School, and was soon elected as a prefect, and a Peer Support Leader and Facilitator when he was in upper secondary. Nathaniel was also the President of St Vincent De Paul Society (SVDP), and the Assistant Company Sergeant Major in SJI NCC (Air). In recognition for his leadership skills, he was given the Lasallian Distinguished Service Award at Secondary Four. He continued his pre-university studies at SJI, to pursue the IBDP after his O-levels, and initiated the first Camp INSPIRE for the IB students in 2013.  
+Nathaniel Wong Kin Yew was one of our pioneer batch of graduates who undertook the **[International Baccalaureate Diploma Programme (IBDP)](/programmes/academic-programmes/ib-diploma-programme)** that started in 2013. He joined SJI at Secondary One from Holy Innocents' Primary School, and was soon elected as a prefect, and a Peer Support Leader and Facilitator when he was in upper secondary. Nathaniel was also the President of St Vincent De Paul Society (SVDP), and the Assistant Company Sergeant Major in SJI NCC (Air). In recognition for his leadership skills, he was given the Lasallian Distinguished Service Award at Secondary Four. He continued his pre-university studies at SJI, to pursue the IBDP after his O-levels, and initiated the first Camp INSPIRE for the IB students in 2013.  
   
 With his outstanding IB results in 2014, Nathaniel was awarded the prestigious PSC SAF Scholarship in 2015, and he is currently studying electrical engineering in Northwestern University in US. He shares with us what he loves about his six years in SJI:
 
@@ -449,14 +449,11 @@ Inspiring, joyful and life-changing!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ 
+<h4 id="_ptoh_68473">• Lim Bo Zhi</h4>
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-• Lim Bo Zhi
-------------
-
-![mysjistory-LimBoZhi.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-LimBoZhi.jpg)  
+![Lim Bo Zhi](/images/LimBoZhi.jpeg)
 
 Lim Bo Zhi came from St Michael's School (now known as SJI Junior) and graduated from SJI in 2012. He overcame the death of his parents during his teenage years, in the midst of his secondary studies. Despite being orphaned at 18, Bo Zhi graduated with 13 points for his GCE O-levels examinations. He then continued to pursue his diploma in computer engineering at Singapore Polytechnic (SP), where he topped his 2016 cohort to graduate with a near-perfect grade point average (GPA) of 3.968 out of 4.0.  
   
@@ -492,14 +489,11 @@ Family, Motivating, Awesome!!!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_68650">• Wee Rui-An Fabien</h4>
 
-• Wee Rui-An Fabien
--------------------
-
-![mysjistory-Wee Rui-An Fabien.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Wee%20Rui-An%20Fabien.jpg)  
+![Wee Rui An Fabien](/images/mysjistory%20Wee%20Rui%20An%20Fabien.jpeg)
 
 Joining SJI from De La Salle School in 2012, Wee Rui-An Fabien has created a positive impact in the four years he was with SJI. He was a member of the Student Council, a prefect, captain of the SJI rugby team, vice-president of Catholic group – Legion of Mary, a Peer Support Leader and Facilitator. Fabien exemplifies what a true Josephian should be: one who works hard, studies hard, plays hard, and is ever willing to give of himself to others and the school.  
   
