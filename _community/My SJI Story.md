@@ -406,14 +406,11 @@ Refreshingly enriching challenge!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_68311">• Nathaniel Wong Kin Yew</h4>
 
-• Nathaniel Wong Kin Yew
-------------------------
-
-![mysjistory-NathanielWong.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-NathanielWong.jpg)  
+![Nathaniel Wong](/images/mysjistory%20NathanielWong.jpeg)
 
 Nathaniel Wong Kin Yew was one of our pioneer batch of graduates who undertook the **[International Baccalaureate Diploma Programme (IBDP)](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** that started in 2013. He joined SJI at Secondary One from Holy Innocents' Primary School, and was soon elected as a prefect, and a Peer Support Leader and Facilitator when he was in upper secondary. Nathaniel was also the President of St Vincent De Paul Society (SVDP), and the Assistant Company Sergeant Major in SJI NCC (Air). In recognition for his leadership skills, he was given the Lasallian Distinguished Service Award at Secondary Four. He continued his pre-university studies at SJI, to pursue the IBDP after his O-levels, and initiated the first Camp INSPIRE for the IB students in 2013.  
   
