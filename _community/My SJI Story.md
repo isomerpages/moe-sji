@@ -1387,14 +1387,11 @@ Fulfilling, Adventure, Love!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_88591">• Theodore Tang Chee Mun (Class of 2019)</h4>
 
-• Theodore Tang Chee Mun (Class of 2019)
-----------------------------------------
-
-![mysjistory-TheodoreTang(A1).jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-TheodoreTang(A1).jpg)  
+![Theodore Tang](/images/mysjistory%20TheodoreTang(A1).jpeg) 
 
 Theodore Tang Chee Mun joined SJI from De La Salle Primary School in 2016. He led the Squash Team as their Captain (B-Division) and was the Vice-captain for C-Division in lower secondary. Theodore was the Head of ACE leaders who led the Adventure Camp and Expeditions (ACE) camps for Year 1 students in Pulau Ubin. He has also volunteered with the Bukit Gombak Eagles Interact Club where he served as its Secretary in 2018 and the Publicity Director in 2019. In recognition of his leadership, Theodore was awarded the Teo Cheng Guan Student Leader Award and the Spirit of SJI Award in 2019.
 
