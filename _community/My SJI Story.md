@@ -38,9 +38,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019)</td>
+    <td class="tg-5avn"><a href="#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019)</td>
     <td class="tg-5avn"><a href="/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
+    <td class="tg-5avn"><a href="#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
   </tr>
   <tr>
     <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70717" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a> <br>(Class of 2018)</td>
