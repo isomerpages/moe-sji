@@ -3,7 +3,7 @@ title: PSC Scholars
 permalink: /community/alumni/roll-of-honour/psc-scholars/
 description: ""
 ---
-In addition to the prestigious [President's scholarship](https://www.sji.edu.sg/community/alumni/roll-of-honour/presidents-scholars), the Singapore Public Service Commission (PSC) also awards a range of other scholarships for both overseas and local studies. Josephians who were winners of some of the more important scholarships such as the Overseas Merit Scholarships (Open) and Overseas Specialist Awards are listed below.
+In addition to the prestigious [President's scholarship](/community/alumni/roll-of-honour/presidents-scholars), the Singapore Public Service Commission (PSC) also awards a range of other scholarships for both overseas and local studies. Josephians who were winners of some of the more important scholarships such as the Overseas Merit Scholarships (Open) and Overseas Specialist Awards are listed below.
 
 #### Overseas Merit Scholarship
 
