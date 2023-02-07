@@ -2,4 +2,5 @@ collections:
   roll-of-honour:
     output: true
     order:
+      - University Scholars.md
       - Exemplary Josephians.md
