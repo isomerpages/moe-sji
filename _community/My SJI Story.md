@@ -1257,7 +1257,7 @@ Also, the environment SJI has given me to learn, lead, serve and pray in is as t
 
 ![Alvin](/images/For%20Others%20(Alvin).jpeg)  
 
-An alumnus from the Class of 1986, Alvin is the founder of BusAds and The Intan, an award-winning Peranakan private home museum. He is one of our many artistic alumni who has found success in the creative field. Read more about Alvin and our other alumni in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+An alumnus from the Class of 1986, Alvin is the founder of BusAds and The Intan, an award-winning Peranakan private home museum. He is one of our many artistic alumni who has found success in the creative field. Read more about Alvin and our other alumni in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
@@ -1491,14 +1491,11 @@ SJI has taught me to reach out to the last, the lost and the least. I have learn
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_1045756">• Julian Teng (Class of 2021)</h4>
 
-• Julian Teng (Class of 2021)
------------------------------
-
-![mysjistory-JulianTeng.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-JulianTeng.jpg)  
+![Julien Teng](/images/mysjistory%20JulianTeng.jpeg)
 
 Julian Teng joined the SJI Integrated Programme from Catholic High School (Primary). Throughout his six years in SJI, Julian has achieved stellar results in his studies, especially in both English and Mother Tongue languages. He also dedicated his time to serving the SJI community through the Senior Student Council (2020-2021) where he headed its Social Media Committee, and in the Prefectorial Board Exco (2018-2019) and Scout Troop Exco (2018-2019). He was a recipient of several distinguished awards including the EAGLES Award (2021), Lasallian Distinguished Service Award (2019), Edusave Character Award (2017 & 2019) and Lasallian Character Award (2017).
 
