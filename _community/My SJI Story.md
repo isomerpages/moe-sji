@@ -1329,20 +1329,17 @@ Dr Damian Png is a senior consultant specialising in urology and the Chairman of
 
 ![Nicholas Fang](/images/For%20Others%20(8_Nick).png)
 
-Nicholas Fang is a well-known sportsman who has represented Singapore in both fencing and triathlon. After retiring from active competition, he played a pivotal role in fencing and modern pentathlon by helming both National Sports Associations, preparing the national teams for competitions, raising funds and awareness for both sports. Read about how sports has shaped him and taught him lifelong values in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Nicholas Fang is a well-known sportsman who has represented Singapore in both fencing and triathlon. After retiring from active competition, he played a pivotal role in fencing and modern pentathlon by helming both National Sports Associations, preparing the national teams for competitions, raising funds and awareness for both sports. Read about how sports has shaped him and taught him lifelong values in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_82389">• Michelle Cheney (Class of 2018)</h4>
 
-• Michelle Cheney (Class of 2018)
----------------------------------
-
-![mysjistory-Michelle.png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Michelle.png)  
+![Michelle Cheney](/images/mysjistory%20Michelle.png)  
 
 Michelle Cheney joined SJI after graduating from CHIJ Toa Payoh in 2016. She is a member of SJI Student Council (Senior Section) from 2017-2018. As an active Catholic and sportswoman, Michelle is the President of the Legion of Mary (Refuge of Sinner Praesidium) and a footballer with SJI’s first Woman Football Team (A Division) from 2017-2018. She is also a member of Singapore National Youth Choir and a youth volunteer at the Institute of Mental Health for the last 2 years. She tells us what she loves about SJI:
 
