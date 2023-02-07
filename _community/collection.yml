@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Parents/Join SJI PSG.md
       - Parents/Links For Parents.md
       - Parents/.keep
       - Alumni/.keep
