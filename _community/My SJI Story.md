@@ -1287,59 +1287,47 @@ Brigadier General Paul Chew formally began his career with SAF in 1996, upon gra
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_81778">• Yap Boon Chien (Class of 1989)</h4>
 
-• Yap Boon Chien (Class of 1989)
---------------------------------
+![Yap Boon Chien](/images/For%20Others%20(4_YBC).png)
 
-![For Others (4.YBC).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(4.YBC).png)  
-
-Yap Boon Chien is a Physics Master Teacher at the Academy of Singapore Teachers, a pedagogical leader and a mentor in the wider education community. Read more about Boon Chien and our alumni who are passionate about educating our future generations in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Yap Boon Chien is a Physics Master Teacher at the Academy of Singapore Teachers, a pedagogical leader and a mentor in the wider education community. Read more about Boon Chien and our alumni who are passionate about educating our future generations in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_81953">• Justice Chan Seng Onn (Class of 1972)</h4>
 
-• Justice Chan Seng Onn (Class of 1972)
----------------------------------------
+![Seng Onn](/images/For%20Others%20(6_SengOnn).png)  
 
-![For Others (6.SengOnn).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(6.SengOnn).png)  
-
-Justice Chan is the recipient of the 1973 President's Scholarship and Colombo Plan Scholarship. In 1976, he graduated with First Class Honours from University College London in Engineering and received the A.P. Head Medal, the highest engineering award for being the top student in the Faculty of Engineering. Read about his unusual career change to the legal field in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Justice Chan is the recipient of the 1973 President's Scholarship and Colombo Plan Scholarship. In 1976, he graduated with First Class Honours from University College London in Engineering and received the A.P. Head Medal, the highest engineering award for being the top student in the Faculty of Engineering. Read about his unusual career change to the legal field in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_82024">• Dr Damian Png (Class of 1978)</h4>
 
-• Dr Damian Png (Class of 1978)
--------------------------------
+![Damian](/images/For%20Others%20(7_Damian).png)  
 
-![For Others (7.Damian).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(7.Damian).png)  
-
-Dr Damian Png is a senior consultant specialising in urology and the Chairman of “A Call to Share” (ACTS). Read about how SJI has influenced him to become a doctor and to be involved in community service in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Dr Damian Png is a senior consultant specialising in urology and the Chairman of “A Call to Share” (ACTS). Read about how SJI has influenced him to become a doctor and to be involved in community service in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_82054">• Nicholas Fang (Class of 1991)</h4>
 
-• Nicholas Fang (Class of 1991)
--------------------------------
-
-![For Others (8.Nick).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/For%20Others%20(8.Nick).png)  
+![Nicholas Fang](/images/For%20Others%20(8_Nick).png)
 
 Nicholas Fang is a well-known sportsman who has represented Singapore in both fencing and triathlon. After retiring from active competition, he played a pivotal role in fencing and modern pentathlon by helming both National Sports Associations, preparing the national teams for competitions, raising funds and awareness for both sports. Read about how sports has shaped him and taught him lifelong values in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
 
