@@ -11,7 +11,7 @@ description: ""
 
   
 
-<p id="">Find out what some of our current students, alumni and staff share about their Josephian lives and loves about SJI:</p>
+<p id="lo_main">Find out what some of our current students, alumni and staff share about their Josephian lives and loves about SJI:</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
