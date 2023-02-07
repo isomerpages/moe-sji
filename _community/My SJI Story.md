@@ -1006,14 +1006,11 @@ Unforgettable, Brotherhood, Enriching!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_75351">• Blake John Carlyle</h4>
 
-• Blake John Carlyle
---------------------
-
-![mysjistory-BLAKE JOHN CARLYLE.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-BLAKE%20JOHN%20CARLYLE.jpg)  
+![Blake John Carlyle](/images/mysjistory%20BLAKE%20JOHN%20CARLYLE.jpeg)  
 
 Blake John Carlyle joined SJI from Greendale Primary School in 2015. A natural talent in sailing, Blake has represented the SAF Yacht Club (SAFYC) to Busan, Korea for the Busan-Fukuoka-Singapore friendly regatta in 2015. His sailing achievements have won him the top ranking boy award for DSP in Silver Fleet for SAFYC. At SJI, he has also achieved the Colors Award in 2015 and 2016. In Secondary 2, Blake graduated as ACE leader and was the Vice-Chairman for his class ML202. After spending two years in SJI, he shares with us what he loves about SJI:
 
