@@ -18,7 +18,7 @@ The Class Committee enables more students to participate in the management of th
 #### How the Committee works
 ![Class Committee Structure](/images/Class_Committee_Structure.jpeg)
 
-#### General Duties
+###### General Duties
 
   
 
@@ -29,7 +29,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### Chairman
+###### Chairman
 
   
 
@@ -42,7 +42,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### Secretary
+###### Secretary
 
   
 
@@ -53,7 +53,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### Prayer Leader
+###### Prayer Leader
 
   
 
@@ -63,7 +63,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### Environment Representative
+###### Environment Representative
 
   
 
@@ -74,7 +74,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### CCA Representative
+###### CCA Representative
 
   
 
@@ -87,7 +87,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### AV Representative
+###### AV Representative
 
   
 
@@ -98,7 +98,7 @@ The Class Committee enables more students to participate in the management of th
 
   
 
-#### Note:
+###### Note:
 
   
 
