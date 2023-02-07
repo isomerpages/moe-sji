@@ -542,7 +542,7 @@ Immaculate, Enriching, Engaging!
 
 Kai Ming joined SJI from Bukit Timah Primary School in 2012. Although he was apprehensive about coming to SJI initially, his impression of SJI changed after attending the Secondary One orientation camp. The next four years saw Kai Ming rose through the ranks in his CCA, to become the Troop Leader of the SJI Pelandok Scout Group from 2014 – 2015. He also achieved the Chief Commissioner’s Award (Scouts) in 2015, and was a member of the 4th SJI Student Council from 2014 – 2015.  
   
-Kai Ming is now in his 5th year of the Integrated Programme in SJI, where he is in his first year of the [**International Baccalaureate Diploma Programme**](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme) at the Senior section. He shares with us his SJI journey so far:
+Kai Ming is now in his 5th year of the Integrated Programme in SJI, where he is in his first year of the [**International Baccalaureate Diploma Programme**](/programmes/academic-programmes/ib-diploma-programme) at the Senior section. He shares with us his SJI journey so far:
 
   
 
@@ -575,14 +575,11 @@ As simple as ABC - Amazing, Brotherhood, Centered!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_69814">• Oh Wei Jin</h4>
 
-• Oh Wei Jin
-------------
-
-![mysjistory-Oh Wei Jin.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Oh%20Wei%20Jin.jpg)  
+![](/images/mysjistory%20Oh%20Wei%20Jin.jpeg)
 
 Wei Jin joined SJI from SJI Junior in 2010. He has won numerous awards for representing SJI at various competitions for Fencing, Robotics and Chinese Percussions from 2010-2015. Wei Jin was the Chairman for Chinese Cultural Society, the Head of Welfare in the Student Council (2012-2013) and a Peer Support Facilitator who was the Camp Commandant for the 2013 Secondary 1 Orientation Camp. In recognition of his leadership skills, he achieved the Lasallian Distinguished Service Award in 2013.  
   
