@@ -1,4 +1,5 @@
 collections:
   roll-of-honour:
     output: true
-    order: []
+    order:
+      - Exemplary Josephians.md
