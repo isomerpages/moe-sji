@@ -23,7 +23,59 @@ Between 1950s and late 1980s, countries such as UK, Australia, Canada and New Ze
 
 #### New Zealand (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1983</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tang Weng Fai</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1981</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Leong Hon Keong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1980</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chew Hong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1975</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Chee Fong Joseph</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1971</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ahmad Fawzi B Ayuby Berseh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1968</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Kok Hon<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chia Kum Cheong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Shee Ping Yah</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1967</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Soo Hock William</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-ufij{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1983</th>
+    <th class="tg-gdnd">Tang Weng Fai</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1981</td>
+    <td class="tg-7ngr">Leong Hon Keong</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1980</td>
+    <td class="tg-gdnd">Chew Hong</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1975</td>
+    <td class="tg-7ngr">Wong Chee Fong Joseph</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1971</td>
+    <td class="tg-gdnd">Ahmad Fawzi B Ayuby Berseh</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1968</td>
+    <td class="tg-7ngr">Chan Kok Hon<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Chia Kum Cheong</td>
+  </tr>
+  <tr>
+    <td class="tg-ufij"></td>
+    <td class="tg-7ngr">Shee Ping Yah</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1967</td>
+    <td class="tg-gdnd">Tan Soo Hock William</td>
+  </tr>
+</tbody>
+</table>
 
 #### New Zealand (Teaching)
 
