@@ -3,16 +3,9 @@ title: Code Of Conduct
 permalink: /community/students/conduct-at-school/code-of-conduct/
 description: ""
 ---
-(Based on the Josephian Pledge – 2001)
+<p style="text-align:center;">(Based on the Josephian Pledge – 2001)<br><br><strong><em>Sow a thought, reap an act; <br>Sow an act, reap a habit;<br>Sow a habit, reap a character; <br>Sow a character, reap a DESTINY.<br></em></strong>- Samuel Smiles</p>
 
-_**Sow a thought, reap an act;  
-Sow an act, reap a habit;  
-Sow a habit, reap a character;  
-Sow a character, reap a DESTINY.**_  
-\- Samuel Smiles
-
-PREAMBLE
---------
+#### PREAMBLE
 
 The mission of St Joseph’s Institution (SJI), which is a school of the Christian Brothers of St John Baptist De La Salle, is to form a community where teachers and students can live their faith and become the persons that God wants them to be.
 
