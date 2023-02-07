@@ -140,7 +140,7 @@ Find out what some of our current students, alumni and staff share about their J
 
 <h4 id="_ptoh_67207">• Elliot Ng Shao Han</h4>
 
-![mysjistory-ElliotNg3.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-ElliotNg3.jpg)  
+![Elliot Ng Shao Han](/images/mysjistory_ElliotNg3.jpeg)
 
 Ng Shao Han Elliot joined SJI from Holy Innocents Primary School in 2012. He distinguished himself in his primary school as captain of the football team. With stellar PSLE results, he successfully qualified for a place in SJI (Integrated Programme track) and more so, a place in the coveted football team which was formed in 2012 after a long hiatus of 37 years.
 
