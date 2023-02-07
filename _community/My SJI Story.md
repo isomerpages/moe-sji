@@ -38,32 +38,32 @@ Find out what some of our current students, alumni and staff share about their J
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70717" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a> <br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70717" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a> <br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70049"><span style="text-decoration:none;color:#006A51">Ernest Ang Boon Khiong</span></a><br>(Class of 2020)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019/2021)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70049"><span style="text-decoration:none;color:#006A51">Ernest Ang Boon Khiong</span></a><br>(Class of 2020)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019/2021)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_75351"><span style="text-decoration:none;color:#006A51">Blake John Carlyle</span></a><br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67718"><span style="text-decoration:none;color:#006A51">Yash Manoj Bhojwani</span></a><br>(Class of 2019)</td>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70717"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a><br>(Class of 2018/2020)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_75351"><span style="text-decoration:none;color:#006A51">Blake John Carlyle</span></a><br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67718"><span style="text-decoration:none;color:#006A51">Yash Manoj Bhojwani</span></a><br>(Class of 2019)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70717"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a><br>(Class of 2018/2020)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_77312"><span style="text-decoration:none;color:#006A51">Joshua James Chong</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_67958"><span style="text-decoration:none;color:#006A51">Neil Bhargava</span></a><br>(Class of 2018)</td>
-    <td class="tg-5avn"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018/2020)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_77312"><span style="text-decoration:none;color:#006A51">Joshua James Chong</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67958"><span style="text-decoration:none;color:#006A51">Neil Bhargava</span></a><br>(Class of 2018)</td>
+    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018/2020)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_78142"><span style="text-decoration:none;color:#006A51">Zac and Zon Liew</span></a><br>(Class of 2017)</td>
+    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_78142"><span style="text-decoration:none;color:#006A51">Zac and Zon Liew</span></a><br>(Class of 2017)</td>
     <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_74175"><span style="text-decoration:none;color:#006A51">Tristan Maximilian Smith</span></a><br>(Class of 2018)</td>
     <td class="tg-9gpo"><a href="https://www.sji.edu.sg/my-sji-story#_ptoh_88932"><span style="text-decoration:none;color:#006A51">Low Hui Ann, Zaneta</span></a><br>(Class of 2019)</td>
   </tr>
