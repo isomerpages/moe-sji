@@ -30,11 +30,11 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-mku2"><span style="color:#4C4B4B">Office hours:</span></td>
-    <td class="tg-mku2"><span style="color:#4C4B4B">Mondays to Fridays, 7am - 6pm. Closed on weekends and public holidays. [</span> <a href="https://www.sji.edu.sg/community/students/terms-n-holidays">Term dates</a> <span style="color:#4C4B4B">]</span><br><span style="color:#4C4B4B">(Operating hours may differ during school holidays. Please call the school before arrival.)</span><br><span style="color:#4C4B4B">All visitors are required to register at the security post located at our main entrance at Malcolm Road.</span></td>
+    <td class="tg-mku2"><span style="color:#4C4B4B">Mondays to Fridays, 7am - 6pm. Closed on weekends and public holidays. [</span> <a href="/community/students/terms-n-holidays">Term dates</a> <span style="color:#4C4B4B">]</span><br><span style="color:#4C4B4B">(Operating hours may differ during school holidays. Please call the school before arrival.)</span><br><span style="color:#4C4B4B">All visitors are required to register at the security post located at our main entrance at Malcolm Road.</span></td>
   </tr>
   <tr>
     <td class="tg-gdnd"><span style="color:#4C4B4B">Address:</span></td>
-    <td class="tg-gy1k">38 Malcolm Road, Singapore 308274. <span style="color:#4C4B4B">[</span> <a href="https://www.sji.edu.sg/contact#_ptoh_78094">Getting to SJI</a> <span style="color:#4C4B4B">]</span></td>
+    <td class="tg-gy1k">38 Malcolm Road, Singapore 308274. <span style="color:#4C4B4B">[</span> <a href="#_ptoh_78094">Getting to SJI</a> <span style="color:#4C4B4B">]</span></td>
   </tr>
   <tr>
     <td class="tg-ryqi"><span style="color:#4C4B4B">Phone:</span></td>
@@ -108,7 +108,7 @@ description: ""
 </tbody>
 </table>
 
-#### Getting To SJI
+<h4 id="_ptoh_78094">Getting To SJI</h4>
 
 
 ##### **A) Bus [(Click here for bus guide)](https://www.lta.gov.sg/content/ltagov/en/map/bus.html#)**
