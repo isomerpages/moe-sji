@@ -27,13 +27,104 @@ Between 1950s and late 1980s, countries such as UK, Australia, Canada and New Ze
 
 #### New Zealand (Teaching)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1981</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yap Theam Huat Justin</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-gdnd">1981</td>
+    <td class="tg-gdnd">Yap Theam Huat Justin</td>
+  </tr>
+</thead>
+</table>
 
   
 
 #### UK (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1975</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yeong Wai Seng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1974</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chee Swee Heng, Lawrence</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1972</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lau Li Hien-Henry<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Hui Kim Sung, Joseph</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Daniel Cuthbert Ee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1969</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Poh Ann<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lee Yoke Loon</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ho Hon Wai</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chow Yew Tong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1966</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Young Pak Nang<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ng Fook Kheong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1965</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chew Poo Chin</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1964</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tai Yong Khow<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ng Chit Tong, Peter</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lee Yang Cheow</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-ufij{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1975</th>
+    <th class="tg-gdnd">Yeong Wai Seng</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1974</td>
+    <td class="tg-7ngr">Chee Swee Heng, Lawrence</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1972</td>
+    <td class="tg-gdnd">Lau Li Hien-Henry<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ufij"></td>
+    <td class="tg-7ngr">Hui Kim Sung, Joseph</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Daniel Cuthbert Ee</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1969</td>
+    <td class="tg-7ngr">Tan Poh Ann<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Lee Yoke Loon</td>
+  </tr>
+  <tr>
+    <td class="tg-ufij"></td>
+    <td class="tg-7ngr">Ho Hon Wai</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Chow Yew Tong</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1966</td>
+    <td class="tg-7ngr">Young Pak Nang<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Ng Fook Kheong</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1965</td>
+    <td class="tg-7ngr">Chew Poo Chin</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1964</td>
+    <td class="tg-gdnd">Tai Yong Khow<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ufij"></td>
+    <td class="tg-7ngr">Ng Chit Tong, Peter</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Lee Yang Cheow</td>
+  </tr>
+</tbody>
+</table>
 
 #### UK (University)
 
