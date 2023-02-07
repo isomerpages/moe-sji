@@ -2,5 +2,6 @@ collections:
   roll-of-honour:
     output: true
     order:
+      - Ministry and Statutory Board Scholars.md
       - University Scholars.md
       - Exemplary Josephians.md
