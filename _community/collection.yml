@@ -2,5 +2,6 @@ collections:
   community:
     output: true
     order:
+      - Friends Of SJI.md
       - My SJI Story.md
       - Community.md
