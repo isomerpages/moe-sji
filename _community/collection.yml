@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Alumni.md
       - Staff.md
       - Friends Of SJI.md
       - My SJI Story.md
