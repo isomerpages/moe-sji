@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Students/SJI Student Portal.md
       - Students/Conduct At School.md
       - Students/Four Fraternities Of SJI.md
       - Students/Student Leadership.md
