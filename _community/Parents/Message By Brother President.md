@@ -27,8 +27,6 @@ There are many activities in the pipeline and we hope you would be involved dire
 God bless us all.
 
   
-Sincerely yours,
-
-Bro. Paul Ho
-
+Sincerely yours, <br>
+Bro. Paul Ho <br>
 Brother President
