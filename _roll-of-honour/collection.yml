@@ -1,0 +1,4 @@
+collections:
+  roll-of-honour:
+    output: true
+    order: []
