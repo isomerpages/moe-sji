@@ -5,16 +5,18 @@ description: ""
 ---
 SJI recognises Josephians who have contributed significantly through their service to the community during their years with the school. The school acknowledges their contributions through the various SJI awards, such as:
 
-*   [Senior Josephian](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77354)
-*   [Spirit of SJI Award (The Principal's Special Mention)](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77355)
-*   [Lasallian Distinguished Service Award](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77356)
-*   [Lasallian Distinguished Leadership & Service Award](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_78065)
-*   [SJIOBA Sportsman of the Year](/community/alumni/roll-of-honour/exemplary-josephians#_ptoh_77357)
+<ul>
+<li><a href="#_ptoh_77354">Senior Josephian</a></li>
+<li><a href="#_ptoh_77355">Spirit of SJI Award (The Principal&#39;s Special Mention)</a></li>
+<li><a href="#_ptoh_77356">Lasallian Distinguished Service Award</a></li>
+<li><a href="#_ptoh_78065">Lasallian Distinguished Leadership &amp; Service Award</a></li>
+<li><a href="#_ptoh_77357">SJIOBA Sportsman of the Year</a></li>
+</ul>
 
 * * *
 
-• Senior Josephian
-------------------
+<h4 id="_ptoh_77354">• Senior Josephian</h4>
+
 
 The Senior Josephian of the Year Award is given to a Secondary 4 Josephian who has displayed all-round ability and provided outstanding leadership to his fellow Josephians during the year. The 'Dr Tony Tan Keng Yam' Trophy is the highest award given by the school.
 
@@ -59,8 +61,8 @@ Natalie Lisa Chong Yi Ling (Year 6) |
 | 1990 | David Tan Meng Kiat |
 | 1989 | Melvin Chan Kah Keen |
 
-• Spirit of SJI Award (The Principal's Special Mention)
--------------------------------------------------------
+
+<h4 id="_ptoh_77355">• Spirit of SJI Award (The Principal's Special Mention)</h4>
 
 The Spirit of SJI Award is presented to a Josephian who best embodies the spirit of SJI. This spirit is exemplified by St Joseph, the school's patron saint, who lived his life by protecting and providing for others. This award is given at the discretion of the Principal and only when there is a graduating student worthy of receiving it.
 
@@ -98,8 +100,7 @@ The Spirit of SJI Award is presented to a Josephian who best embodies the spirit
 
  |
 
-• Lasallian Distinguished Service Award
----------------------------------------
+<h4 id="_ptoh_77356">• Lasallian Distinguished Service Award</h4>
 
 The Lasallian Distinguished Service Award recognizes the deserving graduating Secondary 4 student who has shown exemplary witness to the Lasallian values of faith, service and community, being truly a man of integrity and a man for others, who has given four years of exceptional service to SJI and beyond.
 
