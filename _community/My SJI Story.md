@@ -624,7 +624,7 @@ Values-centric, Bond-forging, Leadership!
 
 <h4 id="_ptoh_70049">• Ernest Ang Boon Khiong</h4>
 
-![](/images/mysjistory%20Ernest%20Ang%20Boon%20Khiong.jpeg)
+![Ernest Ang Boon Khiong](/images/mysjistory%20Ernest%20Ang%20Boon%20Khiong.jpeg)
 
   
 
@@ -663,14 +663,11 @@ Fulfilling, Thrilling, Blessed!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70276">• Oh Kai En Rachel</h4>
 
-• Oh Kai En Rachel
-------------------
-
-![mysjistory-RachelOh.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-RachelOh.jpg)  
+![Rachel Oh](/images/mysjistory%20RachelOh.jpeg)
 
 Oh Kai En Rachel was one of the 80 students from the pioneer batch who opted to study the **[International Baccalaureate Diploma Programme](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** at SJI (Senior section) in 2013. Coming from an all girls’ environment at Crescent Girls' School, Rachel quickly adapted to the Josephian and Lasallian culture in SJI.
 
