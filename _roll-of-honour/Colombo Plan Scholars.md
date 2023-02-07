@@ -37,29 +37,135 @@ Between 1950s and late 1980s, countries such as UK, Australia, Canada and New Ze
 
 #### UK (University)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1974</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Kwong Lok</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1967</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chen Tou Sin</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1974</th>
+    <th class="tg-gdnd">Chan Kwong Lok</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1967</td>
+    <td class="tg-7ngr">Chen Tou Sin</td>
+  </tr>
+</tbody>
+</table>
 
   
 
 #### Commonwealth Grant (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1964</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Yuen Weng<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Teo Seow Teck Paul</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-ufij{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1964</th>
+    <th class="tg-gdnd">Wong Yuen Weng<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ufij"></td>
+    <td class="tg-7ngr">Teo Seow Teck Paul</td>
+  </tr>
+</tbody>
+</table>
 
   
 
 #### French Government First Priority Programme (1976-1980) (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1980</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lok Keng Luen</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1979</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Gan Ling Horng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Low Fay Huen, Lawrence</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1977</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chee Swee Cheong, Michael</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1980</th>
+    <th class="tg-gdnd">Lok Keng Luen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1979</td>
+    <td class="tg-7ngr">Gan Ling Horng</td>
+  </tr>
+  <tr>
+    <td class="tg-xd5l"></td>
+    <td class="tg-gdnd">Low Fay Huen, Lawrence</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1977</td>
+    <td class="tg-7ngr">Chee Swee Cheong, Michael</td>
+  </tr>
+</tbody>
+</table>
 
 #### French Government Scholarship (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1974</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Kao Meng Leong, Sebastian</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-gdnd">1974</td>
+    <td class="tg-gdnd">Kao Meng Leong, Sebastian</td>
+  </tr>
+</thead>
+</table>
 
   
 
 #### French Government Scholarship (Teaching)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(76, 75, 75); font-family: Palatino, &quot;Palatino Linotype&quot;, &quot;Palatino LT STD&quot;, &quot;Book Antiqua&quot;, Georgia, serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1976</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Siong Hock</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-gdnd">1976</td>
+    <td class="tg-gdnd">Tan Siong Hock</td>
+  </tr>
+</thead>
+</table>
 
   
 
