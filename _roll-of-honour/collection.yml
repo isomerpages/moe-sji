@@ -2,6 +2,7 @@ collections:
   roll-of-honour:
     output: true
     order:
+      - PSC Scholars.md
       - Ministry and Statutory Board Scholars.md
       - University Scholars.md
       - Exemplary Josephians.md
