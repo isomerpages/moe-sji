@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Parents/.keep
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Old Boys In Holy And Religious Orders.md
