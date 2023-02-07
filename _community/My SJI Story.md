@@ -320,14 +320,11 @@ Enriching, Motivating & Community.
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_67958">• Neil Bhargava</h4>
 
-• Neil Bhargava
----------------
-
-![mysjistory-NeilBhargava.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-NeilBhargava.jpg)  
+![Neil Bhargava](/images/mysjistory%20NeilBhargava.jpeg)
 
 Neil Bhargava joined SJI’s Integrated Programme at Secondary 1 in 2013, after completing his PSLE at SJI Junior, one of the four Lasallian primary schools. Neil is currently the captain of the school’s canoeing team, where he led the team to win the National B-Division title this year. As the Head Prefect and a member of the Student Council, Neil is deeply involved in leading and organising several school-wide activities, such as SJI Carnival 2016.
 
