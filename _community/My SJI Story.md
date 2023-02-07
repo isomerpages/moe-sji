@@ -583,7 +583,7 @@ As simple as ABC - Amazing, Brotherhood, Centered!
 
 Wei Jin joined SJI from SJI Junior in 2010. He has won numerous awards for representing SJI at various competitions for Fencing, Robotics and Chinese Percussions from 2010-2015. Wei Jin was the Chairman for Chinese Cultural Society, the Head of Welfare in the Student Council (2012-2013) and a Peer Support Facilitator who was the Camp Commandant for the 2013 Secondary 1 Orientation Camp. In recognition of his leadership skills, he achieved the Lasallian Distinguished Service Award in 2013.  
   
-With his outstanding GCE ‘O’-level results, Wei Jin continued his post-secondary studies – the **[International Baccalaureate Diploma Programme](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** in SJI, and graduated with 42 points in 2015. He was actively involved in school activities during his JC years, being the Vice-President of the SJI Student Council (Senior section), and as an Orientation Group Leader for the JC1 Orientation Camp in 2015. Always with a heart to help the lost, the last and the least, Wei Jin volunteered at academic mentoring programme for primary and secondary school students from low-income backgrounds, and at Jalan Kukoh Seniors Activity Centre to help elderly residents fumigate bedbugs-infested houses.  
+With his outstanding GCE ‘O’-level results, Wei Jin continued his post-secondary studies – the **[International Baccalaureate Diploma Programme](/programmes/academic-programmes/ib-diploma-programme)** in SJI, and graduated with 42 points in 2015. He was actively involved in school activities during his JC years, being the Vice-President of the SJI Student Council (Senior section), and as an Orientation Group Leader for the JC1 Orientation Camp in 2015. Always with a heart to help the lost, the last and the least, Wei Jin volunteered at academic mentoring programme for primary and secondary school students from low-income backgrounds, and at Jalan Kukoh Seniors Activity Centre to help elderly residents fumigate bedbugs-infested houses.  
   
 In 2016, Wei Jin was awarded the Public Service Commission (PSC) Scholarship (Teaching), where he will continue his undergraduate studies in Physics at Carnegie Mellon University in the US. He shares with us what he loves about SJI:
 
@@ -620,14 +620,11 @@ Values-centric, Bond-forging, Leadership!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70049">• Ernest Ang Boon Khiong</h4>
 
-• Ernest Ang Boon Khiong
-------------------------
-
-![mysjistory-Ernest Ang Boon Khiong.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Ernest%20Ang%20Boon%20Khiong.jpg)
+![](/images/mysjistory%20Ernest%20Ang%20Boon%20Khiong.jpeg)
 
   
 
