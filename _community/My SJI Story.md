@@ -850,14 +850,11 @@ Enriching, eventful, efficacious!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70853">• Nigel Sim Jun Yi</h4>
 
-• Nigel Sim Jun Yi
-------------------
-
-![mysjistory-NigelSim.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-NigelSim.jpg)  
+![Nigel Sim](/images/mysjistory%20NigelSim.jpeg)
 
 Nigel Sim Jun Yi joined SJI from De La Salle School in 2015. At Secondary 2, he is a Prefect and Captain of the school’s Canoeing Team (C Division). Balanced in both academics and his CCA, Nigel topped his cohort in Geography when he was in Secondary One. Having experienced two different Lasallian schools, he tells us what he loves about SJI:
 
