@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Parents/Message By Brother President.md
       - Parents/PSG Mission & Vision.md
       - Parents/Join SJI PSG.md
       - Parents/Links For Parents.md
