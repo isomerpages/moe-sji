@@ -7,19 +7,331 @@ Between 1950s and late 1980s, countries such as UK, Australia, Canada and New Ze
 
 #### Carl Duisberg Gesellschaft (CDG) (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1982</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tham Kwong Hoong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chong Thiam Fook, Joseph</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1981</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chang Chin Nam</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ananda Ram Bhaskar</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1974</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yeo Tong Jin, Leonard</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chow Wai Cheong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Cheong Seng Meng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1973</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chow Kay Cheong</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1982</th>
+    <th class="tg-gdnd">Tham Kwong Hoong</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Chong Thiam Fook, Joseph</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1981</td>
+    <td class="tg-gdnd">Chang Chin Nam</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Ananda Ram Bhaskar</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1974</td>
+    <td class="tg-gdnd">Yeo Tong Jin, Leonard</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Chow Wai Cheong</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Cheong Seng Meng</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1973</td>
+    <td class="tg-7ngr">Chow Kay Cheong</td>
+  </tr>
+</tbody>
+</table>
 
 #### Australia (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1986</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">S Ravichandran</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1984</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chung Chin Kee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Benett Maximillian Theseira</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Seng Yoong, Jason</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1983</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chong Sian Tatt, Peter</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1982</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lye Thiam Fatt, Joseph Victor</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chia Tai Tee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1980</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Kum Wah</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ignatius Lourdesamy</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1978</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Siew Teng Kean</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1977</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chua Kim Huat, David</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1976</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ong Siong Huat</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Goh Hung Tong, Patrick</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1975</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Toh Thiam Siew, William</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Toh Thiam Ann, Philip</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lye Kuan Loy</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Leong Samuel</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Leong How Yin</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1974</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Keng Luck</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Prabir Sen-Gupta</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Teo Cheng Hiang, Richard</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1972</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chua Teck Huat, William</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yeong Ah Seng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1971</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Phang Siew Loon</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1968</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chia Whye Liang</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Poon Boon Ping</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1967</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ho Cheng Kiat</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mah Bow Tan</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1965</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yip Soon Weng, Francis</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1964</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lim Sim Eng, Lawrence</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ng Khay Hua</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1986</th>
+    <th class="tg-gdnd">S Ravichandran</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1984</td>
+    <td class="tg-7ngr">Chung Chin Kee</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Benett Maximillian Theseira</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Wong Seng Yoong, Jason</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1983</td>
+    <td class="tg-gdnd">Chong Sian Tatt, Peter</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1982</td>
+    <td class="tg-7ngr">Lye Thiam Fatt, Joseph Victor</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Chia Tai Tee</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1980</td>
+    <td class="tg-7ngr">Chan Kum Wah</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Ignatius Lourdesamy</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1978</td>
+    <td class="tg-7ngr">Siew Teng Kean</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1977</td>
+    <td class="tg-gdnd">Chua Kim Huat, David</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1976</td>
+    <td class="tg-7ngr">Ong Siong Huat</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Goh Hung Tong, Patrick</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1975</td>
+    <td class="tg-7ngr">Toh Thiam Siew, William</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Toh Thiam Ann, Philip</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Lye Kuan Loy</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Leong Samuel</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Leong How Yin</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1974</td>
+    <td class="tg-gdnd">Chan Keng Luck</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Prabir Sen-Gupta</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Teo Cheng Hiang, Richard</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1972</td>
+    <td class="tg-7ngr">Chua Teck Huat, William</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Yeong Ah Seng</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1971</td>
+    <td class="tg-7ngr">Phang Siew Loon</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1968</td>
+    <td class="tg-gdnd">Chia Whye Liang</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Poon Boon Ping</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1967</td>
+    <td class="tg-gdnd">Ho Cheng Kiat</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Mah Bow Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1965</td>
+    <td class="tg-gdnd">Yip Soon Weng, Francis</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1964</td>
+    <td class="tg-7ngr">Lim Sim Eng, Lawrence</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Ng Khay Hua</td>
+  </tr>
+</tbody>
+</table>
 
 #### Australia (Teaching)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1982</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chiam Toon Ling</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1969</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Then Thian Poh, Joseph</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1982</th>
+    <th class="tg-gdnd">Chiam Toon Ling</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr">1969</td>
+    <td class="tg-7ngr">Then Thian Poh, Joseph</td>
+  </tr>
+</tbody>
+</table>
 
 #### Canada (Open)
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 707.273px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 50px;">1970</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Kwong Onn</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Kang Choon Kwan</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lim Soo Ping</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1969</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Appu Hennedige Nanda Jeeris</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Harry Yeo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1968</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lui Siew Keong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1967</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chen Yun Fook, Peter</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Sim Kheok Hua</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Khiok Kin, John Baptist</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1966</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chan Chee Hon</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lim Tee Teck</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Guong Ching</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tsin Yeong Ming</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Hoi Kit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Kok Seng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Wong Kok Siew</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Yeo Liat Kok, Noel Philip</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1965</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mok Weng Cheon, Leo<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Vu Trong Viet, Michael</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1964</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Maureen Margaret Schalm</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ng Pock Too</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Tan Siang Yong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Lee Kheow Ann</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdnd{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:middle}
+.tg .tg-7ngr{background-color:#E5E5E5;color:#4C4B4B;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdnd">1970</th>
+    <th class="tg-gdnd">Chan Kwong Onn</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Kang Choon Kwan</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Lim Soo Ping</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1969</td>
+    <td class="tg-7ngr">Appu Hennedige Nanda Jeeris</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Harry Yeo</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1968</td>
+    <td class="tg-7ngr">Lui Siew Keong</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd">1967</td>
+    <td class="tg-gdnd">Chen Yun Fook, Peter</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Sim Kheok Hua</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Tan Khiok Kin, John Baptist</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1966</td>
+    <td class="tg-7ngr">Chan Chee Hon</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Lim Tee Teck</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Tan Guong Ching</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Tsin Yeong Ming</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Wong Hoi Kit</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Wong Kok Seng</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Wong Kok Siew</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Yeo Liat Kok, Noel Philip</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1965</td>
+    <td class="tg-7ngr">Mok Weng Cheon, Leo<br></td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Vu Trong Viet, Michael</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr">1964</td>
+    <td class="tg-7ngr">Maureen Margaret Schalm</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Ng Pock Too</td>
+  </tr>
+  <tr>
+    <td class="tg-7ngr"></td>
+    <td class="tg-7ngr">Tan Siang Yong</td>
+  </tr>
+  <tr>
+    <td class="tg-gdnd"></td>
+    <td class="tg-gdnd">Lee Kheow Ann</td>
+  </tr>
+</tbody>
+</table>
 
 #### New Zealand (Open)
 
