@@ -130,11 +130,12 @@ description: ""
 1.  **Stevens Station - DT10** (DownTown Line) / **TE11** (Thomson-East Coast Line)  
     \- 7 minutes walk via the underpass and sheltered walkway from Stevens station.
   
-Stevens Station is well-connected to the other lines via the DTL:3.  **Botanic Gardens@Circle Line (CC19)**
-4.  **Little India@North-East Line (NE7)**
-5.  **Bugis@East-West Line (EW12)**
-6.  **Toa Payoh Station (NS19)****#**
-7.  Newton@North-South Line (NS21)**/ @**Downtown Line (DT11)**^**
+Stevens Station is well-connected to the other lines via the DTL:<br>
+2.  **Botanic Gardens@Circle Line (CC19)** <br>
+3.  **Little India@North-East Line (NE7)** <br>
+4.  **Bugis@East-West Line (EW12)** <br>
+5.  <strong>Toa Payoh Station (NS19)<sup>#</sup></strong> <br>
+6.  <strong>Newton@North-South Line (NS21)/ @Downtown Line (DT11)<sup>^</sup></strong>
 
   
 
