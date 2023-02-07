@@ -32,3 +32,7 @@ The SLS is continually being developed in response to needs of students and teac
 
   
 <h5 style="text-align:center;"><strong>What is Student Learning Space?</strong></h5>
+
+![SJI SLS](/images/SJI_SLS.png)
+
+_For more information about SLS, please visit [**MOE Website**](https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls))_
