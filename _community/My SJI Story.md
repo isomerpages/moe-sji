@@ -752,14 +752,11 @@ Family, Home, Fun!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70717">• Koh Boon Kiat</h4>
 
-• Koh Boon Kiat
----------------
-
-![mysjistory-KohBoonKiat(A1)-2019.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-KohBoonKiat(A1)-2019.jpg)  
+![Koh Boon Kiat](/images/mysjistory%20KohBoonKiat(A1)-2019.jpeg)  
 
 Koh Boon Kiat joined SJI in 2014, from Saint Andrews Junior School. Even when he was a young Josephian, Boon Kiat has donned several hats during his time in the lower secondary years – he was the Class Chairperson in Secondary One; serves as a Prefect; and has helped out the SJI ABC Campaign, raising awareness of the anti-bullying programmes in SJI. He was also recognised in his CCA the Pelandok Scouts – for Best Skill Achievement (Secondary 1) at the SJI Uniform Group Awards, and Outstanding Scout (Secondary 2) at the 164th Anniversary Parade in 2015. In 2018, he was named the Senior Josephian, the highest honour awarded by the school. He tells us what he loves about SJI:
 
