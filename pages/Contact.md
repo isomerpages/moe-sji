@@ -70,3 +70,81 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+#### School Suppliers
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gy1k{background-color:#FFF;color:#4C4B4B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9eea{background-color:#E5E5E5;color:#006A51;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-9d42{background-color:#FFF;color:#006A51;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-p82s{background-color:#E5E5E5;color:#4C4B4B;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gy1k">SJI Memorabilia</th>
+    <th class="tg-9d42"><a href="https://www.sji.edu.sg/about-sji/sji-shop">The SJI Shop</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p82s">SJI Bookshop</td>
+    <td class="tg-9eea"><a href="https://cascoedusupply.com.sg/contact-us">Casco Educational Supply Pte Ltd</a><br>Tel: 62509141 | Operating hours during school term: Monday - Friday, 8:30am - 3pm<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-gy1k">School Uniform</td>
+    <td class="tg-9d42"><a href="https://finestuniform.com/collections/st-josephs-institution"><span style="text-decoration:none;color:#006A51">Finest Fashion Centre</span></a><br>Bukit Timah: Tel: 6466 5697 | 144 Upper Bukit Timah Rd, Beauty World Centre #B1-03<br>Toa Payoh: Tel: 8284 8586 | 1004 Toa Payoh North, #07-08/09, Singapore 318995</td>
+  </tr>
+  <tr>
+    <td class="tg-p82s">School Transport</td>
+    <td class="tg-p82s">Mr Yeo Choon Hoe<br>Tel: 9746 0505</td>
+  </tr>
+</tbody>
+</table>
+
+#### Getting To SJI
+
+
+##### **A) Bus [(Click here for bus guide)](https://www.lta.gov.sg/content/ltagov/en/map/bus.html#)**
+
+1.  **Buses outside SJI**: (_This side gate is only accessible to SJI staff and students during school hours._)  
+    \- Bus-stop at SJI, along Whitley Rd (40249): 105, 132, 151, 153, 154, 156, 186
+  
+3.  **Buses along Whitley Rd**:  
+    \- Bus-stop after Tanglin CC (40239): 105, 132, 151, 153, 154, 156, 186, 190, 190A, 960, 960e, 972, 972A, 972M  
+    \- Bus-stop at Raffles Town Club (40231): 105, 132, 151, 153, 154, 156, 186, 190, 960, 960e, 972, 972M, NR2, NR3
+  
+5.  **Buses at Stevens Station (DownTown Line)**:  
+    \- Bus-stop at Stevens Station, Bt Timah Rd (40081): 48, 67, 170, 960, 960e, 972M
+
+  
+
+##### **B) MRT [(Click here for MRT guide)](https://www.lta.gov.sg/content/ltagov/en/map/train.html)**
+
+1.  **Stevens Station - DT10** (DownTown Line) / **TE11** (Thomson-East Coast Line)  
+    \- 7 minutes walk via the underpass and sheltered walkway from Stevens station.
+  
+Stevens Station is well-connected to the other lines via the DTL:3.  **Botanic Gardens@Circle Line (CC19)**
+4.  **Little India@North-East Line (NE7)**
+5.  **Bugis@East-West Line (EW12)**
+6.  **Toa Payoh Station (NS19)****#**
+7.  Newton@North-South Line (NS21)**/ @**Downtown Line (DT11)**^**
+
+  
+
+##### **C) Driving**
+
+1.  From **PIE** (towards west): Exit 18, turn left along Whitley Road or Malcolm Road (at traffic light junction).
+  
+3.  From **Dunearn Road**: Turn left after Raffles Town Club, turn right to turn into Malcolm Road.
+
+  
+Nearest public carpark is at Toa Payoh HDB Hub**#** **OR** Newton Food Centre^.  
+_**#** \- take bus 105 or 153 from Toa Payoh bus stop outside NTUC (alight after Tanglin CC)  
+**^** \- take DTL from Newton Station to Stevens Station_
