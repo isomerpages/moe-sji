@@ -105,123 +105,64 @@ The Spirit of SJI Award is presented to a Josephian who best embodies the spirit
 The Lasallian Distinguished Service Award recognizes the deserving graduating Secondary 4 student who has shown exemplary witness to the Lasallian values of faith, service and community, being truly a man of integrity and a man for others, who has given four years of exceptional service to SJI and beyond.
 
   
-
-| Year | Awardees (Year 4) |
-| --- | --- |
-| 2022 | 
-1.  Aarush Nair
-2.  Chen Wei En James Ryan
-3.  Fan Enrui
-4.  Horatius Koh Jin Yang
-5.  Isaac Tay Jia Jun
-6.  Linan Miguel Joaquin Guillermo
-7.  Lucas Teo Chee Yen
-8.  Marc Leong Weng Mun
-9.  Pang Kuan Jeng
-10.  Penaredondo Josh Emmanuel Momongan
-11.  Phua Yan Zhi, Owenn
-12.  Sumugan Kapilan
-13.  Thng Toh Yong, Wesley
-
- |
-| 2021 | 
-
-1.  Vincentius Markandeya Santosa
-2.  Adriel Lee Wei Xuan
-3.  Ayman bin Azhar
-4.  Kavan Goh Kai Jun
-5.  Alden Chew Jinghong
-6.  Caleb Tan Kah Lok
-7.  Raiden Kai Puthucheary
-8.  Trevor Chan Ee Kit
-
- |
-| 2020 | 
-
-1.  Do Thien Phuc  
-    
-2.  Dylan Chew Yi Jie  
-    
-3.  Edward Thomas Patani  
-    
-4.  Luke Xavier Chew Wen Xiong  
-    
-5.  Nguyen Pham Minh Quan  
-    
-6.  Premshan Christopher Singh
-
- |
-| 2019 | 
-
-1.  Theodore Tang Chee Mun  
-    
-2.  Alessandro Louiz D’Silva  
-    
-3.  Julian Teng  
-    
-4.  Manuel Tristan Pereira  
-    
-5.  Nathanael Sutjiutama  
-    
-6.  Nicholas Tan Yi-Jia  
-    
-7.  S Kavi Rajan  
-    
-8.  Tan Ming Han  
-    
-9.  Yeo Jun Jie, Lucius  
-    
-
- |
-| 2018 | 
-
-1.  Gabriel Yeo Chong Jing  
-    
-2.  Ernest Ang Boon Khiong  
-    
-3.  Nigel Sim Jun Yi  
-    
-4.  Ashley Tan Kai Li  
-    
-
- |
-| 2017 | 
-
-1.  Basil Tan Song Sze  
-    
-2.  Jhunne Philippe A Elasigue  
-    
-3.  Tan Ern Hwee Luke  
-    
-
- |
-| 2016 | 
-
-1.  Shaun Hue Yong Shan  
-    
-2.  Tristan Maximilian Smith  
-    
-3.  Tan Yi Long
-4.  Vedant Chauhan  
-    
-
- |
-| 2015 | 
-
-1.  Joshua Low Junyang  
-    
-2.  Wee Rui-An Fabien
-
- |
-| 2014 | 
-
-1.  Ngoh Ye Han Mark  
-    
-2.  Tan Jia Xin  
-    
-3.  Tan Kay Shin
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mku2{background-color:#F6F5F2;color:#4C4B4B;text-align:left;vertical-align:top}
+.tg .tg-pwos{background-color:#006A51;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-my8k{background-color:#F6F5F2;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-v6qv{background-color:#FFF;color:#4C4B4B;text-align:center;vertical-align:top}
+.tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pwos">Year</th>
+    <th class="tg-pwos">Awardees (Year 4)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2022</span></td>
+    <td class="tg-mku2">1. Aarush Nair<br>2. Chen Wei En James Ryan<br>3. Fan Enrui<br>4. Horatius Koh Jin Yang<br>5. Isaac Tay Jia Jun<br>6. Linan Miguel Joaquin Guillermo<br>7. Lucas Teo Chee Yen<br>8. Marc Leong Weng Mun<br>9. Pang Kuan Jeng<br>10. Penaredondo Josh Emmanuel Momongan<br>11. Phua Yan Zhi, Owenn<br>12. Sumugan Kapilan<br>13. Thng Toh Yong, Wesley</td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2021</span></td>
+    <td class="tg-xd5l">1. Vincentius Markandeya Santosa<br>2. Adriel Lee Wei Xuan<br>3. Ayman bin Azhar<br>4. Kavan Goh Kai Jun<br>5. Alden Chew Jinghong<br>6. Caleb Tan Kah Lok<br>7. Raiden Kai Puthucheary<br>8. Trevor Chan Ee Kit</td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2020</span></td>
+    <td class="tg-mku2">1. Do Thien Phuc<br>2. Dylan Chew Yi Jie<br>3. Edward Thomas Patani<br>4. Luke Xavier Chew Wen Xiong<br>5. Nguyen Pham Minh Quan<br>6. Premshan Christopher Singh<br></td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2019</span></td>
+    <td class="tg-xd5l">1. Theodore Tang Chee Mun<br>2. Alessandro Louiz D’Silva<br>3. Julian Teng<br>4. Manuel Tristan Pereira<br>5. Nathanael Sutjiutama<br>6. Nicholas Tan Yi-Jia<br>7. S Kavi Rajan<br>8. Tan Ming Han<br>9. Yeo Jun Jie, Lucius<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2018</span></td>
+    <td class="tg-mku2">1. Gabriel Yeo Chong Jing<br>2. Ernest Ang Boon Khiong<br>3. Nigel Sim Jun Yi<br>4. Ashley Tan Kai Li<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2017</span></td>
+    <td class="tg-xd5l">1. Basil Tan Song Sze<br>2. Jhunne Philippe A Elasigue<br>3. Tan Ern Hwee Luke<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2016</span></td>
+    <td class="tg-mku2">1. Shaun Hue Yong Shan<br>2. Tristan Maximilian Smith<br>3. Tan Yi Long<br>4. Vedant Chauhan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-v6qv"><span style="color:#4C4B4B">2015</span></td>
+    <td class="tg-xd5l">1. Joshua Low Junyang<br>2. Wee Rui-An Fabien<br></td>
+  </tr>
+  <tr>
+    <td class="tg-my8k"><span style="color:#4C4B4B">2014</span></td>
+    <td class="tg-mku2">1. Ngoh Ye Han Mark<br>2. Tan Jia Xin<br>3. Tan Kay Shin<br></td>
+  </tr>
+</tbody>
+</table>
 
 <h4 id="_ptoh_78065">• Lasallian Distinguished Leadership & Service Award</h4>
 
