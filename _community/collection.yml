@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Students/Project Scubilion.md
       - Students/Student Sharing.md
       - Students/Singapore Student Learning Space.md
       - Students/.keep
