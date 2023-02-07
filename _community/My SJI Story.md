@@ -180,7 +180,7 @@ Family, Banter, Epic!
 
 * * *
 
-<p style="text-align:right;"><a href="#lo_main">Back to Top</p>
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_67307">• Noah Joel Lopez</h4>
 
