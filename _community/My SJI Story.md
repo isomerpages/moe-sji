@@ -1439,14 +1439,11 @@ The teachers in SJI are very dedicated and supportive of us, students. I was ver
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_88932">• Low Hui Ann, Zaneta (Class of 2019)</h4>
 
-• Low Hui Ann, Zaneta (Class of 2019)
--------------------------------------
-
-![mysjistory-Zaneta(A1).png](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Zaneta(A1).png)  
+![Low Hui Ann Zaneta](/images/mysjistory%20Zaneta(A1).png)
 
 Low Hui Ann Zaneta joined SJI from Paya Lebar Methodist Girls School in 2018. She was a member of the executive committee of the Student Council where she served as the Head of the Student Outreach Committee. In the organization of key events for the school, she demonstrated good leadership skills and collaborated well with her team mates. In the many events that she helped to organize for the school, such as Valentine's Day 2019, Talk Talk Therapy, Wholesome Week, The Agape Movement, Prom Night and Orientation Programme for the Year 5 students, Zaneta was always highly enthusiastic about serving the community. She received the Distinguished Lasallian Leadership and Service Award in 2019 in recognition of her many contributions to the school.
 
