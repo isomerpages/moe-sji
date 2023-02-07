@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Students/Terms & Holidays.md
       - Students/Level Websites.md
       - Students/SJI Student Portal.md
       - Students/Conduct At School.md
