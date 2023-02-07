@@ -36,17 +36,15 @@ From 2 March (Ash Wednesday) to 2 June, each student is invited to secure a mone
 
 * * *
 
-• March 2022: SJI 170 Challenge
--------------------------------
+#### • March 2022: SJI 170 Challenge
 
 The SJI 170 Challenge is a series of ‘physical challenges’ for Josephians to complete within 90 days, from 2 March to 2 June 2022. Each student will receive one part of a 4-piece medal set for every challenge he/she completes. The 4 challenges are: (i) SJI 170 Virtual Walk / Run that is held in conjunction with the Lent Project, it will be completed as a class to complete 170 km (approx. 6 km/student), (ii) SJI 17,000 Skips, (iii) SJI 2 x 17km Cycle and (iv) SJI 1700m Swim.
 
-![SJIChallenge2022.png](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2022/SJIChallenge2022.png)  
+![SJI 170 Challenge](/images/SJIChallenge2022.png)
 
 * * *
 
-• February 2022: 17,000 Good Deeds
-----------------------------------
+#### • February 2022: 17,000 Good Deeds
 
 **[17,000 Good Deeds](https://sites.google.com/sji.edu.sg/17-000-good-deeds-2022)** is an initiative that was launched at the Inaugural Assembly by the SJI Student Council. This initiative aims to provide an opportunity for the school to collectively do 17,000 good deeds to serve the less fortunate and to give back to the community, empowering our youths to become Men and Women for Others. These good deeds can be as simple as helping someone with their studies or lending a helping hand to someone in need done by all students and staff. Since its initiation, 360 good deeds have been performed to date (as of 28 February 2022). This project will officially close at Thanksgiving Assembly on 28 October 2022.
 
@@ -54,10 +52,9 @@ The SJI 170 Challenge is a series of ‘physical challenges’ for Josephians to
 
 * * *
 
-• October 2021: Launch of 170th Anniversary Logo
-------------------------------------------------
+#### • October 2021: Launch of 170th Anniversary Logo
 
-![170anniv_logotype_vector1.png](https://www.sji.edu.sg/qql/slot/u560/News%20and%20Events/Announcements/2021/170anniv_logotype_vector1.png)
+![Launch of 170th Anniversary Logo](/images/170anniv_logotype%20vector1.png)
 
 The SJI 170th Anniversary logo is designed by Le Hai Long Quan (MN403, Class of 2021) where he aspires to remind Josephians of the Lasallian values of Faith, Service, and Community. Central to the design is the Star of Faith, in Latin “Signum Fidei”. The star is a symbol that guides Josephians through their successes and challenges in life, all of which is part of God’s greater plan. The statue of St John Baptist de La Salle inspires all of us who are part of the educational mission in SJI. It is a reminder of the importance of Service, to always give back to those who have less, especially the poor. A well-intended depiction of human silhouettes is illustrated as four sets of windows, representing the 4 Fraternities of Fintan, Lawrence, Michael and Marcian, which form the SJI Community, a family to which all of us belong.
 
