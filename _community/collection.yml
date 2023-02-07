@@ -2,12 +2,12 @@ collections:
   community:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
       - Alumni/Old Boys In Holy And Religious Orders.md
       - Alumni/Distinguished Alumni.md
       - Alumni/Roll Of Honour.md
       - Alumni/St Joseph's Institution Old Boys' Association (SJIOBA).md
-      - Alumni/Alumni.md
-      - Alumni/.keep
       - Staff.md
       - Friends Of SJI.md
       - My SJI Story.md
