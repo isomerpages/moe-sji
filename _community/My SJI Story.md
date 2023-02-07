@@ -1119,14 +1119,11 @@ After: Coming to SJI solidified the idea is a school with value-oriented and emp
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_77312">• Joshua James Chong</h4>
 
-• Joshua James Chong
---------------------
-
-![mysjistory-JoshuaJamesChong.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-JoshuaJamesChong.jpg)  
+![Joshua James Chong](/images/mysjistory%20JoshuaJamesChong.jpeg)
 
 Joshua James Chong is a National sportsman who has represented Singapore in diving. He is an excellent example of a Josephian who balances his academic work and sports with quiet determination. Joshua has been instrumental in leading SJI into third place for the team event in the National ‘B’ Division Inter-School Gymnastic championship. As Vice-Captain of the ‘B’ Division, Joshua was pivotal in fostering team spirit amongst members and displayed great enthusiasm and love for the sport.  
   
