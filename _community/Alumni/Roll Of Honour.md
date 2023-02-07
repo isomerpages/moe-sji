@@ -19,9 +19,9 @@ Because of the large number of scholarships awarded to Josephians, we can only p
 
 ### Our Roll of Honour:
 
-*   [President's Scholars](https://www.sji.edu.sg/community/alumni/roll-of-honour/presidents-scholars)
-*   [Colombo Plan Scholars](https://www.sji.edu.sg/community/alumni/roll-of-honour/colombo-plan-scholars)
-*   [PSC Scholars](https://www.sji.edu.sg/community/alumni/roll-of-honour/psc-scholars)
-*   [Ministry & Statutory Board Scholars](https://www.sji.edu.sg/community/alumni/roll-of-honour/ministry-statutory-board-scholars)
-*   [University Scholars](https://www.sji.edu.sg/community/alumni/roll-of-honour/university-scholars)
-*   [Exemplary Josephians](https://www.sji.edu.sg/community/alumni/roll-of-honour/exemplary-josephians)
+*   [President's Scholars](/community/alumni/roll-of-honour/presidents-scholars)
+*   [Colombo Plan Scholars](/community/alumni/roll-of-honour/colombo-plan-scholars)
+*   [PSC Scholars](/community/alumni/roll-of-honour/psc-scholars)
+*   [Ministry & Statutory Board Scholars](/community/alumni/roll-of-honour/ministry-statutory-board-scholars)
+*   [University Scholars](/community/alumni/roll-of-honour/university-scholars)
+*   [Exemplary Josephians](/community/alumni/roll-of-honour/exemplary-josephians)
