@@ -536,9 +536,9 @@ Immaculate, Enriching, Engaging!
 
  [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
  
-<h4 id="_ptoh_68650">• Chew Kai Ming</h4>
+<h4 id="_ptoh_69341">• Chew Kai Ming</h4>
 
-![mysjistory-ChewKaiMing.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-ChewKaiMing.jpg)  
+![ChewKaiMing](/images/mysjistory%20ChewKaiMing.jpeg)  
 
 Kai Ming joined SJI from Bukit Timah Primary School in 2012. Although he was apprehensive about coming to SJI initially, his impression of SJI changed after attending the Secondary One orientation camp. The next four years saw Kai Ming rose through the ranks in his CCA, to become the Troop Leader of the SJI Pelandok Scout Group from 2014 – 2015. He also achieved the Chief Commissioner’s Award (Scouts) in 2015, and was a member of the 4th SJI Student Council from 2014 – 2015.  
   
