@@ -102,29 +102,29 @@ As we state in the Josephian Pledge, we will at all times, in the spirit of our 
 
 4.1. We show our loyalty to our school by taking personal interest and pride in school and in the classroom
 
-1.  We will ensure that the classroom is orderly and clean, at the beginning each lesson and at the end of the school day and we will ensure that all litter is deposited in the wastepaper-baskets provided as this is also part and parcel of hygienic.
-2.  All of us, together with the Duty Boys, will ensure the readiness of the classroom for lessons by removing all bits of litter, arranging the desks neatly and cleaning the board before the next teacher comes. We will also ensure that the canteen tables are clean after use out of consideration for others who will use the table after us. The Class Committee, under the supervision of the Class Tutor, will ensure that duty rosters are monitored and enforced each day.
-3.  We will change out of our P.E attire into full school uniform after P.E as this is a hygienic practice. Our wet P.E attire and wet towel, which we would have brought to wipe ourselves dry, will be put away in a plastic bag and kept in our schoolbag.
+a.  We will ensure that the classroom is orderly and clean, at the beginning each lesson and at the end of the school day and we will ensure that all litter is deposited in the wastepaper-baskets provided as this is also part and parcel of hygienic.
+b.  All of us, together with the Duty Boys, will ensure the readiness of the classroom for lessons by removing all bits of litter, arranging the desks neatly and cleaning the board before the next teacher comes. We will also ensure that the canteen tables are clean after use out of consideration for others who will use the table after us. The Class Committee, under the supervision of the Class Tutor, will ensure that duty rosters are monitored and enforced each day.
+c.  We will change out of our P.E attire into full school uniform after P.E as this is a hygienic practice. Our wet P.E attire and wet towel, which we would have brought to wipe ourselves dry, will be put away in a plastic bag and kept in our schoolbag.
 
   
 
 4.2. We show our loyalty to our school by taking personal interest and pride in school/classroom
 
-1.  We not only discourage others from littering but we personally pick up any litter we come across and deposit it in the nearest refuse bin.
-2.  We observe proper toilet hygiene and leave this facility the way we wish to find it: clean and dry
-3.  For reasons of cleanliness and good order, food and drink are only consumed in the cafeteria.
-4.  If we have dropped food on the floor, it is our responsibility to clear it up before it is trampled upon by others.
-5.  After eating, we clean our place at the table and return all non-disposable bowls, plates and eating utensils to the designated area.
-6.  We will always clean up the areas that we have used so that others who come after us will be able to use them without great inconvenience.
+a.  We not only discourage others from littering but we personally pick up any litter we come across and deposit it in the nearest refuse bin.
+b.  We observe proper toilet hygiene and leave this facility the way we wish to find it: clean and dry
+c.  For reasons of cleanliness and good order, food and drink are only consumed in the cafeteria.
+e.  If we have dropped food on the floor, it is our responsibility to clear it up before it is trampled upon by others.
+f.  After eating, we clean our place at the table and return all non-disposable bowls, plates and eating utensils to the designated area.
+g.  We will always clean up the areas that we have used so that others who come after us will be able to use them without great inconvenience.
 
   
 
 4.3. We show our loyalty to our school by respecting all school property.
 
   
+<h5><u>Principle 5</u></h5>
 
-### Principle 5  
-As Men of Integrity and Men for Others, we are driven by passion in the way we express our Josephian identity by the way we carry ourselves so that it inspires others to have a strong sense of pride of being Josephian.
+**As Men of Integrity and Men for Others, we are driven by passion in the way we express our Josephian identity by the way we carry ourselves so that it inspires others to have a strong sense of pride of being Josephian.**
 
   
 
@@ -132,11 +132,11 @@ We Josephians pledge ourselves at all times in the spirit of our motto, Ora et L
 
 5\. We show loyalty to our school by choosing to wear the school attire correctly and with pride both on and off campus.
 
-1.  The Josephian identity is one that is unique and distinctive and is expressed by the dignified manner with which the school uniform is to be worn according to the specifications stated in Appendix F. The school dress code emphasises the values of personal discipline and simplicity. We will therefore wear the prescribed school uniform with distinction and with pride so that others may easily identify us as Josephians. The haircut is also part of the school uniform.
-2.  As we are part of the school community, we express our unity and community spirit by wearing only the official school/fraternity P.E. Attire for P.E. periods. Other approved T-shirts may be worn outside school hours and during co-curricular activities. Due to security reasons through easy identification, we do not come to school for any activity or training in outside clothes.
-3.  We know that if we wish to play after school, we should be in full P.E attire so that we will not soil the school uniform which we may need to wear when we go home; and the school uniform has to be worn in a dignified manner because of the reasons mentioned above.
-4.  We wear our full school uniform or P.E. attire even on Saturdays or during the holidays. We adhere to the specified haircut as long as we don any school attire; even during the school vacation, because of the reasons mentioned above. Due to reasons of decorum as well as reasons of safety, we will not wear slippers or sandals with any school attire for any school activity unless a school authority has given us permission to do so.
-5.  We will wear the tie on at the start of assembly on the first school day of the week till the first recess bell.
+a.  The Josephian identity is one that is unique and distinctive and is expressed by the dignified manner with which the school uniform is to be worn according to the specifications stated in Appendix F. The school dress code emphasises the values of personal discipline and simplicity. We will therefore wear the prescribed school uniform with distinction and with pride so that others may easily identify us as Josephians. The haircut is also part of the school uniform.
+b.  As we are part of the school community, we express our unity and community spirit by wearing only the official school/fraternity P.E. Attire for P.E. periods. Other approved T-shirts may be worn outside school hours and during co-curricular activities. Due to security reasons through easy identification, we do not come to school for any activity or training in outside clothes.
+c.  We know that if we wish to play after school, we should be in full P.E attire so that we will not soil the school uniform which we may need to wear when we go home; and the school uniform has to be worn in a dignified manner because of the reasons mentioned above.
+c.  We wear our full school uniform or P.E. attire even on Saturdays or during the holidays. We adhere to the specified haircut as long as we don any school attire; even during the school vacation, because of the reasons mentioned above. Due to reasons of decorum as well as reasons of safety, we will not wear slippers or sandals with any school attire for any school activity unless a school authority has given us permission to do so.
+e.  We will wear the tie on at the start of assembly on the first school day of the week till the first recess bell.
 
   
 
