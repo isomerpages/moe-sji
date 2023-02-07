@@ -146,6 +146,6 @@ Stevens Station is well-connected to the other lines via the DTL:<br>
 2.  From **Dunearn Road**: Turn left after Raffles Town Club, turn right to turn into Malcolm Road.
 
   
-Nearest public carpark is at <strong><u>Toa Payoh HDB Hub<sup>#</sup></u></strong> **OR** Newton Food Centre^.  
+Nearest public carpark is at <strong><u>Toa Payoh HDB Hub<sup>#</sup></u></strong> **OR** <strong><u>Newton Food Centre</u></strong>^.  
 _**#** \- take bus 105 or 153 from Toa Payoh bus stop outside NTUC (alight after Tanglin CC)  
 **^** \- take DTL from Newton Station to Stevens Station_
