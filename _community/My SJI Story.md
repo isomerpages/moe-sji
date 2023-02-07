@@ -798,14 +798,11 @@ Remarkable, Meaningful, Enriching!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70813">• Vedant Chauhan</h4>
 
-• Vedant Chauhan
-----------------
-
-![mysjistory-Vedant Chauhan2 (724x1024).jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Vedant%20Chauhan2%20(724x1024).jpg)  
+![Vedant Chauhan](/images/mysjistory%20Vedant%20Chauhan2%20(724x1024).jpeg) 
 
 Vedant Chauhan from Michael 402 is our Deputy Head Prefect and Vice President of SJI Student Council. He joined SJI at Secondary 1 in 2013, from SJI Junior, one of the four Lasallian primary schools. Vedant is actively involved in his CCA – NPCC, as a Staff Sergeant holding the post of Head Of Training. As a Peer Support Facilitator, he also led the Secondary One Campfire this year and supports many other school events, such as being part of the oversight team for The SJI Carnival. After 4 years in SJI, he tells us what he loves most about SJI:
 
