@@ -279,15 +279,11 @@ Cherished, direction, unabashed!
   
 
 * * *
+Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<h4 id="_ptoh_67718">• Yash Manoj Bhojwani</h4>
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
-
-• Yash Manoj Bhojwani
----------------------
-
-![mysjistory-Yash Bhojwani.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Yash%20Bhojwani.jpg)
+![Yash Bhojwani](/images/mysjistory_Yash%20Bhojwani.jpeg)
 
   
 
