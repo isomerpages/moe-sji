@@ -19,4 +19,4 @@ All damages in the classroom should be promptly reported to the Class Tutor who 
 
 At the end of the day, the last teacher in class should check that everything is in good order before dismissing the class.
 
-See details in [conduct in the classrooms](/files/SJIDiary2022-C_Classrooms.pdf).
+See details in [**conduct in the classrooms**](/files/SJIDiary2022-C_Classrooms.pdf).
