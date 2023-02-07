@@ -15,8 +15,9 @@ Being also Lasallian in tradition, SJI is an inclusive school and we welcome but
 
 **Josephians conduct themselves in relation to themselves and to others according to 5 Principles.**
 
-### Principle 1  
-As Men of Integrity, we live by principles and we honour our commitments to the community we belong to.
+<h5><u>Principle 1</u></h5>
+
+**As Men of Integrity, we live by principles and we honour our commitments to the community we belong to.**
 
   
 
