@@ -363,16 +363,13 @@ Enriching, challenging, unique!
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_68200">• Lim Yu Zhuang Germaine</h4>
 
-• Lim Yu Zhuang Germaine
-------------------------
+![Germaine](/images/mysjistory%20Germaine%20Lim%20Yu%20Zhuang.jpeg) 
 
-![mysjistory-Germaine Lim Yu Zhuang.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Germaine%20Lim%20Yu%20Zhuang.jpg)  
-
-Lim Yu Zhuang Germaine joined SJI's **[International Baccalaureate Diploma Programme (IBDP)](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** in 2014, after graduating from the O-Level programme at Cedar Girls' Secondary School. A recipient of the JC IBDP Merit Scholarship, Germaine actively participated in a wide array of co-curricular activities and service learning projects. These include being part of the Mt. Rinjani expedition and Lombok service learning team in the 2014 International Project Week trip to Indonesia, representing SJI at the 2014 Pre-University Seminar, facilitating the KidsREAD programme at a Family Service Centre, helping out with the Muscular Dystrophy Association’s Home Tutoring Programme, and befriending youth at the Institute of Mental Health Children’s Ward.  
+Lim Yu Zhuang Germaine joined SJI's **[International Baccalaureate Diploma Programme (IBDP)](/programmes/academic-programmes/ib-diploma-programme)** in 2014, after graduating from the O-Level programme at Cedar Girls' Secondary School. A recipient of the JC IBDP Merit Scholarship, Germaine actively participated in a wide array of co-curricular activities and service learning projects. These include being part of the Mt. Rinjani expedition and Lombok service learning team in the 2014 International Project Week trip to Indonesia, representing SJI at the 2014 Pre-University Seminar, facilitating the KidsREAD programme at a Family Service Centre, helping out with the Muscular Dystrophy Association’s Home Tutoring Programme, and befriending youth at the Institute of Mental Health Children’s Ward.  
   
 With her outstanding IB results, Germaine has been awarded the Healthcare Merit Scholarship by MOH Holdings, and will be pursuing her Bachelor of Applied Science (Occupational Therapy) undergraduate studies at the University of Sydney next year. She shares with us what she loves about her two years spent in SJI:
 
