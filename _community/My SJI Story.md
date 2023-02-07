@@ -664,7 +664,7 @@ Fulfilling, Thrilling, Blessed!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70276">• Oh Kai En Rachel</h4>
 
@@ -709,7 +709,7 @@ Truly, a home.
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70478">• Haris Bin Dzulkifli</h4>
 
@@ -753,7 +753,7 @@ Family, Home, Fun!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70717">• Koh Boon Kiat</h4>
 
@@ -799,7 +799,7 @@ Remarkable, Meaningful, Enriching!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70813">• Vedant Chauhan</h4>
 
@@ -851,7 +851,7 @@ Enriching, eventful, efficacious!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70853">• Nigel Sim Jun Yi</h4>
 
@@ -901,7 +901,7 @@ Extraordinary, Priceless, Supportive!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_73564">• Dai Chong Rui</h4>
 
@@ -957,7 +957,7 @@ Exploration. Challenge. Camaraderie!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_70853">• Tristan Maximilian Smith</h4>
 
@@ -1007,7 +1007,7 @@ Unforgettable, Brotherhood, Enriching!
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_75351">• Blake John Carlyle</h4>
 
@@ -1055,7 +1055,7 @@ Exciting, Challenging and Community!
 
 * * *
 
- [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_77102">• Rachel Ng & Marian Tan</h4>
 
@@ -1120,7 +1120,7 @@ After: Coming to SJI solidified the idea is a school with value-oriented and emp
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_77312">• Joshua James Chong</h4>
 
@@ -1172,7 +1172,7 @@ Enjoyable, company, fun-filled.
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_78142">• Zac and Zon Liew</h4>
 
@@ -1252,7 +1252,7 @@ Also, the environment SJI has given me to learn, lead, serve and pray in is as t
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_81586">•Alvin Mark Yapp (Class of 1986)</h4>
 
@@ -1264,7 +1264,7 @@ An alumnus from the Class of 1986, Alvin is the founder of BusAds and The Intan,
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_81641">• Ben Cheong (Class of 1975)</h4>
 
@@ -1276,19 +1276,19 @@ Ben is the founder and director of Magical Light Foundation, a non-profit organi
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4>• Paul Chew (Class of 1988)</h4>
 
 ![Paul](/images/For%20Others%20(3_Paul).png) 
 
-Brigadier General Paul Chew formally began his career with SAF in 1996, upon graduating with a Master's in Aeronautical Engineering. Since then, he has been serving the country, holding a diverse range of senior command and staff appointments in the SAF. Read more about Paul and our other alumni, and how they serve the nation in different ways, in our new book - **[For Others](https://www.sji.edu.sg/about-sji/sji-shop#_ptoh_81484)**.
+Brigadier General Paul Chew formally began his career with SAF in 1996, upon graduating with a Master's in Aeronautical Engineering. Since then, he has been serving the country, holding a diverse range of senior command and staff appointments in the SAF. Read more about Paul and our other alumni, and how they serve the nation in different ways, in our new book - **[For Others](/about-sji/sji-shop#_ptoh_81484)**.
 
   
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_81778">• Yap Boon Chien (Class of 1989)</h4>
 
@@ -1300,7 +1300,7 @@ Yap Boon Chien is a Physics Master Teacher at the Academy of Singapore Teachers,
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_81953">• Justice Chan Seng Onn (Class of 1972)</h4>
 
@@ -1312,7 +1312,7 @@ Justice Chan is the recipient of the 1973 President's Scholarship and Colombo Pl
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_82024">• Dr Damian Png (Class of 1978)</h4>
 
@@ -1324,7 +1324,7 @@ Dr Damian Png is a senior consultant specialising in urology and the Chairman of
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_82054">• Nicholas Fang (Class of 1991)</h4>
 
@@ -1336,7 +1336,7 @@ Nicholas Fang is a well-known sportsman who has represented Singapore in both fe
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_82389">• Michelle Cheney (Class of 2018)</h4>
 
@@ -1388,7 +1388,7 @@ Fulfilling, Adventure, Love!
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_88591">• Theodore Tang Chee Mun (Class of 2019)</h4>
 
@@ -1440,7 +1440,7 @@ The teachers in SJI are very dedicated and supportive of us, students. I was ver
 
 * * *
 
-[Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+<p style="text-align:right;"><a href="#lo_main">Back to Top</a></p>
 
 <h4 id="_ptoh_88932">• Low Hui Ann, Zaneta (Class of 2019)</h4>
 
