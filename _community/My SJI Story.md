@@ -669,7 +669,7 @@ Fulfilling, Thrilling, Blessed!
 
 ![Rachel Oh](/images/mysjistory%20RachelOh.jpeg)
 
-Oh Kai En Rachel was one of the 80 students from the pioneer batch who opted to study the **[International Baccalaureate Diploma Programme](https://www.sji.edu.sg/programmes/academic-programmes/ib-diploma-programme)** at SJI (Senior section) in 2013. Coming from an all girls’ environment at Crescent Girls' School, Rachel quickly adapted to the Josephian and Lasallian culture in SJI.
+Oh Kai En Rachel was one of the 80 students from the pioneer batch who opted to study the **[International Baccalaureate Diploma Programme](/programmes/academic-programmes/ib-diploma-programme)** at SJI (Senior section) in 2013. Coming from an all girls’ environment at Crescent Girls' School, Rachel quickly adapted to the Josephian and Lasallian culture in SJI.
 
   
 She was a member of the Student Council from 2013 to 2014 and was also part of the team who emerged as national champions for the Students for the Advancement of Global Entrepreneurship (SAGE) Competition in 2013. The team continued to represent Singapore in the Global SAGE Competition in Abuja, Nigeria. She also attended the National Lasallian Leaders’ Convention (NLLC) 2013 in Ipoh, Malaysia and was involved in planning the SJI Concert at the Singapore Botanic Gardens 2013, SJI’s farewell concert - EXODUS 2013 and SJI Senior School’s first Model United Nations Conference. In 2013 and 2014, she was awarded the MOE Edusave Character Award (ECHA). Rachel also topped her cohort for Biology (Higher Level) in the 2014 IB examinations.
@@ -708,14 +708,11 @@ Truly, a home.
 
 * * *
 
- [![](https://www.sji.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
+ [Back to Top](https://www.sji.edu.sg/my-sji-story#lo_main)
 
-![](https://www.sji.edu.sg/pix/spacer.gif)
+<h4 id="_ptoh_70478">• Haris Bin Dzulkifli</h4>
 
-• Haris Bin Dzulkifli
----------------------
-
-![mysjistory-Haris Bin Dzulkifli.jpg](https://www.sji.edu.sg/qql/slot/u560/My%20SJI%20Story/mysjistory-Haris%20Bin%20Dzulkifli.jpg)  
+![Hariz Bin Dzulkifli](/images/mysjistory%20Haris%20Bin%20Dzulkifli.jpeg) 
 
 Haris Bin Dzulkifli joined SJI from a Lasallian primary school – St Stephen's School in 2013. He is a valued member of the SJI rugby team. Haris also serves as the president of Malay Cultural Society (MCS) and is a member of the Executive Committee for the Fintan fraternity. As the President of the Malay Cultural Society, he has led his juniors in the organization of the Secondary 1 orientation, the St. Theresa's Home concert performance and the weekly activities for MCS. He shares with us his SJI journey so far, and what it means for him as a Muslim student studying in a mission school:
 
