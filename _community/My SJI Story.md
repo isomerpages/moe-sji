@@ -39,96 +39,96 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-5avn"><a href="#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
+    <td class="tg-5avn"><a href="#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
     <td class="tg-5avn"><a href="#_ptoh_104577"><span style="text-decoration:none;color:#006A51">Rusell Yom Zhenyi</span></a></td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70717" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a> <br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_70717" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a> <br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_104576" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Julian Teng</span></a> <br>(Class of 2021)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70049"><span style="text-decoration:none;color:#006A51">Ernest Ang Boon Khiong</span></a><br>(Class of 2020)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019/2021)</td>
+    <td class="tg-5avn"><a href="#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018)</td>
+    <td class="tg-5avn"><a href="#_ptoh_70049"><span style="text-decoration:none;color:#006A51">Ernest Ang Boon Khiong</span></a><br>(Class of 2020)</td>
+    <td class="tg-5avn"><a href="#_ptoh_88591"><span style="text-decoration:none;color:#006A51">Theodore Tang Chee Mun</span></a><br>(Class of 2019/2021)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_75351"><span style="text-decoration:none;color:#006A51">Blake John Carlyle</span></a><br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67718"><span style="text-decoration:none;color:#006A51">Yash Manoj Bhojwani</span></a><br>(Class of 2019)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70717"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a><br>(Class of 2018/2020)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_75351"><span style="text-decoration:none;color:#006A51">Blake John Carlyle</span></a><br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_67718"><span style="text-decoration:none;color:#006A51">Yash Manoj Bhojwani</span></a><br>(Class of 2019)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_70717"><span style="text-decoration:none;color:#006A51">Koh Boon Kiat</span></a><br>(Class of 2018/2020)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_77312"><span style="text-decoration:none;color:#006A51">Joshua James Chong</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67958"><span style="text-decoration:none;color:#006A51">Neil Bhargava</span></a><br>(Class of 2018)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018/2020)</td>
+    <td class="tg-5avn"><a href="#_ptoh_77312"><span style="text-decoration:none;color:#006A51">Joshua James Chong</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="#_ptoh_67958"><span style="text-decoration:none;color:#006A51">Neil Bhargava</span></a><br>(Class of 2018)</td>
+    <td class="tg-5avn"><a href="#_ptoh_70853"><span style="text-decoration:none;color:#006A51">Nigel Sim Jun Yi</span></a><br>(Class of 2018/2020)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_78142"><span style="text-decoration:none;color:#006A51">Zac and Zon Liew</span></a><br>(Class of 2017)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_74175"><span style="text-decoration:none;color:#006A51">Tristan Maximilian Smith</span></a><br>(Class of 2018)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_88932"><span style="text-decoration:none;color:#006A51">Low Hui Ann, Zaneta</span></a><br>(Class of 2019)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_78142"><span style="text-decoration:none;color:#006A51">Zac and Zon Liew</span></a><br>(Class of 2017)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_74175"><span style="text-decoration:none;color:#006A51">Tristan Maximilian Smith</span></a><br>(Class of 2018)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_88932"><span style="text-decoration:none;color:#006A51">Low Hui Ann, Zaneta</span></a><br>(Class of 2019)</td>
   </tr>
   <tr>
-    <td class="tg-dn89"><a href="/my-sji-story#_ptoh_70813"><span style="text-decoration:underline;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_69341"><span style="text-decoration:none;color:#006A51">Chew Kai Ming</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_82389"><span style="text-decoration:none;color:#006A51">Michelle Cheney</span></a><br>(Class of 2018)</td>
+    <td class="tg-dn89"><a href="#_ptoh_70813"><span style="text-decoration:underline;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016)</td>
+    <td class="tg-5avn"><a href="#_ptoh_69341"><span style="text-decoration:none;color:#006A51">Chew Kai Ming</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="#_ptoh_82389"><span style="text-decoration:none;color:#006A51">Michelle Cheney</span></a><br>(Class of 2018)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_73564" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dai ChongRui</span></a> <br>(Class of 2016)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67207"><span style="text-decoration:none;color:#006A51">Elliot Ng Shao Han</span></a><br>(Class of 2017)</td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70813"><span style="text-decoration:none;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016/2018)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_73564" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dai ChongRui</span></a> <br>(Class of 2016)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_67207"><span style="text-decoration:none;color:#006A51">Elliot Ng Shao Han</span></a><br>(Class of 2017)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_70813"><span style="text-decoration:none;color:#006A51">Vedant Chauhan</span></a><br>(Class of 2016/2018)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_70478"><span style="text-decoration:none;color:#006A51">Haris Bin Dzulkifli</span></a><br>(Class of 2017)</td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_77102"><span style="text-decoration:none;color:#006A51">Rachel Ng &amp; Marian Tan</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="#_ptoh_70478"><span style="text-decoration:none;color:#006A51">Haris Bin Dzulkifli</span></a><br>(Class of 2017)</td>
+    <td class="tg-5avn"><a href="#_ptoh_77102"><span style="text-decoration:none;color:#006A51">Rachel Ng &amp; Marian Tan</span></a><br>(Class of 2017)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_68650"><span style="text-decoration:none;color:#006A51">Wee Rui-An Fabien</span></a><br>(Class of 2015)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_68650"><span style="text-decoration:none;color:#006A51">Wee Rui-An Fabien</span></a><br>(Class of 2015)</td>
     <td class="tg-gdnd"></td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015/2017)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_67307"><span style="text-decoration:none;color:#006A51">Noah Joel Lopez</span></a><br>(Class of 2015/2017)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013)</td>
+    <td class="tg-5avn"><a href="#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013)</td>
     <td class="tg-mku2"><br></td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68200"><span style="text-decoration:none;color:#006A51">Lim Yu Zhuang Germaine</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="#_ptoh_68200"><span style="text-decoration:none;color:#006A51">Lim Yu Zhuang Germaine</span></a><br>(Class of 2015)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012)</td>
     <td class="tg-xd5l"><br></td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013/2015)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_69814"><span style="text-decoration:none;color:#006A51">Oh Wei Jin</span></a><br>(Class of 2013/2015)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68473" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Lim Bo Zhi</span></a> <br>(Class of 2012)</td>
+    <td class="tg-5avn"><a href="#_ptoh_68473" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Lim Bo Zhi</span></a> <br>(Class of 2012)</td>
     <td class="tg-mku2"><br></td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_67470"><span style="text-decoration:none;color:#006A51">Seraphine Lee Suyi</span></a><br>(Class of 2015)</td>
+    <td class="tg-5avn"><a href="#_ptoh_67470"><span style="text-decoration:none;color:#006A51">Seraphine Lee Suyi</span></a><br>(Class of 2015)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_82054" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Nicholas Fang</span></a> <br>(Class of 1991)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_82054" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Nicholas Fang</span></a> <br>(Class of 1991)</td>
     <td class="tg-xd5l"><br></td>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_70276"><span style="text-decoration:none;color:#006A51">Oh Kai En Rachel</span></a><br>(Class of 2014)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_70276"><span style="text-decoration:none;color:#006A51">Oh Kai En Rachel</span></a><br>(Class of 2014)</td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_81778" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Yap Boon Chien</span></a> <br>(Class of 1989)</td>
+    <td class="tg-5avn"><a href="#_ptoh_81778" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Yap Boon Chien</span></a> <br>(Class of 1989)</td>
     <td class="tg-5sss"></td>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012/2014)</td>
+    <td class="tg-5avn"><a href="#_ptoh_68311"><span style="text-decoration:none;color:#006A51">Nathaniel Wong Kin Yew</span></a><br>(Class of 2012/2014)</td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_81586"><span style="text-decoration:none;color:#006A51">Alvin Mark Yapp</span></a><br>(Class of 1986)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_81586"><span style="text-decoration:none;color:#006A51">Alvin Mark Yapp</span></a><br>(Class of 1986)</td>
     <td class="tg-xd5l"><br></td>
     <td class="tg-gdnd"></td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_82024" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dr Damian Png</span></a> <br>(Class of 1978)</td>
+    <td class="tg-5avn"><a href="#_ptoh_82024" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Dr Damian Png</span></a> <br>(Class of 1978)</td>
     <td class="tg-mku2"><br></td>
     <td class="tg-mku2"><br></td>
   </tr>
   <tr>
-    <td class="tg-9gpo"><a href="/my-sji-story#_ptoh_81641" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Ben Cheong</span></a> <br>(Class of 1975)</td>
+    <td class="tg-9gpo"><a href="#_ptoh_81641" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Ben Cheong</span></a> <br>(Class of 1975)</td>
     <td class="tg-xd5l"><br></td>
     <td class="tg-xd5l"><br></td>
   </tr>
   <tr>
-    <td class="tg-5avn"><a href="/my-sji-story#_ptoh_81953"><span style="text-decoration:none;color:#006A51">Justice Chan Seng Onn</span></a><br>(Class of 1972)</td>
+    <td class="tg-5avn"><a href="#_ptoh_81953"><span style="text-decoration:none;color:#006A51">Justice Chan Seng Onn</span></a><br>(Class of 1972)</td>
     <td class="tg-mku2"><br></td>
     <td class="tg-mku2"><br></td>
   </tr>
