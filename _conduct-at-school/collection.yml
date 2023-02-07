@@ -2,6 +2,7 @@ collections:
   conduct-at-school:
     output: true
     order:
+      - Conduct During Prayers.md
       - Conduct In School Chapel.md
       - Conduct In Classrooms.md
       - Conduct At Assembly & Latecoming.md
