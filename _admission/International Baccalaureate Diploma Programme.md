@@ -76,7 +76,7 @@ Unless there are exceptional circumstances, we do not admit students into SJI wh
 
 * * *
 
-<h4 id="_ptoh_95707">Appeal for Admission to Year 5 in 2022</h4>
+<h4 id="_ptoh_95707">Appeal for Admission to JC1 in 2023</h4>
 
 
 Please read these instructions carefully before making an appeal application.
