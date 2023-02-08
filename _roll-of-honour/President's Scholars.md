@@ -33,7 +33,7 @@ In 1966, the **Yang Di-pertuan Negara Scholarship** was re-named the **Presid
   </tr>
   <tr>
     <td class="tg-gdnd">1981</td>
-    <td class="tg-9gpo"><a href="/community/alumni/distinguished-alumni"><span style="text-decoration:none;color:#006A51">Euan Murugasu</span></a></td>
+    <td class="tg-9gpo"><a href="/community/alumni/distinguished-alumni">Euan Murugasu</a></td>
   </tr>
   <tr>
     <td class="tg-7ngr">1976</td>
