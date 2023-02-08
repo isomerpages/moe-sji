@@ -45,11 +45,11 @@ For more information on Level activities, please visit the respective Level webs
   </tr>
   <tr>
     <td class="tg-xd5l">Year 5<br></td>
-    <td class="tg-9gpo"><a href="http://year5.sji.edu.sg/"><span style="text-decoration:none;color:#006A51">http://year5.sji.edu.sg</a></td>
+    <td class="tg-9gpo"><a href="http://year5.sji.edu.sg/"><span style="text-decoration:none;color:#006A51">http://year5.sji.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-xd5l">Year 6<br></td>
-    <td class="tg-9gpo"><a href="http://year6.sji.edu.sg/"><span style="text-decoration:none;color:#006A51">http://year6.sji.edu.sg</a></td>
+    <td class="tg-9gpo"><a href="http://year6.sji.edu.sg/"><span style="text-decoration:none;color:#006A51">http://year6.sji.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
