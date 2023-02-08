@@ -92,7 +92,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-gy1k">SJI Memorabilia</th>
-    <th class="tg-9d42"><a href="https://www.sji.edu.sg/about-sji/sji-shop">The SJI Shop</a></th>
+    <th class="tg-9d42"><a href="/about-sji/sji-shop">The SJI Shop</a></th>
   </tr>
 </thead>
 <tbody>
