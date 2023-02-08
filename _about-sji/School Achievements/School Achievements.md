@@ -10,9 +10,11 @@ In recognition of the school's efforts to offer a high quality education for the
 
 Find out more about our achievements below:
 
-*   **Academic Achievements - [International Baccalaureate Diploma Programme](/news-and-events/news-highlights/2022#_ptoh_101946) | [GCE O-Level Examinations](/news-and-events/news-highlights/2022#_ptoh_102400)**
-*   **[Co-Curricular Activities (CCA) Achievements](/about-sji/school-achievements/co-curricular-activities-ccas)**  
-    
-*   **[School Awards](/about-sji/school-achievements/awards)**
+<ul>
+<li><strong>Academic Achievements - <a href="/news-and-events/news-highlights/2022#_ptoh_101946">International Baccalaureate Diploma Programme</a> | <a href="/news-and-events/news-highlights/2022#_ptoh_102400">GCE O-Level Examinations</a></strong></li>
+<li><strong><a href="/about-sji/school-achievements/co-curricular-activities-ccas">Co-Curricular Activities (CCA) Achievements</a></strong>  </li>
+<li><strong><a href="/about-sji/school-achievements/awards">School Awards</a></strong></li>
+</ul>
+
 
 ![School Achievements](/images/20170105_115837_001a.jpeg)
