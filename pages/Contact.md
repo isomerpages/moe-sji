@@ -116,7 +116,8 @@ description: ""
 <h4 id="_ptoh_78094">Getting To SJI</h4>
 
 
-##### **A) Bus [(Click here for bus guide)](https://www.lta.gov.sg/content/ltagov/en/map/bus.html#)**
+<h5 id="a-bus-click-here-for-bus-guide">A) Bus <a href="https://www.lta.gov.sg/content/ltagov/en/map/bus.html#">(Click here for bus guide)</a></h5>
+
 
 1.  **Buses outside SJI**: (_This side gate is only accessible to SJI staff and students during school hours._)  
     \- Bus-stop at SJI, along Whitley Rd (40249): 105, 132, 151, 153, 154, 156, 186
@@ -130,7 +131,8 @@ description: ""
 
   
 
-##### **B) MRT [(Click here for MRT guide)](https://www.lta.gov.sg/content/ltagov/en/map/train.html)**
+<h5 id="b-mrt-click-here-for-mrt-guide">B) MRT <a href="https://www.lta.gov.sg/content/ltagov/en/map/train.html">(Click here for MRT guide)</a></h5>
+
 
 1.  **Stevens Station - DT10** (DownTown Line) / **TE11** (Thomson-East Coast Line)  
     \- 7 minutes walk via the underpass and sheltered walkway from Stevens station.
@@ -144,7 +146,8 @@ Stevens Station is well-connected to the other lines via the DTL:<br>
 
   
 
-##### **C) Driving**
+<h5 id="c-driving"><strong>C) Driving</strong></h5>
+
 
 1.  From **PIE** (towards west): Exit 18, turn left along Whitley Road or Malcolm Road (at traffic light junction).
   
