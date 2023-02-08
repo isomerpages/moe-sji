@@ -8,7 +8,7 @@ We believe that it is very important for our students to learn how to learn. Whi
 
 
 <img src="/images/academic-curriculum.jpeg"  
-style="width:40%">
+style="width:33%">
   
 
 SJI offers a [dual track education](/programmes/overview-of-sji-education) comprising a [6-year Integrated Programme (IP) track](/programmes/academic-programmes/integrated-programme) and a [4-year O-level Programme (OP) track](/programmes/academic-programmes/o-level-programme).
