@@ -16,7 +16,7 @@ third_nav_title: Alumni
 ### Josephians in Holy Orders:
 
 *   His Grace Bishop Paul Tan
-*   **[Monsignor Ambrose Vaz](https://issuu.com/sji-books/docs/lumen10-dec2015/1?ff)**
+*   [**Monsignor Ambrose Vaz**](https://issuu.com/sji-books/docs/lumen10-dec2015/1?ff)
 *   [**Monsignor Francis Lau**](https://issuu.com/sji-books/docs/lumen13-june2017/1?ff)
 *   Reverend Father Adrian Anthony
 *   [**Reverend Father Adrian Danker, S.J.**](https://issuu.com/sji-books/docs/lumen_2-2013_issue6b/1?ff)
