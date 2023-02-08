@@ -19,7 +19,8 @@ It was Reverend Father Jean-Marie Beurel, MEP who initiated the whole endeavour 
 
 **1865**: A Central Classroom Block was built under the guiding hand of Bro Lothaire but the continuing years of expansion before World War I was largely the work of Bro Michael Noctor and Rev Fr Charles Nain (the assistant parish priest at the Cathedral of the Good Shepherd and also a gifted architect).
 
-![Milestone](/images/milestone1a%20(600%20x%20291).jpeg)
+<img src="/images/milestone1a%20(600%20x%20291).jpeg"  
+style="width:80%">
 
 Father Nain designed two very imaginative classroom blocks. He curved the new wings outwards and at each end designed a monumental doorway. The whole work was reminiscent of Bernini’s Colonnade in front of St Peter’s Basilica in Rome. The work was completed under Bro Michael in 1903.
 
