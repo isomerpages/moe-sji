@@ -88,7 +88,7 @@ Through this magazine, we hope to throw light on the people, programmes and phil
 </table>
 
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -112,7 +112,7 @@ Designed and produced by World Scientific Publishing Co
   
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81484).
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -136,7 +136,7 @@ Designed and produced by World Scientific Publishing Co
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81485).
 
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -185,7 +185,7 @@ Produced by Straits Times Press
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81488).
 
   
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 * * *
 
@@ -205,7 +205,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 [**Click here to purchase this book**](/about-sji/sji-shop#_ptoh_81487).
 
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -216,7 +216,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 JOOMAG
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
   
 
 * * *
@@ -235,7 +235,7 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
 JOOMAG
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 
 * * *
@@ -244,7 +244,7 @@ JOOMAG
   
 JOOMAG
 
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 * * *
 
@@ -283,6 +283,6 @@ JOOMAG
 </table>
 
  
-<p style="text-align:right ;"><a href="/news-and-events/sji-publications#_ptoh_105040">Back to Top</a></p>
+<p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
 * * *
