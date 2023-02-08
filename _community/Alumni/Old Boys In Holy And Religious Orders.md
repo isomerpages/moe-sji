@@ -31,7 +31,7 @@ third_nav_title: Alumni
 *   Reverend Father Gerard Weerakoon
 *   Reverend Father Glenn de Cruz, CSsR
 *   [**Reverend Father Joachim Chang**](https://issuu.com/sji-books/docs/lumen16-dec2018/1?ff)
-*   **[Reverend Father John Bosco Pereira](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)**
+*   [**Reverend Father John Bosco Pereira**](https://www.sji.edu.sg/news-and-events/sji-publications/for-others)
 *   [**Reverend Father John Paul Tan, OFM**](https://issuu.com/sji-books/docs/lumen_4-2012/1?ff)
 *   Reverend Father Joseph Yao
 *   [**Reverend Father Lawrence Lew, O.P.**](https://issuu.com/sji-books/docs/lumen_2-2011_web2/1?ff)
