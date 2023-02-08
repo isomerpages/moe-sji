@@ -50,7 +50,8 @@ Amongst the first visitors to the new building was Sir Frank Swettenham - the Go
 
 **1922**: The enrolment figure increased to 1,600.
 
-![Milestone](/images/milestone2a%20(600%20x%20346).jpeg)
+<img src="/images/milestone2a%20(600%20x%20346).jpeg"  
+style="width:80%">
 
 * * *
 
@@ -86,7 +87,7 @@ The years after World War II saw St Joseph’s consolidating herself and buildin
 
   
 <img src="/images/milestone4%20(200%20x%20274).jpeg"  
-style="width:50%">
+style="width:35%">
 
 **1977**: The school celebrated her 125th Anniversary. The highlight of the celebrations was a visit from Bro José Pablo Basterrechea, the 24th Superior General. Brother Kevin Byrne became Director one year before St Joseph’s celebrated the Tercentenary of the founding of the La Salle Brothers.
 
@@ -147,7 +148,7 @@ style="width:50%">
 * * *
 
 <img src="/images/milestone5%20(200%20x%20274).jpeg"  
-style="width:50%">
+style="width:35%">
 
 **1998**: SJI celebrated the 10th Anniversary of its refounding at Malcolm Road. Mr Benjamin Lui became the first layman to head the school since 1885.
 
