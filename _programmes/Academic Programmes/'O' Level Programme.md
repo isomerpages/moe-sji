@@ -42,8 +42,8 @@ All Upper Secondary Boys are required to offer Humanities as one of their Humani
 
 ##### **Levels of Learning at SJI (Year 1 - 4)**
 
-  
-![Levels of Learning in SJI](/images/Levels%20of%20Learning%20circle.png)
+<img src="/images/Levels%20of%20Learning%20circle.png"  
+style="width:80%">
 
 The Levels of Learning is the core framework behind the Cognitive Development component of an SJI education. It describes the Josephian student as moving from foundational subject-based knowledge, to extending learning by adopting an inquiry-mindset motivated by interest and passion, and eventually making use of this knowledge in service to the community in authentic settings.
 
