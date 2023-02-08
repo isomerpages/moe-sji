@@ -7,4 +7,4 @@ Join our mailing list to receive email updates on the school and our [**publica
 
 We welcome you to join us as a [**Friend of SJI**](http://app.sji.edu.sg/friends_of_sji.php) if you are an alumus of the school, a parent of a prospective student, or simply someone who believes in and supports the Josephian education.
 
-SJI will always respect your email privacy and never sell, rent, or exchange your e-mail address to anyone outside SJI. For complete details, review our **[Privacy Policy](/sji/privacy)**.
+SJI will always respect your email privacy and never sell, rent, or exchange your e-mail address to anyone outside SJI. For complete details, review our [**Privacy Policy**](/sji/privacy).
