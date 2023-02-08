@@ -2,6 +2,8 @@ collections:
   community:
     output: true
     order:
+      - Community.md
+      - Students/.keep
       - Students/Terms & Holidays.md
       - Students/Level Websites.md
       - Students/SJI Student Portal.md
@@ -13,12 +15,11 @@ collections:
       - Students/Project Scubilion.md
       - Students/Student Sharing.md
       - Students/Singapore Student Learning Space.md
-      - Students/.keep
+      - Parents/.keep
       - Parents/Message By Brother President.md
       - Parents/PSG Mission & Vision.md
       - Parents/Join SJI PSG.md
       - Parents/Links For Parents.md
-      - Parents/.keep
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Old Boys In Holy And Religious Orders.md
@@ -28,4 +29,3 @@ collections:
       - Staff.md
       - Friends Of SJI.md
       - My SJI Story.md
-      - Community.md
