@@ -3,7 +3,7 @@ title: About SJI
 permalink: /about-sji/
 description: ""
 ---
-St. Joseph's Institution (SJI) (圣若瑟书院 shèng ruò sè shū yuàn) is a Catholic secondary school for boys founded in 1852 by the [**Brothers of the Christian Schools**](/about-sji/the-de-la-salle-brothers) or **[De La Salle Brothers](/about-sji/the-de-la-salle-brothers)**. It is the 3rd oldest secondary school in Singapore. 
+St. Joseph's Institution (SJI) (圣若瑟书院 shèng ruò sè shū yuàn) is a Catholic secondary school for boys founded in 1852 by the [**Brothers of the Christian Schools**](/about-sji/the-de-la-salle-brothers) or [**De La Salle Brothers**](/about-sji/the-de-la-salle-brothers). It is the 3rd oldest secondary school in Singapore. 
 
 SJI offers its secondary school boys a dual track education comprising an [**Integrated Programme (IP)**](/programmes/academic-programmes/integrated-programme) and an [**‘O’ Level programme (OP)**](https://www.sji.edu.sg/programmes/academic-programmes/o-level-programme). The IP track is a 6-year programme leading to the [**International Baccalaureate Diploma Programme (IBDP)**](/programmes/academic-programmes/ib-diploma-programme) in Years 5 & 6. The 2-year pre-university IBDP admits boys and girls (co-education). The ‘O’ Level track is a 4-year programme leading to the GCE ‘O’ Level examinations at the end of Year 4. Based on their O-level examination results, they can apply to continue the IBDP at SJI, or pursue courses at other junior colleges or polytechnics.
 
