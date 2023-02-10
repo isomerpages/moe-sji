@@ -104,7 +104,7 @@ In 1852, six Brothers of the Christian Schools, following in the tradition of th
 An earlier book - [**_Men for Others_**](/about-sji/sji-shop#_ptoh_81488) by Warren Fernandez celebrates the first generation of post-independence leaders. In the same spirit, **_For Others_** honours some of those who have taken on the mantle of service leadership for the next generation of Singaporeans. Inspiring alumni featured in this latest SJI publication include Gerard Ee, Justice Chan Seng Onn, Teo Hock Seng, and Peter Seah. This book commemorates the 165th anniversary of the Christian Brothers in Singapore by celebrating how the mission of those first Brothers continues in the lives of the Josephians featured.
 
 <img src="/images/10735cover.jpg"  
-style="width:50%">
+style="width:28%">
 
   
 Copyright @ St Joseph's Institution, 2018  
@@ -126,7 +126,7 @@ Designed and produced by World Scientific Publishing Co
 A collection of stories by seven prominent old boys of SJI: Professor Leo Tan Wee Hin, Richard Magnus, Tony Chew Leong Chee, Professor Jeremy Monteiro, Brother Armin Luistro FSC, KF Seetoh, and the President of Singapore, Dr Tony Tan, who spoke at the [**Fullerton-SJI Leadership Lectures (Series II)**](/news-and-events/the-fullerton-sji-leadership-lectures).
 
 <img src="/images/bookcover-LasallianPathfinders.png"  
-style="width:50%">
+style="width:28%">
   
 ISBN 978-981-4616-18-8  
 Copyright @ St Joseph's Institution, 2015  
@@ -151,7 +151,7 @@ Designed and produced by World Scientific Publishing Co
 A collection of stories by eight prominent old boys of SJI: George Yeo, Philip Yeo, Lim Chee Onn, Dick Lee, Gerard Ee, Peter Seah, Tan Chorh Chuan and Teo Chee Hean, who spoke at the [**Fullerton-SJI Leadership Lectures (Series I)**](/news-and-events/the-fullerton-sji-leadership-lectures).
 
 <img src="/images/Lead%20yr%20Life-%20book%20info%20STP.jpeg"  
-style="width:50%">  
+style="width:28%">  
 
 ISBN 978-981-4342-18-6 <br>
 Copyright @ St Joseph's Institution, 2012 <br>
@@ -172,7 +172,7 @@ Designed and produced by Straits Times Press
 **by Warren Fernandez**
 
 <img src="/images/book%20cover_MfO_17feb.jpeg"  
-style="width:50%">
+style="width:28%">
 
   
 ISBN-13: 978-981-4266-19-2  
@@ -194,7 +194,7 @@ Produced by Straits Times Press
 **Living the Mission: The SJI Story (1852-2002) by Hedwig Alfred**  
 
 <img src="/images/book%20cover_LtM_17feb.jpeg"  
-style="width:50%">
+style="width:28%">
   
 ISBN 981-4068-42-X  
 Published in 2002 by SJI  
