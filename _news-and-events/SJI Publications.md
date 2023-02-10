@@ -7,9 +7,9 @@ SJI produces several publications in a year. Please click on the titles below to
 
 <u>School Magazines:</u>
 
-*   **[SJI News](/news-and-events/news-highlights)**
-*   **[LUMEN](/news-and-events/sji-publications#_ptoh_105040)**
-*   **[Josephian Annual](/news-and-events/sji-publications#_ptoh_105065)**
+*   [**SJI News**](/news-and-events/news-highlights)
+*   [**LUMEN**](/news-and-events/sji-publications#_ptoh_105040)
+*   [**Josephian Annual**](/news-and-events/sji-publications#_ptoh_105065)
 
 <u>Books:</u>
 
