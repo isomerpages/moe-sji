@@ -214,7 +214,7 @@ Designed and produced by Editions Didier Millet Pte Ltd
 
 **A Souvenir - Commemorating the official opening of SJI at Malcolm Road** (7 April 1989)  
 
-JOOMAG
+[https://viewer.joomag.com/opening-of-malcolm-road-campus-1989/0325045001656928203?e=1&page=1&embedInfo=theme,0a5159,083540,4bd9d3,f2c765,ffffff;none](https://viewer.joomag.com/opening-of-malcolm-road-campus-1989/0325045001656928203?e=1&page=1&embedInfo=theme,0a5159,083540,4bd9d3,f2c765,ffffff;none)
 
 <p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
   
@@ -233,7 +233,7 @@ ISBN 9971-73-248-3 <br>
 Copyright@SJI, 1987 <br>
 Edited and designed by MPH Publishing (S) Pte Ltd
 
-JOOMAG
+[https://viewer.joomag.com/memories-of-sji-1987/0686526001656989978?e=1&page=1&embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none](https://viewer.joomag.com/memories-of-sji-1987/0686526001656989978?e=1&page=1&embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none)
 
 <p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
