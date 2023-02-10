@@ -24,19 +24,19 @@ description: ""
 
 #### 2022
 
-*   **24 September 2022 - [Over 8,600 students recognised at S'pore Schools Sports Council Colours Award](https://www.straitstimes.com/sport/schools/over-8600-students-recognised-at-spore-schools-sports-council-colours-award)**  
+*   **24 September 2022 -** [**Over 8,600 students recognised at S'pore Schools Sports Council Colours Award**](https://www.straitstimes.com/sport/schools/over-8600-students-recognised-at-spore-schools-sports-council-colours-award)  
     Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
     
   
-*   **24 July 2022 - [中小学华文课文朗诵比赛 华印欧亚裔“杂牌军”夺团体优异奖](https://www.zaobao.com.sg/news/singapore/story20220724-1295839)**  
+*   **24 July 2022 -** [**中小学华文课文朗诵比赛 华印欧亚裔“杂牌军”夺团体优异奖**](https://www.zaobao.com.sg/news/singapore/story20220724-1295839)  
     Source: LianHeZaoBao © SPH Media Limited.
     
   
-*   **20 February 2022 - [SJI rallies behind students with health concerns](/files/20220220-CN-SJI%20rallies%20behind%20students%20with%20health%20concerns.pdf)**  
+*   **20 February 2022 -** [**SJI rallies behind students with health concerns**](/files/20220220-CN-SJI%20rallies%20behind%20students%20with%20health%20concerns.pdf)  
     Source: Catholic News
     
   
-*   **20 February 2022 - [6 new Catholic school principals commissioned](https://catholicnews.sg/2022/02/20/6-new-catholic-school-principals-commissioned6-new-catholic-school-principals-commissioned/) | [Reflections from the 6 new Principals of our Catholic schools](https://catholicnews.sg/2022/02/20/reflections-from-the-6-new-principals-of-our-catholic-schools/)**  
+*   **20 February 2022 -** [**6 new Catholic school principals commissioned**](https://catholicnews.sg/2022/02/20/6-new-catholic-school-principals-commissioned6-new-catholic-school-principals-commissioned/) **|** [**Reflections from the 6 new Principals of our Catholic schools**](https://catholicnews.sg/2022/02/20/reflections-from-the-6-new-principals-of-our-catholic-schools/)  
     Source: Catholic News
     
   
