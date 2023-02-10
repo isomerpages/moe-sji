@@ -242,7 +242,7 @@ Edited and designed by MPH Publishing (S) Pte Ltd
 
 <h4 id="_ptoh_105061">• 125th Anniversary Souvenir Magazine (1852-1977)</h4>
   
-JOOMAG
+[https://viewer.joomag.com/125thanniversary-souvenir-magazine-1852-1977-1977/0526743001656991026?e=1&page=1&embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none](https://viewer.joomag.com/125thanniversary-souvenir-magazine-1852-1977-1977/0526743001656991026?e=1&page=1&embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none)
 
 <p style="text-align:right ;"><a href="#_ptoh_105040">Back to Top</a></p>
 
