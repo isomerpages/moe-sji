@@ -13,7 +13,7 @@ Hence, our academic and student development curricula focus on providing a **ba
 
 #### Brief History of SJI's Establishment
 
-SJI was the first missionary establishment of the **[Brothers of the Christian Schools](/about-sji/the-de-la-salle-brothers)** in the Far East. The school owes its establishment to **[Reverend Father Jean-Marie Beurel](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1548_2009-07-27.html)**, a French priest who was working in Singapore in the 1840s. On 22 July 1852, St. John's School, as SJI was called then, started as a free school at Bras Basah Road which depended on the support of the public. As the enrolment for the school had increased significantly, the cornerstone for the new school was laid on 19 March 1855. With the laying of the cornerstone, the name of the school was changed to St. Joseph's Institution. View the [**SJI milestones**](/about-sji/the-sji-milestones).
+SJI was the first missionary establishment of the [**Brothers of the Christian Schools**](/about-sji/the-de-la-salle-brothers) in the Far East. The school owes its establishment to [**Reverend Father Jean-Marie Beurel**](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1548_2009-07-27.html), a French priest who was working in Singapore in the 1840s. On 22 July 1852, St. John's School, as SJI was called then, started as a free school at Bras Basah Road which depended on the support of the public. As the enrolment for the school had increased significantly, the cornerstone for the new school was laid on 19 March 1855. With the laying of the cornerstone, the name of the school was changed to St. Joseph's Institution. View the [**SJI milestones**](/about-sji/the-sji-milestones).
 
 #### Resources
 
