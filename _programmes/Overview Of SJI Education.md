@@ -49,11 +49,11 @@ Click on the links below to find out more about our programmes:
 
 The comprehensive [student development curriculum](/programmes/student-development-programmes) prepares both our IP and O-level track boys well for the real world beyond school by helping them to **learn how to live**. This curriculum comprises various programmes which are aimed to develop the necessary life skills such as moral compass, effective communication, personal effectiveness, working with others and understanding the community. These programmes include:
 
-*   **[Josephian Formation Journey](/programmes/student-development-programmes/josephian-formation-journey)**
-*   **[FIDEI](/programmes/student-development-programmes/fidei)**
-*   **[Co-Curricular Activities (CCAs)](/programmes/student-development-programmes/co-curricular-activities-cca)**
-*   **[Creativity, Activity, Service (CAS)](/programmes/student-development-programmes/creativity-activity-service-cas)**
-*   **[Outdoor Experience](/programmes/student-development-programmes/outdoor-experience)**
-*   **[Leadership Development](/programmes/student-development-programmes/leadership)**
+*   [**Josephian Formation Journey**](/programmes/student-development-programmes/josephian-formation-journey)
+*   [**FIDEI**](/programmes/student-development-programmes/fidei)
+*   [**Co-Curricular Activities (CCAs)**](/programmes/student-development-programmes/co-curricular-activities-cca)
+*   [**Creativity, Activity, Service (CAS)**](/programmes/student-development-programmes/creativity-activity-service-cas)
+*   [**Outdoor Experience**](/programmes/student-development-programmes/outdoor-experience)
+*   [**Leadership Development**](/programmes/student-development-programmes/leadership)
 *   [**International Experience**](/programmes/student-development-programmes/international-education)
 *   [**Sexuality Education**](/programmes/student-development-programmes/sexuality-education)
