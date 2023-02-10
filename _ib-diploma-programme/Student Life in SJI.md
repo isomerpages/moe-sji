@@ -31,6 +31,12 @@ Here are what our IB students have to share about their lives in SJI:
 
 #### • SJI Heritage
 
+[SJI Heritage](https://www.instagram.com/p/B7GWaC6gUvO/embed/captioned/?cr=1&v=12&wp=675&rd=https%3A%2F%2Fwww-sji-edu-sg-admin.cwp.sg&rp=%2Fprogrammes%2Facademic-programmes%2Fib-diploma-programme%2Flife-of-our-ib-students#%7B%22ci%22%3A0%2C%22os%22%3A1016.5750000014668%2C%22ls%22%3A729.7600000001694%2C%22le%22%3A734.4650000013644%7D)
+
 #### • Year 5 Orientation Camp
 
+[Year 5 Orientation Camp](https://www.instagram.com/p/B7JAbrpArgk/embed/captioned/?cr=1&v=12&wp=675&rd=https%3A%2F%2Fwww-sji-edu-sg-admin.cwp.sg&rp=%2Fprogrammes%2Facademic-programmes%2Fib-diploma-programme%2Flife-of-our-ib-students#%7B%22ci%22%3A0%2C%22os%22%3A1016.5750000014668%2C%22ls%22%3A729.7600000001694%2C%22le%22%3A734.4650000013644%7D)
+
 #### • The SJI Spirit
+
+[The SJI Spirit](https://www.instagram.com/p/B7Kkh18Dkj8/embed/captioned/?cr=1&v=12&wp=675&rd=https%3A%2F%2Fwww-sji-edu-sg-admin.cwp.sg&rp=%2Fprogrammes%2Facademic-programmes%2Fib-diploma-programme%2Flife-of-our-ib-students#%7B%22ci%22%3A0%2C%22os%22%3A1016.5750000014668%2C%22ls%22%3A729.7600000001694%2C%22le%22%3A734.4650000013644%7D)
