@@ -2,7 +2,6 @@ collections:
   about-sji:
     output: true
     order:
-      - Contact.md
       - About SJI.md
       - Mission, Vision And Values.md
       - The De La Salle Brothers/.keep
@@ -20,3 +19,4 @@ collections:
       - School Identity.md
       - Give to SJI.md
       - SJI Shop.md
+      - Contact.md
