@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/SJI Homepage.gif
-      button: "Contact "
-      url: /contact/
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -18,4 +16,3 @@ sections:
           description: ""
           url: /highlights/
 ---
-
