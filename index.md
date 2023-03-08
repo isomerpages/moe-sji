@@ -2,7 +2,7 @@
 layout: homepage
 title: St. Joseph's Institution
 description: St. Joseph's Institution
-image: /images/logo.png
+image: /images/schoollogo.png
 permalink: /
 notification: ""
 sections:
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /highlights/
 ---
+
