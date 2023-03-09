@@ -18,9 +18,9 @@ sections:
         - title: Box 3
           description: Key Highlight description
           url: ""
-        - title: Box 4
-          description: Key Highlight description
-          url: ""
+        - title: Procurement
+          description: ""
+          url: https://tenders.sji.edu.sg/
   - infopic:
       title: Infopic Title 1
       subtitle: Infopic Subtitle 1
