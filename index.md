@@ -16,8 +16,8 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Infopic Title 1
+      subtitle: Infopic Subtitle 1
       description: Infopic description
       button: Button Text
       alt: Image alt text
