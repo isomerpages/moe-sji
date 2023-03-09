@@ -15,6 +15,9 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/
+        - title: Highlight 3
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Infopic Title 1
       subtitle: Infopic Subtitle 1
