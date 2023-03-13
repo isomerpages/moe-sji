@@ -3,11 +3,6 @@ title: Contact SJI
 permalink: /about-sji/contact/
 description: ""
 ---
-
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,7 +46,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ryqi"><span style="color:#4C4B4B">Email:</span></td>
-    <td class="tg-5avn"><a href="mailto:contact@sji.edu.sg">contact@sji.edu.sg</a> <span style="color:#4C4B4B">/ submit Admission enquiries to</span> <a href="mailto:admissions@sji.edu.sg"><span style="text-decoration:none;color:#006A51">admissions@sji.edu.sg</span></a></td>
+    <td class="tg-5avn"><a href="mailto:contact@sji.edu.sg">contact@sji.edu.sg</a> <span style="color:#4C4B4B"> | Email Admission-related enquiries to</span> <a href="mailto:admissions@sji.edu.sg"><span style="text-decoration:none;color:#006A51">admissions@sji.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-gdnd"><span style="color:#4C4B4B">Tenders &amp; ITQs:</span></td>
@@ -59,7 +54,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mku2"><span style="color:#4C4B4B">Follow us on:</span></td>
-    <td class="tg-mku2">- <a href="https://www.facebook.com/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">facebook.com/stjosephsinstitution</span></a><br>- <a href="https://www.instagram.com/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">instagram.com/stjosephsinstitution</span></a><br>- <a href="https://www.linkedin.com/school/stjosephsinstitution" target="_blank" rel="noopener noreferrer">linkedin.com/school/stjosephsinstitution</a><br>- <a href="https://www.flickr.com/photos/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">flickr.com/photos/stjosephsinstitution</span></a><br>- <a href="https://www.youtube.com/c/StJosephsInstitution" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">youtube.com/c/StJosephsInstitution</span></a><br>- Join our community as a <a href="/community/friends-of-sji" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Friend of SJI</span></a><br><br>MOE SchoolFinder: <a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=st-josephs-institution-secondary" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">SJI (Secondary)</span></a> <span style="color:#4C4B4B">(boys-only)|</span> <a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=st-josephs-institution-junior-college" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">SJI (Junior College)</span></a><span style="color:#4C4B4B">(co-education)</span></td>
+    <td class="tg-mku2">- <a href="https://www.facebook.com/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">facebook.com/stjosephsinstitution</span></a><br>- <a href="https://www.instagram.com/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">instagram.com/stjosephsinstitution</span></a><br>- <a href="https://www.linkedin.com/school/stjosephsinstitution" target="_blank" rel="noopener noreferrer">linkedin.com/school/stjosephsinstitution</a><br>- <a href="https://www.flickr.com/photos/stjosephsinstitution/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">flickr.com/photos/stjosephsinstitution</span></a><br>- <a href="https://www.youtube.com/c/StJosephsInstitution" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">youtube.com/c/StJosephsInstitution</span></a><br>- Join our community as a <a href="/community/friends-of-sji" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">Friend of SJI</span></a><br><br>MOE SchoolFinder: <br> <a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=st-josephs-institution-secondary" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">SJI (Secondary)</span></a> <span style="color:#4C4B4B">(boys-only) | </span><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=st-josephs-institution-junior-college" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#006A51">SJI (Junior College)</span></a><span style="color:#4C4B4B"> (co-education)</span></td>
   </tr>
   <tr>
     <td class="tg-xd5l"><span style="color:#4C4B4B">Admission matters:</span></td>
