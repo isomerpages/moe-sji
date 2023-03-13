@@ -28,8 +28,8 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: "March: SJI Tennis Team Wins Bronze in NSG B-Div Championship"
-      subtitle: Infopic Subtitle 2
+      title: SJI Tennis Team Wins Bronze in NSG B-Div Championship
+      subtitle: March 2023
       description: "Congrats to our B Div Tennis boys! We defeated ACS (Barker) 4-1
         this morning to clinch 3rd place in the B Div Tennis Championships! Well
         done, boys! "
