@@ -22,11 +22,11 @@ sections:
           description: ""
           url: https://tenders.sji.edu.sg/
   - infopic:
-      title: Infopic Title 1
-      subtitle: Infopic Subtitle 1
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: A Walk in the Light of La Salle
+      subtitle: ANNOUNCEMENTS
+      button: Join us on 'A Walk in the Light of La Salle'
+      url: https://sites.google.com/sji.edu.sg/awalkinthelightoflasalle
+      image: /images/AWalkInTheLightOfLaSalle.jpg
   - infopic:
       title: SJI Tennis Team Wins Bronze in NSG B-Div Championship
       subtitle: March 2023
