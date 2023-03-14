@@ -20,11 +20,13 @@ description: ""
 .tg .tg-5avn{background-color:#F6F5F2;color:#006A51;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-xd5l{background-color:#FFF;color:#4C4B4B;text-align:left;vertical-align:top}
 </style>
+
+#### **General Office**
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3uni">General Office</th>
-    <th class="tg-p7k1"></th>
+    <th></th>
+    <th></th>
   </tr>
 </thead>
 <tbody>
@@ -34,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-gdnd"><span style="color:#4C4B4B">Address:</span></td>
-    <td class="tg-gy1k">38 Malcolm Road, Singapore 308274. <span style="color:#4C4B4B">[</span> <a href="#_ptoh_78094">Getting to SJI</a> <span style="color:#4C4B4B">]</span></td>
+    <td class="tg-gy1k">38 Malcolm Road, Singapore 308274. <br><span style="color:#4C4B4B">[</span> <a href="#_ptoh_78094">Getting to SJI</a> <span style="color:#4C4B4B">]</span></td>
   </tr>
   <tr>
     <td class="tg-ryqi"><span style="color:#4C4B4B">Phone:</span></td>
