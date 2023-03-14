@@ -15,9 +15,9 @@ sections:
         - title: STUDENTS
           description: ""
           url: https://student.sji.edu.sg/
-        - title: Box 3
-          description: Key Highlight description
-          url: ""
+        - title: PARENTS
+          description: ""
+          url: https://parent.sji.edu.sg/
         - title: Procurement
           description: ""
           url: https://tenders.sji.edu.sg/
