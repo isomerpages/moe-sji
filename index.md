@@ -12,9 +12,9 @@ sections:
         - title: STAFF
           description: ""
           url: https://app.sji.edu.sg/home.php
-        - title: Highlights
+        - title: Students
           description: ""
-          url: /highlights/
+          url: https://student.sji.edu.sg/
         - title: Box 3
           description: Key Highlight description
           url: ""
