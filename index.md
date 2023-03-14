@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/SJI Homepage.gif
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: STAFF
           description: ""
-          url: /announcements/
+          url: https://app.sji.edu.sg/home.php
         - title: Highlights
           description: ""
           url: /highlights/
