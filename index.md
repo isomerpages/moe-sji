@@ -27,6 +27,7 @@ sections:
       button: Join us on 'A Walk in the Light of La Salle'
       url: https://sites.google.com/sji.edu.sg/awalkinthelightoflasalle
       image: /images/AWalkInTheLightOfLaSalle.jpg
+      alt: A Walk in the Light of LaSalle
   - infopic:
       title: SJI Tennis Team Wins Bronze in NSG B-Div Championship
       subtitle: March 2023
