@@ -2,5 +2,4 @@ collections:
   our-people:
     output: true
     order:
-      - Our People.md
       - Careers @ SJI.md
