@@ -7,8 +7,8 @@ SJI produces several publications in a year. Please click on the titles below to
 
 <u>School Magazines:</u>
 
-*   [**SJI News**](/news-and-events/news-highlights)
-*   [**LUMEN**](/news-and-events/sji-publications#_ptoh_105040)
+*   [**SJI News**](/news-and-events/news-highlights/)
+*   [**LUMEN**](/news-and-events/sji-publications#_ptoh\_105054)
 *   [**Josephian Annual**](/news-and-events/sji-publications#_ptoh_105065)
 
 <u>Books:</u>
@@ -23,10 +23,7 @@ SJI produces several publications in a year. Please click on the titles below to
 *   1977 - [**125th Anniversary Magazine**](/news-and-events/sji-publications#_ptoh_105061)
 
 If you wish to subscribe to our publications by email, you may sign up with us via [**Friends of SJI**](/community/friends-of-sji).
-
-  
-
-* * *
+<hr>
 
 <h4 id="_ptoh_105054">• LUMEN</h4>
 
