@@ -12,7 +12,7 @@ sections:
         - title: STAFF
           description: ""
           url: https://app.sji.edu.sg/home.php
-        - title: Students
+        - title: STUDENTS
           description: ""
           url: https://student.sji.edu.sg/
         - title: Box 3
